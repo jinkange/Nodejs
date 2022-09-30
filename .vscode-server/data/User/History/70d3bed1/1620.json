@@ -1,0 +1,8 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "remote.SSH.remotePlatform": {
+        "AWS": "linux",
+        "Jinkange": "linux"
+    },
+    "workbench.startupEditor": "none"
+}

@@ -1,0 +1,15 @@
+[2022-09-17 03:51:02.736] [exthost] [info] Extension host with pid 8865 started
+[2022-09-17 03:51:02.751] [exthost] [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/79c8c1bf689d18c431c5140b29fc52cc/vscode.lock': Lock acquired.
+[2022-09-17 03:51:02.912] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-09-17 03:51:02.968] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-09-17 03:51:02.972] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-09-17 03:51:02.977] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-09-17 03:51:03.006] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+[2022-09-17 03:51:03.733] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-09-17 03:51:04.174] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-09-17 03:51:05.062] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-09-17 03:51:05.175] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-09-17 03:51:05.201] [exthost] [info] Eager extensions activated
+[2022-09-17 06:48:57.239] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-09-17 06:48:57.239] [exthost] [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/79c8c1bf689d18c431c5140b29fc52cc/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-09-17 06:48:57.270] [exthost] [info] Extension host with pid 8865 exiting with code 0

@@ -1,0 +1,26 @@
+[2022-09-15 05:29:35.821] [remoteagent] [info] Extension host agent started.
+[2022-09-15 05:29:36.177] [remoteagent] [info] [127.0.0.1][4dc839c7][ManagementConnection] New connection established.
+[2022-09-15 05:29:36.269] [remoteagent] [info] [127.0.0.1][39e0d34b][ExtensionHostConnection] New connection established.
+[2022-09-15 05:29:36.289] [remoteagent] [info] [127.0.0.1][39e0d34b][ExtensionHostConnection] <6448> Launched Extension Host Process.
+[2022-09-15 05:31:44.249] [remoteagent] [info] [127.0.0.1][4dc839c7][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-09-15 05:31:44.276] [remoteagent] [info] [127.0.0.1][39e0d34b][ExtensionHostConnection] <6448> Extension Host Process exited with code: 0, signal: null.
+[2022-09-15 05:31:44.277] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-09-15 05:31:46.862] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2022-09-15 05:31:46.862] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-09-15 05:31:46.968] [remoteagent] [info] [127.0.0.1][015ac74e][ManagementConnection] New connection established.
+[2022-09-15 05:31:47.049] [remoteagent] [info] [127.0.0.1][214bb86d][ExtensionHostConnection] New connection established.
+[2022-09-15 05:31:47.071] [remoteagent] [info] [127.0.0.1][214bb86d][ExtensionHostConnection] <6800> Launched Extension Host Process.
+[2022-09-15 05:31:49.217] [remoteagent] [error] ["CodeExpectedError: Could not find pty on pty host","    at c._throwIfNoPty (/home/ubuntu/.vscode-server/bin/e7f30e38c5a4efafeec8ad52861eb772a9ee4dfb/out/vs/platform/terminal/node/ptyHostMain.js:23:36316)","    at c.updateTitle (/home/ubuntu/.vscode-server/bin/e7f30e38c5a4efafeec8ad52861eb772a9ee4dfb/out/vs/platform/terminal/node/ptyHostMain.js:23:32064)","    at Object.call (/home/ubuntu/.vscode-server/bin/e7f30e38c5a4efafeec8ad52861eb772a9ee4dfb/out/vs/platform/terminal/node/ptyHostMain.js:16:8386)","    at u.onPromise (/home/ubuntu/.vscode-server/bin/e7f30e38c5a4efafeec8ad52861eb772a9ee4dfb/out/vs/platform/terminal/node/ptyHostMain.js:15:5851)","    at u.onRawMessage (/home/ubuntu/.vscode-server/bin/e7f30e38c5a4efafeec8ad52861eb772a9ee4dfb/out/vs/platform/terminal/node/ptyHostMain.js:15:5234)","    at /home/ubuntu/.vscode-server/bin/e7f30e38c5a4efafeec8ad52861eb772a9ee4dfb/out/vs/platform/terminal/node/ptyHostMain.js:15:4520","    at p.invoke (/home/ubuntu/.vscode-server/bin/e7f30e38c5a4efafeec8ad52861eb772a9ee4dfb/out/vs/platform/terminal/node/ptyHostMain.js:11:145)","    at D.deliver (/home/ubuntu/.vscode-server/bin/e7f30e38c5a4efafeec8ad52861eb772a9ee4dfb/out/vs/platform/terminal/node/ptyHostMain.js:11:2275)","    at T.fire (/home/ubuntu/.vscode-server/bin/e7f30e38c5a4efafeec8ad52861eb772a9ee4dfb/out/vs/platform/terminal/node/ptyHostMain.js:11:1853)","    at process.Q (/home/ubuntu/.vscode-server/bin/e7f30e38c5a4efafeec8ad52861eb772a9ee4dfb/out/vs/platform/terminal/node/ptyHostMain.js:9:20703)","    at process.emit (node:events:526:28)","    at emit (node:internal/child_process:938:14)","    at processTicksAndRejections (node:internal/process/task_queues:84:21)"]
+[2022-09-15 05:32:00.728] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:3000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+[2022-09-15 05:32:00.992] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:3000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+[2022-09-15 05:32:41.745] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:3000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+[2022-09-15 05:32:41.746] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:3000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+[2022-09-15 05:32:41.977] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:3000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+[2022-09-15 05:34:35.244] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-09-15 05:35:26.137] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-09-15 05:36:33.409] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds

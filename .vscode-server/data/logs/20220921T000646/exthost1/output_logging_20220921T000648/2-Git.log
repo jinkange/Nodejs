@@ -1,0 +1,38 @@
+[2022-09-21T00:06:49.921Z] Log level: Info
+[2022-09-21T00:06:49.952Z] [info] Validating found git in: git
+[2022-09-21T00:06:50.066Z] [info] Using git 2.34.1 from git
+[2022-09-21T00:06:50.182Z] > git rev-parse --show-toplevel [58ms]
+[2022-09-21T00:06:50.182Z] fatal: detected dubious ownership in repository at '/home/ubuntu/jinkange'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ubuntu/jinkange
+[2022-09-21T00:06:50.242Z] > git rev-parse --show-toplevel [31ms]
+[2022-09-21T00:06:50.242Z] fatal: detected dubious ownership in repository at '/home/ubuntu/jinkange'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ubuntu/jinkange
+[2022-09-21T00:06:50.279Z] > git rev-parse --show-toplevel [23ms]
+[2022-09-21T00:06:50.279Z] fatal: detected dubious ownership in repository at '/home/ubuntu/jinkange'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ubuntu/jinkange
+[2022-09-21T00:06:50.391Z] > git rev-parse --show-toplevel [87ms]
+[2022-09-21T00:06:50.391Z] fatal: detected dubious ownership in repository at '/home/ubuntu/jinkange'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ubuntu/jinkange
+[2022-09-21T00:06:50.508Z] > git rev-parse --show-toplevel [92ms]
+[2022-09-21T00:06:50.508Z] fatal: detected dubious ownership in repository at '/home/ubuntu/jinkange'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ubuntu/jinkange
+[2022-09-21T00:06:50.599Z] > git rev-parse --show-toplevel [72ms]
+[2022-09-21T00:06:50.599Z] fatal: detected dubious ownership in repository at '/home/ubuntu/jinkange'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ubuntu/jinkange
+[2022-09-21T00:06:50.650Z] > git rev-parse --show-toplevel [30ms]
+[2022-09-21T00:06:50.650Z] fatal: detected dubious ownership in repository at '/home/ubuntu/jinkange'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ubuntu/jinkange
