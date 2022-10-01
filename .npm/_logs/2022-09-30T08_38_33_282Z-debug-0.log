@@ -1,0 +1,438 @@
+0 verbose cli [ '/usr/bin/node', '/usr/bin/npm', 'install', 'require' ]
+1 info using npm@8.5.1
+2 info using node@v12.22.9
+3 timing npm:load:whichnode Completed in 0ms
+4 timing config:load:defaults Completed in 2ms
+5 timing config:load:file:/usr/share/nodejs/npm/npmrc Completed in 3ms
+6 timing config:load:builtin Completed in 4ms
+7 timing config:load:cli Completed in 1ms
+8 timing config:load:env Completed in 1ms
+9 timing config:load:file:/home/ubuntu/express/Nodejs/.npmrc Completed in 0ms
+10 timing config:load:project Completed in 2ms
+11 timing config:load:file:/home/ubuntu/.npmrc Completed in 0ms
+12 timing config:load:user Completed in 1ms
+13 timing config:load:file:/etc/npmrc Completed in 0ms
+14 timing config:load:global Completed in 0ms
+15 timing config:load:validate Completed in 1ms
+16 timing config:load:credentials Completed in 1ms
+17 timing config:load:setEnvs Completed in 1ms
+18 timing config:load Completed in 14ms
+19 timing npm:load:configload Completed in 14ms
+20 timing npm:load:setTitle Completed in 1ms
+21 timing config:load:flatten Completed in 4ms
+22 timing npm:load:display Completed in 7ms
+23 verbose logfile /home/ubuntu/.npm/_logs/2022-09-30T08_38_33_282Z-debug-0.log
+24 timing npm:load:logFile Completed in 8ms
+25 timing npm:load:timers Completed in 0ms
+26 timing npm:load:configScope Completed in 0ms
+27 timing npm:load Completed in 32ms
+28 timing arborist:ctor Completed in 4ms
+29 silly logfile start cleaning logs, removing 1 files
+30 timing idealTree:init Completed in 297ms
+31 timing idealTree:userRequests Completed in 3ms
+32 silly idealTree buildDeps
+33 silly fetch manifest require@*
+34 timing arborist:ctor Completed in 0ms
+35 http fetch GET 200 https://registry.npmjs.org/require 263ms (cache miss)
+36 silly placeDep ROOT require@2.4.20 OK for: web2-nodejs@1.0.0 want: *
+37 silly fetch manifest uglify-js@2.3.0
+38 silly fetch manifest std@0.1.40
+39 http fetch GET 200 https://registry.npmjs.org/uglify-js 57ms (cache miss)
+40 http fetch GET 200 https://registry.npmjs.org/std 230ms (cache miss)
+41 timing idealTree:#root Completed in 508ms
+42 silly placeDep ROOT std@0.1.40 OK for: require@2.4.20 want: 0.1.40
+43 silly placeDep ROOT uglify-js@2.3.0 OK for: require@2.4.20 want: 2.3.0
+44 silly fetch manifest async@~0.2.6
+45 silly fetch manifest source-map@~0.1.7
+46 silly fetch manifest optimist@~0.3.5
+47 http fetch GET 200 https://registry.npmjs.org/source-map 47ms (cache miss)
+48 http fetch GET 200 https://registry.npmjs.org/async 51ms (cache miss)
+49 http fetch GET 200 https://registry.npmjs.org/optimist 54ms (cache miss)
+50 timing idealTree:node_modules/require Completed in 65ms
+51 timing idealTree:node_modules/std Completed in 0ms
+52 silly placeDep node_modules/uglify-js async@0.2.10 OK for: uglify-js@2.3.0 want: ~0.2.6
+53 silly placeDep ROOT optimist@0.3.7 OK for: uglify-js@2.3.0 want: ~0.3.5
+54 silly placeDep node_modules/uglify-js source-map@0.1.43 OK for: uglify-js@2.3.0 want: ~0.1.7
+55 silly fetch manifest wordwrap@~0.0.2
+56 silly fetch manifest amdefine@>=0.0.4
+57 http fetch GET 200 https://registry.npmjs.org/wordwrap 32ms (cache miss)
+58 http fetch GET 200 https://registry.npmjs.org/amdefine 39ms (cache miss)
+59 timing idealTree:node_modules/uglify-js Completed in 86ms
+60 silly placeDep ROOT wordwrap@0.0.3 OK for: optimist@0.3.7 want: ~0.0.2
+61 timing idealTree:node_modules/optimist Completed in 2ms
+62 timing idealTree:node_modules/wordwrap Completed in 0ms
+63 timing idealTree:node_modules/uglify-js/node_modules/async Completed in 0ms
+64 silly placeDep ROOT amdefine@1.0.1 OK for: source-map@0.1.43 want: >=0.0.4
+65 timing idealTree:node_modules/uglify-js/node_modules/source-map Completed in 2ms
+66 timing idealTree:node_modules/amdefine Completed in 0ms
+67 timing idealTree:buildDeps Completed in 666ms
+68 timing idealTree:fixDepFlags Completed in 5ms
+69 timing idealTree Completed in 977ms
+70 timing reify:loadTrees Completed in 978ms
+71 timing reify:diffTrees Completed in 7ms
+72 silly reify moves {}
+73 timing reify:retireShallow Completed in 1ms
+74 timing reify:createSparse Completed in 8ms
+75 timing reify:loadBundles Completed in 0ms
+76 silly audit bulk request {
+76 silly audit   '@opencensus/core': [ '0.0.9', '0.0.8' ],
+76 silly audit   semver: [ '5.7.1', '7.2.3', '6.3.0', '7.3.7' ],
+76 silly audit   '@opencensus/propagation-b3': [ '0.0.8' ],
+76 silly audit   '@pm2/agent': [ '2.0.1' ],
+76 silly audit   'ansi-styles': [ '4.3.0', '3.2.1' ],
+76 silly audit   chalk: [ '3.0.0', '2.4.1' ],
+76 silly audit   'color-convert': [ '2.0.1', '1.9.1' ],
+76 silly audit   'has-flag': [ '4.0.0', '3.0.0' ],
+76 silly audit   'supports-color': [ '7.2.0', '5.4.0' ],
+76 silly audit   '@pm2/io': [ '5.0.0' ],
+76 silly audit   async: [ '2.6.4', '3.2.4', '0.2.10' ],
+76 silly audit   eventemitter2: [ '6.4.9', '5.0.1', '0.4.14' ],
+76 silly audit   '@pm2/js-api': [ '0.6.7' ],
+76 silly audit   '@pm2/pm2-version-check': [ '1.0.4' ],
+76 silly audit   '@tootallnate/once': [ '1.1.2' ],
+76 silly audit   acorn: [ '8.8.0' ],
+76 silly audit   'acorn-walk': [ '8.2.0' ],
+76 silly audit   'agent-base': [ '6.0.2' ],
+76 silly audit   amp: [ '0.3.1' ],
+76 silly audit   'amp-message': [ '0.1.2' ],
+76 silly audit   'ansi-colors': [ '4.1.3' ],
+76 silly audit   anymatch: [ '3.1.2' ],
+76 silly audit   argparse: [ '1.0.10' ],
+76 silly audit   'sprintf-js': [ '1.0.3', '1.1.2' ],
+76 silly audit   'array-uniq': [ '1.0.3' ],
+76 silly audit   'ast-types': [ '0.13.4' ],
+76 silly audit   tslib: [ '2.4.0', '1.9.3' ],
+76 silly audit   'async-listener': [ '0.6.10' ],
+76 silly audit   axios: [ '0.21.4' ],
+76 silly audit   'balanced-match': [ '1.0.2' ],
+76 silly audit   'binary-extensions': [ '2.2.0' ],
+76 silly audit   blessed: [ '0.1.81' ],
+76 silly audit   bodec: [ '0.1.0' ],
+76 silly audit   'brace-expansion': [ '1.1.11' ],
+76 silly audit   braces: [ '3.0.2' ],
+76 silly audit   'buffer-from': [ '1.1.2' ],
+76 silly audit   bytes: [ '3.1.2' ],
+76 silly audit   charm: [ '0.1.2' ],
+76 silly audit   chokidar: [ '3.5.3' ],
+76 silly audit   'cli-tableau': [ '2.0.1' ],
+76 silly audit   'color-name': [ '1.1.4' ],
+76 silly audit   commander: [ '2.15.1' ],
+76 silly audit   'concat-map': [ '0.0.1' ],
+76 silly audit   'continuation-local-storage': [ '3.2.1' ],
+76 silly audit   'core-util-is': [ '1.0.2' ],
+76 silly audit   croner: [ '4.1.97' ],
+76 silly audit   culvert: [ '0.1.2' ],
+76 silly audit   'data-uri-to-buffer': [ '3.0.1' ],
+76 silly audit   dayjs: [ '1.8.36' ],
+76 silly audit   debug: [ '4.3.4', '3.2.7' ],
+76 silly audit   'deep-is': [ '0.1.4' ],
+76 silly audit   degenerator: [ '3.0.2' ],
+76 silly audit   depd: [ '2.0.0' ],
+76 silly audit   'dom-serializer': [ '0.1.0' ],
+76 silly audit   domelementtype: [ '1.1.3', '1.3.0' ],
+76 silly audit   domhandler: [ '2.4.2' ],
+76 silly audit   domutils: [ '1.7.0' ],
+76 silly audit   'emitter-listener': [ '1.1.2' ],
+76 silly audit   enquirer: [ '2.3.6' ],
+76 silly audit   entities: [ '1.1.1' ],
+76 silly audit   'escape-string-regexp': [ '1.0.5', '4.0.0' ],
+76 silly audit   escodegen: [ '1.14.3' ],
+76 silly audit   esprima: [ '4.0.1' ],
+76 silly audit   estraverse: [ '4.3.0' ],
+76 silly audit   esutils: [ '2.0.3' ],
+76 silly audit   'fast-json-patch': [ '3.1.1' ],
+76 silly audit   'fast-levenshtein': [ '2.0.6' ],
+76 silly audit   fclone: [ '1.0.11' ],
+76 silly audit   'file-uri-to-path': [ '2.0.0' ],
+76 silly audit   'fill-range': [ '7.0.1' ],
+76 silly audit   'follow-redirects': [ '1.15.2' ],
+76 silly audit   'fs-extra': [ '8.1.0' ],
+76 silly audit   'fs.realpath': [ '1.0.0' ],
+76 silly audit   fsevents: [ '2.3.2' ],
+76 silly audit   ftp: [ '0.3.10' ],
+76 silly audit   isarray: [ '0.0.1', '1.0.0' ],
+76 silly audit   'readable-stream': [ '1.1.14', '2.3.6' ],
+76 silly audit   string_decoder: [ '0.10.31', '1.1.1' ],
+76 silly audit   'function-bind': [ '1.1.1' ],
+76 silly audit   'get-uri': [ '3.0.2' ],
+76 silly audit   'git-node-fs': [ '1.0.0' ],
+76 silly audit   'git-sha1': [ '0.1.2' ],
+76 silly audit   glob: [ '7.2.3' ],
+76 silly audit   'glob-parent': [ '5.1.2' ],
+76 silly audit   'graceful-fs': [ '4.2.10' ],
+76 silly audit   has: [ '1.0.3' ],
+76 silly audit   htmlparser2: [ '3.9.2' ],
+76 silly audit   'http-errors': [ '2.0.0' ],
+76 silly audit   'http-proxy-agent': [ '4.0.1' ],
+76 silly audit   'https-proxy-agent': [ '5.0.1' ],
+76 silly audit   'iconv-lite': [ '0.4.24' ],
+76 silly audit   inflight: [ '1.0.6' ],
+76 silly audit   inherits: [ '2.0.4' ],
+76 silly audit   ini: [ '1.3.8' ],
+76 silly audit   ip: [ '1.1.8', '2.0.0' ],
+76 silly audit   'is-binary-path': [ '2.1.0' ],
+76 silly audit   'is-core-module': [ '2.10.0' ],
+76 silly audit   'is-extglob': [ '2.1.1' ],
+76 silly audit   'is-glob': [ '4.0.3' ],
+76 silly audit   'is-number': [ '7.0.0' ],
+76 silly audit   'js-git': [ '0.7.8' ],
+76 silly audit   'json-stringify-safe': [ '5.0.1' ],
+76 silly audit   jsonfile: [ '4.0.0' ],
+76 silly audit   lazy: [ '1.0.11' ],
+76 silly audit   levn: [ '0.3.0' ],
+76 silly audit   lodash: [ '4.17.21' ],
+76 silly audit   'lodash.clonedeep': [ '4.5.0' ],
+76 silly audit   'lodash.escaperegexp': [ '4.1.2' ],
+76 silly audit   'lodash.isplainobject': [ '4.0.6' ],
+76 silly audit   'lodash.isstring': [ '4.0.1' ],
+76 silly audit   'lodash.mergewith': [ '4.6.1' ],
+76 silly audit   'log-driver': [ '1.2.7' ],
+76 silly audit   'lru-cache': [ '5.1.1', '6.0.0' ],
+76 silly audit   minimatch: [ '3.1.2' ],
+76 silly audit   mkdirp: [ '1.0.4' ],
+76 silly audit   'module-details-from-path': [ '1.0.3' ],
+76 silly audit   ms: [ '2.1.2' ],
+76 silly audit   'mute-stream': [ '0.0.8' ],
+76 silly audit   needle: [ '2.4.0' ],
+76 silly audit   netmask: [ '2.0.2' ],
+76 silly audit   'normalize-path': [ '3.0.0' ],
+76 silly audit   nssocket: [ '0.6.0' ],
+76 silly audit   'number-is-nan': [ '1.0.1' ],
+76 silly audit   once: [ '1.4.0' ],
+76 silly audit   optionator: [ '0.8.3' ],
+76 silly audit   'pac-proxy-agent': [ '5.0.0' ],
+76 silly audit   'pac-resolver': [ '5.0.1' ],
+76 silly audit   pako: [ '0.2.9' ],
+76 silly audit   'path-is-absolute': [ '1.0.1' ],
+76 silly audit   'path-parse': [ '1.0.7' ],
+76 silly audit   picomatch: [ '2.3.1' ],
+76 silly audit   pidusage: [ '3.0.0', '2.0.21' ],
+76 silly audit   'safe-buffer': [ '5.2.1', '5.1.2' ],
+76 silly audit   pm2: [ '5.2.0' ],
+76 silly audit   'pm2-axon': [ '4.0.1' ],
+76 silly audit   'pm2-axon-rpc': [ '0.7.1' ],
+76 silly audit   'pm2-deploy': [ '1.0.2' ],
+76 silly audit   'pm2-multimeter': [ '0.1.2' ],
+76 silly audit   'pm2-sysmonit': [ '1.2.8' ],
+76 silly audit   postcss: [ '6.0.22' ],
+76 silly audit   'prelude-ls': [ '1.1.2' ],
+76 silly audit   'process-nextick-args': [ '2.0.0' ],
+76 silly audit   promptly: [ '2.2.0' ],
+76 silly audit   'proxy-agent': [ '5.0.0' ],
+76 silly audit   'proxy-from-env': [ '1.1.0' ],
+76 silly audit   'raw-body': [ '2.5.1' ],
+76 silly audit   read: [ '1.0.7' ],
+76 silly audit   readdirp: [ '3.6.0' ],
+76 silly audit   'require-in-the-middle': [ '5.2.0' ],
+76 silly audit   resolve: [ '1.22.1' ],
+76 silly audit   'run-series': [ '1.1.9' ],
+76 silly audit   'safer-buffer': [ '2.1.2' ],
+76 silly audit   'sanitize-html': [ '1.18.2' ],
+76 silly audit   sax: [ '1.2.4' ],
+76 silly audit   yallist: [ '4.0.0', '3.1.1' ],
+76 silly audit   setprototypeof: [ '1.2.0' ],
+76 silly audit   shimmer: [ '1.2.1' ],
+76 silly audit   'signal-exit': [ '3.0.7' ],
+76 silly audit   'smart-buffer': [ '4.2.0' ],
+76 silly audit   socks: [ '2.7.0' ],
+76 silly audit   'socks-proxy-agent': [ '5.0.1' ],
+76 silly audit   'source-map': [ '0.6.1', '0.1.43' ],
+76 silly audit   'source-map-support': [ '0.5.19' ],
+76 silly audit   srcset: [ '1.0.0' ],
+76 silly audit   statuses: [ '2.0.1' ],
+76 silly audit   'supports-preserve-symlinks-flag': [ '1.0.0' ],
+76 silly audit   systeminformation: [ '5.12.6' ],
+76 silly audit   'to-regex-range': [ '5.0.1' ],
+76 silly audit   toidentifier: [ '1.0.1' ],
+76 silly audit   tv4: [ '1.3.0' ],
+76 silly audit   tx2: [ '1.0.5' ],
+76 silly audit   'type-check': [ '0.3.2' ],
+76 silly audit   universalify: [ '0.1.2' ],
+76 silly audit   unpipe: [ '1.0.0' ],
+76 silly audit   'util-deprecate': [ '1.0.2' ],
+76 silly audit   uuid: [ '3.4.0' ],
+76 silly audit   vizion: [ '2.2.1' ],
+76 silly audit   vm2: [ '3.9.11' ],
+76 silly audit   'word-wrap': [ '1.2.3' ],
+76 silly audit   wrappy: [ '1.0.2' ],
+76 silly audit   ws: [ '7.4.6' ],
+76 silly audit   xregexp: [ '2.0.0' ],
+76 silly audit   xtend: [ '4.0.1' ],
+76 silly audit   yamljs: [ '0.3.0' ],
+76 silly audit   require: [ '2.4.20' ],
+76 silly audit   std: [ '0.1.40' ],
+76 silly audit   'uglify-js': [ '2.3.0' ],
+76 silly audit   optimist: [ '0.3.7' ],
+76 silly audit   wordwrap: [ '0.0.3' ],
+76 silly audit   amdefine: [ '1.0.1' ]
+76 silly audit }
+77 verbose reify failed optional dependency /home/ubuntu/express/Nodejs/node_modules/fsevents
+78 silly reify mark deleted [ '/home/ubuntu/express/Nodejs/node_modules/fsevents' ]
+79 timing reifyNode:node_modules/fsevents Completed in 8ms
+80 silly tarball no local data for amdefine@https://registry.npmjs.org/amdefine/-/amdefine-1.0.1.tgz. Extracting by manifest.
+81 silly tarball no local data for wordwrap@https://registry.npmjs.org/wordwrap/-/wordwrap-0.0.3.tgz. Extracting by manifest.
+82 silly tarball no local data for optimist@https://registry.npmjs.org/optimist/-/optimist-0.3.7.tgz. Extracting by manifest.
+83 silly tarball no local data for uglify-js@https://registry.npmjs.org/uglify-js/-/uglify-js-2.3.0.tgz. Extracting by manifest.
+84 silly tarball no local data for std@https://registry.npmjs.org/std/-/std-0.1.40.tgz. Extracting by manifest.
+85 silly tarball no local data for require@https://registry.npmjs.org/require/-/require-2.4.20.tgz. Extracting by manifest.
+86 silly tarball no local data for source-map@https://registry.npmjs.org/source-map/-/source-map-0.1.43.tgz. Extracting by manifest.
+87 silly tarball no local data for async@https://registry.npmjs.org/async/-/async-0.2.10.tgz. Extracting by manifest.
+88 http fetch GET 200 https://registry.npmjs.org/wordwrap/-/wordwrap-0.0.3.tgz 155ms (cache miss)
+89 timing reifyNode:node_modules/wordwrap Completed in 182ms
+90 http fetch GET 200 https://registry.npmjs.org/amdefine/-/amdefine-1.0.1.tgz 170ms (cache miss)
+91 timing reifyNode:node_modules/amdefine Completed in 190ms
+92 http fetch POST 200 https://registry.npmjs.org/-/npm/v1/security/advisories/bulk 253ms
+93 timing auditReport:getReport Completed in 261ms
+94 silly audit report {
+94 silly audit report   postcss: [
+94 silly audit report     {
+94 silly audit report       id: 1070012,
+94 silly audit report       url: 'https://github.com/advisories/GHSA-566m-qj78-rww5',
+94 silly audit report       title: 'Regular Expression Denial of Service in postcss',
+94 silly audit report       severity: 'moderate',
+94 silly audit report       vulnerable_versions: '<7.0.36',
+94 silly audit report       cwe: [Array],
+94 silly audit report       cvss: [Object]
+94 silly audit report     }
+94 silly audit report   ],
+94 silly audit report   'sanitize-html': [
+94 silly audit report     {
+94 silly audit report       id: 1070260,
+94 silly audit report       url: 'https://github.com/advisories/GHSA-rjqq-98f6-6j3r',
+94 silly audit report       title: 'Improper Input Validation in sanitize-html',
+94 silly audit report       severity: 'moderate',
+94 silly audit report       vulnerable_versions: '<2.3.1',
+94 silly audit report       cwe: [Array],
+94 silly audit report       cvss: [Object]
+94 silly audit report     },
+94 silly audit report     {
+94 silly audit report       id: 1082330,
+94 silly audit report       url: 'https://github.com/advisories/GHSA-mjxr-4v3x-q3m4',
+94 silly audit report       title: 'Improper Input Validation in sanitize-html',
+94 silly audit report       severity: 'moderate',
+94 silly audit report       vulnerable_versions: '<2.3.2',
+94 silly audit report       cwe: [Array],
+94 silly audit report       cvss: [Object]
+94 silly audit report     }
+94 silly audit report   ],
+94 silly audit report   'lodash.mergewith': [
+94 silly audit report     {
+94 silly audit report       id: 1068700,
+94 silly audit report       url: 'https://github.com/advisories/GHSA-779f-wgxg-qr8f',
+94 silly audit report       title: 'Prototype Pollution in lodash.mergewith',
+94 silly audit report       severity: 'high',
+94 silly audit report       vulnerable_versions: '<4.6.2',
+94 silly audit report       cwe: [Array],
+94 silly audit report       cvss: [Object]
+94 silly audit report     },
+94 silly audit report     {
+94 silly audit report       id: 1069551,
+94 silly audit report       url: 'https://github.com/advisories/GHSA-jf85-cpcp-j695',
+94 silly audit report       title: 'Prototype Pollution in lodash',
+94 silly audit report       severity: 'critical',
+94 silly audit report       vulnerable_versions: '<4.6.2',
+94 silly audit report       cwe: [Array],
+94 silly audit report       cvss: [Object]
+94 silly audit report     }
+94 silly audit report   ],
+94 silly audit report   'uglify-js': [
+94 silly audit report     {
+94 silly audit report       id: 1069960,
+94 silly audit report       url: 'https://github.com/advisories/GHSA-34r7-q49f-h37c',
+94 silly audit report       title: 'Incorrect Handling of Non-Boolean Comparisons During Minification in uglify-js',
+94 silly audit report       severity: 'critical',
+94 silly audit report       vulnerable_versions: '<2.4.24',
+94 silly audit report       cwe: [Array],
+94 silly audit report       cvss: [Object]
+94 silly audit report     },
+94 silly audit report     {
+94 silly audit report       id: 1069961,
+94 silly audit report       url: 'https://github.com/advisories/GHSA-c9f4-xj24-8jqx',
+94 silly audit report       title: 'Regular Expression Denial of Service in uglify-js',
+94 silly audit report       severity: 'high',
+94 silly audit report       vulnerable_versions: '<2.6.0',
+94 silly audit report       cwe: [],
+94 silly audit report       cvss: [Object]
+94 silly audit report     }
+94 silly audit report   ]
+94 silly audit report }
+95 timing metavuln:packument:uglify-js Completed in 9ms
+96 timing metavuln:cache:get:security-advisory:uglify-js:x95Ymvqw97xJyZlqtStWFpldMClOD0tcNg4Nuntd7/ZgluZ7Z5TzHMC13ygGCYg9oUsGIj/hjK8xPIVoxp/NPw== Completed in 24ms
+97 timing metavuln:load:security-advisory:uglify-js:1069960 Completed in 32ms
+98 timing metavuln:cache:get:security-advisory:uglify-js:TQYmZF3Ih/spfGJvVRU3bqlKGTLNI70sGjnYCv4EvxECYqJLc0UZuUZiSn71tQ0mkMKjQ9kfrIenFj1vUTArZg== Completed in 49ms
+99 timing metavuln:load:security-advisory:uglify-js:1069961 Completed in 6ms
+100 timing metavuln:cache:get:security-advisory:postcss:MGRqK7LkE26zB3m3suZzhHjsoH7nTb1RaLM3nOrE9K425NJFtIR5f9orepJzYB2usvCWPK3hyg5robVehgh10w== Completed in 157ms
+101 timing metavuln:cache:get:security-advisory:sanitize-html:FIZ3dEiiFA2CS042mYZ1j+1tF9NQjwYFpy+AYzM3YAgjwvF2VV5b0VexzJOqgfzHNNvQ5WOWQSmooEeEdxwf7A== Completed in 156ms
+102 timing metavuln:cache:get:security-advisory:sanitize-html:uss5PirjpvHSjRzKY3fbEcTC3SPjds2ZEhAFGCEKXE4bNsiWf0IwwcacddzEjkdtLnDyDF4bzwH9BYeXT0evqg== Completed in 155ms
+103 timing metavuln:cache:get:security-advisory:lodash.mergewith:KEaW7rz+QyTRT5dVOwRFYqdYOucC7CxG7ilw72wFxYAAqqCDyr+vTxUDxbhbY5kNWy9J55ujfOAZTXZs3iCRWg== Completed in 155ms
+104 timing metavuln:cache:get:security-advisory:lodash.mergewith:xb2mrQUPYqLAxOmEk6ppmpC7upRmWxT8F1Cue/+La+UEbmV/WKlF36+tOZ/ToH4FKuaLb1AKnoj17u8DLC2c9A== Completed in 150ms
+105 timing metavuln:cache:put:security-advisory:uglify-js:x95Ymvqw97xJyZlqtStWFpldMClOD0tcNg4Nuntd7/ZgluZ7Z5TzHMC13ygGCYg9oUsGIj/hjK8xPIVoxp/NPw== Completed in 116ms
+106 timing metavuln:calculate:security-advisory:uglify-js:1069960 Completed in 174ms
+107 timing metavuln:cache:put:security-advisory:uglify-js:TQYmZF3Ih/spfGJvVRU3bqlKGTLNI70sGjnYCv4EvxECYqJLc0UZuUZiSn71tQ0mkMKjQ9kfrIenFj1vUTArZg== Completed in 110ms
+108 timing metavuln:calculate:security-advisory:uglify-js:1069961 Completed in 166ms
+109 http fetch GET 200 https://registry.npmjs.org/lodash.mergewith 176ms (cache miss)
+110 timing metavuln:packument:lodash.mergewith Completed in 182ms
+111 timing metavuln:load:security-advisory:lodash.mergewith:1068700 Completed in 0ms
+112 timing metavuln:calculate:security-advisory:lodash.mergewith:1068700 Completed in 182ms
+113 timing metavuln:load:security-advisory:lodash.mergewith:1069551 Completed in 0ms
+114 timing metavuln:calculate:security-advisory:lodash.mergewith:1069551 Completed in 178ms
+115 http fetch GET 200 https://registry.npmjs.org/postcss 197ms (cache miss)
+116 timing metavuln:packument:postcss Completed in 200ms
+117 timing metavuln:load:security-advisory:postcss:1070012 Completed in 1ms
+118 timing metavuln:calculate:security-advisory:postcss:1070012 Completed in 203ms
+119 http fetch GET 200 https://registry.npmjs.org/async/-/async-0.2.10.tgz 357ms (cache miss)
+120 timing reifyNode:node_modules/uglify-js/node_modules/async Completed in 471ms
+121 http fetch GET 200 https://registry.npmjs.org/require/-/require-2.4.20.tgz 441ms (cache miss)
+122 timing reifyNode:node_modules/require Completed in 501ms
+123 http fetch GET 200 https://registry.npmjs.org/optimist/-/optimist-0.3.7.tgz 477ms (cache miss)
+124 timing reifyNode:node_modules/optimist Completed in 507ms
+125 http fetch GET 200 https://registry.npmjs.org/sanitize-html 268ms (cache miss)
+126 timing metavuln:packument:sanitize-html Completed in 269ms
+127 timing metavuln:load:security-advisory:sanitize-html:1070260 Completed in 5ms
+128 timing metavuln:calculate:security-advisory:sanitize-html:1070260 Completed in 275ms
+129 timing metavuln:load:security-advisory:sanitize-html:1082330 Completed in 0ms
+130 timing metavuln:calculate:security-advisory:sanitize-html:1082330 Completed in 274ms
+131 timing metavuln:cache:get:security-advisory:sanitize-html:nnenW8EAAwuQVANM6Axtz6IIIYC/lEzgFO3pvbFW40AgoPirp0bT2+BTAtrcyapkigdyH30tfU8fG6S/msuGwQ== Completed in 9ms
+132 timing metavuln:load:security-advisory:sanitize-html:MGRqK7LkE26zB3m3suZzhHjsoH7nTb1RaLM3nOrE9K425NJFtIR5f9orepJzYB2usvCWPK3hyg5robVehgh10w== Completed in 1ms
+133 timing metavuln:calculate:security-advisory:sanitize-html:MGRqK7LkE26zB3m3suZzhHjsoH7nTb1RaLM3nOrE9K425NJFtIR5f9orepJzYB2usvCWPK3hyg5robVehgh10w== Completed in 10ms
+134 timing metavuln:cache:get:security-advisory:sanitize-html:JnHFhrMwcS0BJo3Srrq45XyLwK3ptZYUHLJ+3RNWFLyp1N0VxM2CWbiDJyS4C81OvtnyC7mNlMWSJtFwfXCyzg== Completed in 16ms
+135 timing metavuln:load:security-advisory:sanitize-html:KEaW7rz+QyTRT5dVOwRFYqdYOucC7CxG7ilw72wFxYAAqqCDyr+vTxUDxbhbY5kNWy9J55ujfOAZTXZs3iCRWg== Completed in 0ms
+136 timing metavuln:calculate:security-advisory:sanitize-html:KEaW7rz+QyTRT5dVOwRFYqdYOucC7CxG7ilw72wFxYAAqqCDyr+vTxUDxbhbY5kNWy9J55ujfOAZTXZs3iCRWg== Completed in 16ms
+137 timing metavuln:packument:require Completed in 1ms
+138 timing metavuln:cache:get:security-advisory:require:H2zAgc1uzOypPdf6arT+/cy7wrf3X4ojFagFplLcX73+PH+S+orns+VteYoG0C+aMagmdXMHXzw59KMh5uya9w== Completed in 2ms
+139 timing metavuln:load:security-advisory:require:x95Ymvqw97xJyZlqtStWFpldMClOD0tcNg4Nuntd7/ZgluZ7Z5TzHMC13ygGCYg9oUsGIj/hjK8xPIVoxp/NPw== Completed in 14ms
+140 http fetch GET 200 https://registry.npmjs.org/uglify-js/-/uglify-js-2.3.0.tgz 561ms (cache miss)
+141 timing reifyNode:node_modules/uglify-js Completed in 602ms
+142 timing metavuln:cache:put:security-advisory:require:H2zAgc1uzOypPdf6arT+/cy7wrf3X4ojFagFplLcX73+PH+S+orns+VteYoG0C+aMagmdXMHXzw59KMh5uya9w== Completed in 24ms
+143 timing metavuln:calculate:security-advisory:require:x95Ymvqw97xJyZlqtStWFpldMClOD0tcNg4Nuntd7/ZgluZ7Z5TzHMC13ygGCYg9oUsGIj/hjK8xPIVoxp/NPw== Completed in 40ms
+144 timing auditReport:init Completed in 352ms
+145 timing reify:audit Completed in 617ms
+146 http fetch GET 200 https://registry.npmjs.org/source-map/-/source-map-0.1.43.tgz 504ms (cache miss)
+147 timing reifyNode:node_modules/uglify-js/node_modules/source-map Completed in 608ms
+148 http fetch GET 200 https://registry.npmjs.org/std/-/std-0.1.40.tgz 567ms (cache miss)
+149 timing reifyNode:node_modules/std Completed in 613ms
+150 timing reify:unpack Completed in 614ms
+151 timing reify:unretire Completed in 0ms
+152 timing build:queue Completed in 2ms
+153 timing build:link:node_modules/require Completed in 4ms
+154 timing build:link:node_modules/uglify-js Completed in 3ms
+155 timing build:link Completed in 5ms
+156 timing build:deps Completed in 7ms
+157 timing build Completed in 7ms
+158 timing reify:build Completed in 8ms
+159 timing reify:trash Completed in 10ms
+160 timing reify:save Completed in 151ms
+161 timing reify Completed in 1895ms
+162 silly ADD node_modules/amdefine
+163 silly ADD node_modules/wordwrap
+164 silly ADD node_modules/optimist
+165 silly ADD node_modules/uglify-js
+166 silly ADD node_modules/uglify-js/node_modules/source-map
+167 silly ADD node_modules/uglify-js/node_modules/async
+168 silly ADD node_modules/std
+169 silly ADD node_modules/require
+170 silly ADD
+171 timing command:install Completed in 1940ms
+172 verbose exit 0
+173 timing npm Completed in 2248ms
+174 info ok

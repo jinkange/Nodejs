@@ -10,3 +10,11 @@
 [2022-09-30 05:45:51.740] [exthost] [info] Eager extensions activated
 [2022-09-30 05:58:12.817] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
 [2022-09-30 05:58:14.572] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2022-09-30 06:09:26.747] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-09-30 07:37:28.876] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+[2022-09-30 07:37:28.886] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+[2022-09-30 07:37:28.907] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+[2022-09-30 07:37:29.079] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+[2022-09-30 07:47:04.461] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1026
+[2022-09-30 07:47:09.673] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1026
+[2022-09-30 07:47:37.683] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1029

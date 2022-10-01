@@ -25,3 +25,6 @@
 [2022-09-30 05:46:30.901] [remoteagent] [info] [127.0.0.1][d80e1745][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
 [2022-09-30 05:46:30.954] [remoteagent] [info] [127.0.0.1][e5d8b307][ExtensionHostConnection] <56068> Extension Host Process exited with code: 0, signal: null.
 [2022-09-30 06:03:02.428] [remoteagent] [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+[2022-09-30 07:38:07.941] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:3000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+[2022-09-30 07:56:17.412] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds

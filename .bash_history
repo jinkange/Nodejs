@@ -43,3 +43,61 @@ ls
 cd jinkange/
 npm start
 CD ..
+cd express/
+cd Nodejs/
+ls
+pm2 start main.js --watch
+pm2 main.js log
+pm2 log
+npm install
+pm2 start main.js --watch
+pm2 restart main.js --watch
+pm2 log
+npm install require
+pm2 restart main.js --watch
+pm2 log
+npm install express
+pm2 log
+npm2 start main.js --whatch
+pm2 start main.js --whatch
+pm2 start main.js --watch
+cd express/Nodejs/
+pm2 start main.js --watch
+pm2 start main.js --watch =f
+pm2 start main.js --watch -f
+pm2 stop 0
+pm2 state
+pm2 status
+npm install fs -g
+vim main.js 
+pm2 restart 1
+pm2 stop 0
+pm2 stop 1
+pm2 restart 0
+pm2 status
+pm2 log
+pm2 kill 0
+pm2 kill 12
+pm2 kill 1
+pm2 delete 1
+pm2 delete 0
+pm2 start main.js --watch
+pm2 status
+pm2 log
+pm2 status
+pm2 log
+netstat
+netstat -tnlp
+sodo netstat -tnlp
+sudo netstat -tnlp
+sudo apt install net-tools
+nettate
+netstat
+fuser -k var 52708
+fuser -k var 52708/txp
+fuser -k var 52708/tcp
+fuser -k -n tcp 3000
+pm2 status
+pm2 delete all
+pm2-dev main.js 
+htop
