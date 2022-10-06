@@ -95,3 +95,4 @@
 [2022-10-06 06:33:18.694] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
 [2022-10-06 06:33:19.480] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 4752
 [2022-10-06 06:33:25.812] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 4753
+[2022-10-06 06:33:36.536] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 4753
