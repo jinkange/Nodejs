@@ -1,0 +1,15 @@
+[2022-10-05 04:56:33.648] [exthost] [info] Extension host with pid 3400 started
+[2022-10-05 04:56:33.694] [exthost] [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/79c8c1bf689d18c431c5140b29fc52cc/vscode.lock': Lock acquired.
+[2022-10-05 04:56:33.780] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-10-05 04:56:33.788] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-10-05 04:56:33.792] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-10-05 04:56:33.815] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+[2022-10-05 04:56:33.906] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-10-05 04:56:34.098] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-10-05 04:56:34.352] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-05 04:56:34.386] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-05 04:56:34.391] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-05 04:56:34.526] [exthost] [info] Eager extensions activated
+[2022-10-05 04:57:03.617] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-10-05 04:57:59.498] [exthost] [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: false, activationEvent: '*'
+[2022-10-05 05:13:45.797] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'

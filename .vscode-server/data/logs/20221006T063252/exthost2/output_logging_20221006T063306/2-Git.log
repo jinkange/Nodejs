@@ -1,0 +1,27 @@
+[2022-10-06T06:33:08.689Z] Log level: Info
+[2022-10-06T06:33:08.741Z] [info] Validating found git in: git
+[2022-10-06T06:33:08.988Z] [info] Using git 2.34.1 from git
+[2022-10-06T06:33:09.643Z] > git rev-parse --show-toplevel [538ms]
+[2022-10-06T06:33:09.699Z] > git rev-parse --git-dir --git-common-dir [12ms]
+[2022-10-06T06:33:09.756Z] [info] Open repository: /home/ubuntu
+[2022-10-06T06:33:11.121Z] > git status -z -uall [1317ms]
+[2022-10-06T06:33:11.174Z] > git symbolic-ref --short HEAD [25ms]
+[2022-10-06T06:33:11.246Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [44ms]
+[2022-10-06T06:33:11.295Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [30ms]
+[2022-10-06T06:33:11.308Z] > git remote --verbose [31ms]
+[2022-10-06T06:33:17.068Z] > git config --get commit.template [69ms]
+[2022-10-06T06:33:17.179Z] > git check-ignore -v -z --stdin [206ms]
+[2022-10-06T06:33:18.240Z] > git check-ignore -v -z --stdin [192ms]
+[2022-10-06T06:33:19.141Z] > git status -z -uall [1982ms]
+[2022-10-06T06:33:19.220Z] > git symbolic-ref --short HEAD [51ms]
+[2022-10-06T06:33:19.240Z] > git show --textconv :jinkange/src/App.js [52ms]
+[2022-10-06T06:33:19.252Z] > git ls-files --stage -- /home/ubuntu/jinkange/src/App.js [40ms]
+[2022-10-06T06:33:19.255Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [16ms]
+[2022-10-06T06:33:19.294Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [23ms]
+[2022-10-06T06:33:19.302Z] > git remote --verbose [20ms]
+[2022-10-06T06:33:21.688Z] > git config --get commit.template [12ms]
+[2022-10-06T06:33:25.535Z] > git status -z -uall [777ms]
+[2022-10-06T06:33:25.612Z] > git symbolic-ref --short HEAD [37ms]
+[2022-10-06T06:33:25.664Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [26ms]
+[2022-10-06T06:33:25.691Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [16ms]
+[2022-10-06T06:33:25.693Z] > git remote --verbose [6ms]

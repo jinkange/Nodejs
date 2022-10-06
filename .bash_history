@@ -101,3 +101,65 @@ pm2 status
 pm2 delete all
 pm2-dev main.js 
 htop
+pm2 status
+pm2 start main.js 
+pm2 save
+pm2 startup
+sudo env PATH=$PATH:/usr/bin /usr/local/lib/node_modules/pm2/bin/pm2 startup systemd -u ubuntu --hp /home/ubuntu
+cd ..
+ls
+ls -al
+git add .
+git commit -m "express, pm2 study"
+git push
+cd ..
+ls
+cd ubuntu/
+cd jinkange/
+lks
+ls
+npm run start
+ls
+cd ..
+ls
+cd ubuntu/
+ls -al
+rm .vscode-server/
+rm .vscode-server/ -R
+cd jinkange/
+npm start
+pwd
+ls
+cd jinkange/
+ls
+sudo apt-get update
+sudo apt-get install docker.io
+sudo ln -sf /usr/bin/doker.io /usr/local/bin/doker
+sudo docker
+sudo usernod -aG docker jinkange
+sudo usermod -aG docker jinkange
+docker version
+clear
+docker version
+docker images
+sudo docker images
+docker pull ubuntuL14.04
+sudo docker pull ubuntuL14.04
+sudo docker pull ubuntuL:14.04
+sudo docker pull ubuntu:14.04
+sudo docker images
+docker serach ubuntu
+docker search ubuntu
+sudo docker search ubuntu
+sudo docker pull ubuntu
+sudo docker images
+docker run -i -t ubuntu:14.04 /bin/bash
+sudo docker run -i -t ubuntu:14.04 /bin/bash
+docker ps
+sudo docker ps
+sudo docker ps -a
+docker start blissful_blackburn
+sudo docker start blissful_blackburn
+docker ps
+sudo docker ps
+sudo su

@@ -1,0 +1,39 @@
+[2022-10-04 05:21:58.614] [exthost] [info] Extension host with pid 97324 started
+[2022-10-04 05:21:58.630] [exthost] [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/f754b7aa2240ec878ccf37628a1e6a51/vscode.lock': Lock acquired.
+[2022-10-04 05:21:58.845] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-10-04 05:21:58.866] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-10-04 05:21:58.882] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-10-04 05:21:59.018] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-10-04 05:21:59.250] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-10-04 05:21:59.364] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-04 05:21:59.385] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-04 05:21:59.390] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onStartupFinished', root cause: esbenp.prettier-vscode
+[2022-10-04 05:21:59.456] [exthost] [info] Eager extensions activated
+[2022-10-04 05:21:59.886] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-04 05:22:01.265] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 4657
+[2022-10-04 05:22:03.546] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 4657
+[2022-10-04 08:28:28.658] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 4657
+[2022-10-04 08:28:31.729] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/node_modules' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-04 08:28:31.729] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/node_modules' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-04 08:28:31.729] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/node_modules' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-04 08:28:31.729] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/node_modules' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-04 08:28:31.729] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/node_modules' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-04 08:28:31.729] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/node_modules' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-04 08:28:31.729] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/node_modules' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-04 08:28:31.729] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/node_modules' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-04 08:28:34.034] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/src/App.css' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-04 08:28:34.034] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/src/App.css' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-04 08:28:34.034] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/src/App.css' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-04 08:28:34.034] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/src/App.css' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-04 08:28:34.034] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/src/App.css' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-04 08:28:34.034] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/src/App.css' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-04 08:28:34.034] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/src/App.css' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-04 08:28:34.034] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/src/App.css' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-04 08:28:35.879] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 4657
+[2022-10-04 08:28:37.116] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-10-04 08:28:45.641] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 4662
+[2022-10-04 08:28:53.310] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 4670
+[2022-10-04 08:53:19.285] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 4670
+[2022-10-04 12:19:40.773] [exthost] [info] Extension host terminating: renderer disconnected for too long (1)
+[2022-10-04 12:19:40.774] [exthost] [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/f754b7aa2240ec878ccf37628a1e6a51/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-10-04 12:19:40.801] [exthost] [info] Extension host with pid 97324 exiting with code 0

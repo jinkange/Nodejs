@@ -1,0 +1,14 @@
+[2022-10-05 06:12:10.002] [exthost] [info] Extension host with pid 1323 started
+[2022-10-05 06:12:10.107] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-10-05 06:12:10.117] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-10-05 06:12:10.124] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-10-05 06:12:10.152] [exthost] [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: true, activationEvent: '*'
+[2022-10-05 06:12:10.273] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-10-05 06:12:10.379] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-10-05 06:12:10.645] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-05 06:12:10.677] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-05 06:12:10.694] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onStartupFinished', root cause: esbenp.prettier-vscode
+[2022-10-05 06:12:10.753] [exthost] [info] Eager extensions activated
+[2022-10-05 06:12:10.831] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-05 06:12:12.443] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-10-05 06:12:12.465] [exthost] [info] Extension host with pid 1323 exiting with code 0

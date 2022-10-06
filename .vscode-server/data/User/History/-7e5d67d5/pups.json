@@ -1,0 +1,8 @@
+{
+    "git.ignoreMissingGitWarning": true,
+    "remote.SSH.configFile": "C:\\Users\\jinka\\.ssh\\config",
+    "workbench.startupEditor": "none",
+    "remote.SSH.remotePlatform": {
+        "Jinkange": "linux"
+    }
+}

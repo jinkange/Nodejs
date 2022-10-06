@@ -1,0 +1,9 @@
+[2022-10-06 06:25:17.206] [remoteagent] [info] Extension host agent started.
+[2022-10-06 06:25:17.556] [remoteagent] [info] [127.0.0.1][31586e36][ManagementConnection] New connection established.
+[2022-10-06 06:25:17.661] [remoteagent] [info] [127.0.0.1][8dc0cfa6][ExtensionHostConnection] New connection established.
+[2022-10-06 06:25:17.675] [remoteagent] [info] [127.0.0.1][8dc0cfa6][ExtensionHostConnection] <9475> Launched Extension Host Process.
+[2022-10-06 06:25:21.724] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:3001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+[2022-10-06 06:25:21.821] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:3001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+[2022-10-06 06:29:11.736] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds

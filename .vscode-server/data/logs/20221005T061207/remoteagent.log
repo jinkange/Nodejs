@@ -1,0 +1,26 @@
+[2022-10-05 06:12:07.787] [remoteagent] [info] Extension host agent started.
+[2022-10-05 06:12:08.196] [remoteagent] [info] [127.0.0.1][1bd0b122][ExtensionHostConnection] New connection established.
+[2022-10-05 06:12:08.197] [remoteagent] [info] [127.0.0.1][36778ca1][ManagementConnection] New connection established.
+[2022-10-05 06:12:08.202] [remoteagent] [info] [127.0.0.1][1bd0b122][ExtensionHostConnection] <1323> Launched Extension Host Process.
+[2022-10-05 06:12:12.451] [remoteagent] [info] [127.0.0.1][36778ca1][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-10-05 06:12:12.474] [remoteagent] [info] [127.0.0.1][1bd0b122][ExtensionHostConnection] <1323> Extension Host Process exited with code: 0, signal: null.
+[2022-10-05 06:12:12.474] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-10-05 06:12:23.273] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2022-10-05 06:12:23.273] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-10-05 06:12:23.358] [remoteagent] [info] [127.0.0.1][b6435af2][ManagementConnection] New connection established.
+[2022-10-05 06:12:23.397] [remoteagent] [info] [127.0.0.1][96f6d98d][ExtensionHostConnection] New connection established.
+[2022-10-05 06:12:23.404] [remoteagent] [info] [127.0.0.1][96f6d98d][ExtensionHostConnection] <1481> Launched Extension Host Process.
+[2022-10-05 06:12:25.634] [remoteagent] [error] ["CodeExpectedError: Could not find pty on pty host","    at c._throwIfNoPty (/home/ubuntu/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/platform/terminal/node/ptyHostMain.js:23:36316)","    at c.updateTitle (/home/ubuntu/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/platform/terminal/node/ptyHostMain.js:23:32064)","    at Object.call (/home/ubuntu/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/platform/terminal/node/ptyHostMain.js:16:8386)","    at u.onPromise (/home/ubuntu/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/platform/terminal/node/ptyHostMain.js:15:5851)","    at u.onRawMessage (/home/ubuntu/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/platform/terminal/node/ptyHostMain.js:15:5234)","    at /home/ubuntu/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/platform/terminal/node/ptyHostMain.js:15:4520","    at p.invoke (/home/ubuntu/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/platform/terminal/node/ptyHostMain.js:11:145)","    at D.deliver (/home/ubuntu/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/platform/terminal/node/ptyHostMain.js:11:2275)","    at T.fire (/home/ubuntu/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/platform/terminal/node/ptyHostMain.js:11:1853)","    at process.Q (/home/ubuntu/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/platform/terminal/node/ptyHostMain.js:9:20703)","    at process.emit (node:events:526:28)","    at emit (node:internal/child_process:938:14)","    at processTicksAndRejections (node:internal/process/task_queues:84:21)"]
+[2022-10-05 06:12:26.101] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:3001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+[2022-10-05 06:12:26.348] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:3001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+[2022-10-05 06:17:23.274] [remoteagent] [info] New EH opened, aborting shutdown
+[2022-10-05 07:39:48.528] [remoteagent] [info] [127.0.0.1][b6435af2][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2022-10-05 07:39:48.535] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/home/ubuntu/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/server/node/server.main.js:145:7922)
+    at process.emit (node:events:526:28)
+[2022-10-05 10:39:51.666] [remoteagent] [info] [127.0.0.1][96f6d98d][ExtensionHostConnection] <1481> Extension Host Process exited with code: 0, signal: null.
+[2022-10-05 10:39:51.667] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-10-05 10:39:58.312] [remoteagent] [info] [127.0.0.1][b6435af2][ManagementConnection] The reconnection grace time of 3h has expired, so the connection will be disposed.
+[2022-10-05 10:44:51.667] [remoteagent] [info] Last EH closed, shutting down
