@@ -1783,3 +1783,4 @@
 [Trace 06:39:14.642] VsCodeClientWorkspace: onDidChangeWatchedFiles: 2: file:///home/ubuntu/README.md
 [Trace 06:39:17.876] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
 [Trace 06:39:18.574] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:43:17.494] TableOfContentsProvider: create - file:///home/ubuntu/README.md

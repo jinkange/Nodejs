@@ -197,3 +197,47 @@ cd docker_test/
 docker image
 docker images
 sudo su
+cd jin
+ls
+npm start
+ls
+cd nginx/
+cd ..
+cd jinkange/
+docker build -t sample-app .
+ls
+cd ..
+ls
+cd jinkange/
+npm start
+npm run build
+cd ..
+sudo apt install nginx
+$ sudo rm /etc/nginx/sites-available/default
+$ sudo rm /etc/nginx/sites-enabled/default
+$ sudo rm /etc/nginx/sites-available/default
+cd /etc/nginx/sites-available/
+sudo touch myapp.conf
+vim myapp.conf 
+sudo vim myapp.conf 
+cd /home/ubuntu/
+cd jinkange/
+ls
+/etc/nginx/sites-available/
+
+cd /etc/nginx/sites-available
+ls
+vim myapp.conf 
+sudo vim myapp.conf 
+sudo ln -s /etc/nginx/sites-available/myapp.conf /etc/nginx/sites-enabled/myapp.conf
+sudo systemctl stop nginx
+sudo systemctl start nginx
+sudo systemctl status nginx
+cd /home/ubuntu/
+ls
+git add .
+cd nginx/
+ls
+cd ..
+git commit -m "react nginx 연결"
+git push

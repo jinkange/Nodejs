@@ -15,3 +15,6 @@
 [2022-10-11 05:48:49.565] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
 [2022-10-11 05:48:49.565] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
 [2022-10-11 05:48:49.566] [exthost] [info] Eager extensions activated
+[2022-10-11 06:42:48.771] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-10-11 06:42:48.772] [exthost] [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/79c8c1bf689d18c431c5140b29fc52cc-1/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-10-11 06:42:48.795] [exthost] [info] Extension host with pid 4358 exiting with code 0
