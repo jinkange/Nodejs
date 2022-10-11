@@ -1,0 +1,48 @@
+[2022-10-11T04:22:59.854Z] Log level: Info
+[2022-10-11T04:22:59.860Z] [info] Validating found git in: git
+[2022-10-11T04:22:59.959Z] [info] Using git 2.34.1 from git
+[2022-10-11T04:22:59.996Z] > git rev-parse --show-toplevel [21ms]
+[2022-10-11T04:22:59.996Z] fatal: detected dubious ownership in repository at '/home/ubuntu/jinkange'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ubuntu/jinkange
+[2022-10-11T04:23:00.073Z] > git rev-parse --show-toplevel [44ms]
+[2022-10-11T04:23:00.073Z] fatal: detected dubious ownership in repository at '/home/ubuntu/jinkange'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ubuntu/jinkange
+[2022-10-11T04:23:00.095Z] > git rev-parse --show-toplevel [12ms]
+[2022-10-11T04:23:00.095Z] fatal: detected dubious ownership in repository at '/home/ubuntu/jinkange'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ubuntu/jinkange
+[2022-10-11T04:23:00.126Z] > git rev-parse --show-toplevel [20ms]
+[2022-10-11T04:23:00.126Z] fatal: detected dubious ownership in repository at '/home/ubuntu/jinkange'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ubuntu/jinkange
+[2022-10-11T04:23:00.329Z] > git rev-parse --show-toplevel [19ms]
+[2022-10-11T04:23:00.329Z] fatal: detected dubious ownership in repository at '/home/ubuntu/jinkange'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ubuntu/jinkange
+[2022-10-11T04:23:00.411Z] > git rev-parse --show-toplevel [18ms]
+[2022-10-11T04:23:00.411Z] fatal: detected dubious ownership in repository at '/home/ubuntu/jinkange'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ubuntu/jinkange
+[2022-10-11T04:23:00.857Z] > git rev-parse --show-toplevel [419ms]
+[2022-10-11T04:23:00.857Z] fatal: detected dubious ownership in repository at '/home/ubuntu/jinkange'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ubuntu/jinkange
+[2022-10-11T04:24:16.018Z] > git rev-parse --show-toplevel [2ms]
+[2022-10-11T04:24:16.018Z] fatal: detected dubious ownership in repository at '/home/ubuntu/jinkange'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ubuntu/jinkange
+[2022-10-11T05:16:29.398Z] > git rev-parse --show-toplevel [2ms]
+[2022-10-11T05:16:29.398Z] fatal: detected dubious ownership in repository at '/home/ubuntu/jinkange'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ubuntu/jinkange

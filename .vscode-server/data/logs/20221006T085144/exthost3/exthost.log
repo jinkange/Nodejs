@@ -1,0 +1,17 @@
+[2022-10-06 09:02:43.274] [exthost] [info] Extension host with pid 2813 started
+[2022-10-06 09:02:43.373] [exthost] [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/f754b7aa2240ec878ccf37628a1e6a51/vscode.lock': Lock acquired.
+[2022-10-06 09:02:43.627] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-10-06 09:02:44.136] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-10-06 09:02:44.184] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-10-06 09:02:44.231] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-10-06 09:02:44.390] [exthost] [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: true, activationEvent: '*'
+[2022-10-06 09:02:46.731] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-10-06 09:02:48.121] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-10-06 09:02:48.497] [exthost] [info] ExtensionService#_doActivateExtension ms-azuretools.vscode-docker, startup: false, activationEvent: 'onLanguage:dockerfile'
+[2022-10-06 09:02:54.994] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-06 09:02:55.290] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-06 09:02:55.352] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onStartupFinished', root cause: esbenp.prettier-vscode
+[2022-10-06 09:02:57.414] [exthost] [info] Eager extensions activated
+[2022-10-06 09:03:58.049] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 535
+[2022-10-06 09:04:00.896] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-06 09:04:03.621] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 537

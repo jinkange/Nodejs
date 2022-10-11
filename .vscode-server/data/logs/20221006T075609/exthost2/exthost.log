@@ -1,0 +1,128 @@
+[2022-10-06 07:56:21.668] [exthost] [info] Extension host with pid 3700 started
+[2022-10-06 07:56:21.696] [exthost] [error] Error: EEXIST: file already exists, open '/home/ubuntu/.vscode-server/data/User/workspaceStorage/f754b7aa2240ec878ccf37628a1e6a51/vscode.lock'
+[2022-10-06 07:56:21.706] [exthost] [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/f754b7aa2240ec878ccf37628a1e6a51/vscode.lock': Could not acquire lock, checking if the file is stale.
+[2022-10-06 07:56:21.712] [exthost] [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/f754b7aa2240ec878ccf37628a1e6a51/vscode.lock': The pid 1558 appears to be gone.
+[2022-10-06 07:56:21.712] [exthost] [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/f754b7aa2240ec878ccf37628a1e6a51/vscode.lock': Deleting a stale lock.
+[2022-10-06 07:56:21.722] [exthost] [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/f754b7aa2240ec878ccf37628a1e6a51/vscode.lock': Lock acquired.
+[2022-10-06 07:56:21.787] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-10-06 07:56:21.864] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-10-06 07:56:21.870] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-10-06 07:56:21.876] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-10-06 07:56:21.899] [exthost] [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: true, activationEvent: '*'
+[2022-10-06 07:56:22.848] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-10-06 07:56:23.562] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-10-06 07:56:24.238] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-06 07:56:24.353] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-06 07:56:24.386] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onStartupFinished', root cause: esbenp.prettier-vscode
+[2022-10-06 07:56:24.576] [exthost] [info] Eager extensions activated
+[2022-10-06 07:56:26.158] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 443
+[2022-10-06 07:56:26.914] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/src' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-06 07:56:26.916] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/src' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-06 07:56:26.917] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/src' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-06 07:56:26.917] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/src' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-06 07:56:26.917] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/src' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-06 07:56:26.917] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/src' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-06 07:56:26.917] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/src' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-06 07:56:26.917] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/src' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-06 07:56:26.918] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/src' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-06 07:56:26.918] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/src' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-06 07:56:26.918] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/src' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-06 07:56:26.918] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/src' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-06 07:56:26.918] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/src' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-06 07:56:26.918] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/src' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-06 07:56:26.918] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/src' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-06 07:56:26.919] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/src' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-06 07:56:26.919] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/src' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-06 07:56:26.919] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/src' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-06 07:56:26.919] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/src' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-06 07:56:26.919] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/src' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-06 07:56:26.920] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/src' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-06 07:56:26.920] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/src' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-06 07:56:26.920] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/src' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-06 07:56:26.920] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/src' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-06 07:56:26.920] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/src' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-06 07:56:26.920] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/src' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-06 07:56:26.920] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/src' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-06 07:56:26.921] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/src' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-06 07:56:26.921] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/src' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-06 07:56:27.421] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-06 07:56:28.230] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-10-06 07:56:28.230] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-10-06 07:56:28.230] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-10-06 07:56:28.230] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-10-06 07:56:28.230] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-10-06 07:56:28.230] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-10-06 07:56:28.230] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-10-06 07:56:28.230] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-10-06 07:56:28.230] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-10-06 07:56:28.230] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-10-06 07:56:28.230] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-10-06 07:56:28.230] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-10-06 07:56:28.230] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-10-06 07:56:28.230] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-10-06 07:56:28.230] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-10-06 07:56:28.230] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-10-06 07:56:28.230] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-10-06 07:56:28.230] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-10-06 07:56:28.230] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-10-06 07:56:28.230] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-10-06 07:56:28.231] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-10-06 07:56:28.235] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-10-06 07:56:28.235] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-10-06 07:56:28.235] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-10-06 07:56:28.235] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-10-06 07:56:28.235] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-10-06 07:56:28.235] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-10-06 07:56:28.235] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-10-06 07:56:28.235] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-10-06 07:56:28.535] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 443
+[2022-10-06 07:56:33.480] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 475
+[2022-10-06 07:56:39.153] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 528
+[2022-10-06 07:56:44.410] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 501
+[2022-10-06 07:56:45.007] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/node_modules/.bin' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-06 07:56:45.007] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/node_modules/.bin' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-06 07:56:45.007] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/node_modules/.bin' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-06 07:56:45.007] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/node_modules/.bin' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-06 07:56:45.007] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/node_modules/.bin' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-06 07:56:45.007] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/node_modules/.bin' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-06 07:56:45.007] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/node_modules/.bin' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-06 07:56:45.008] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/node_modules/.bin' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-06 07:56:45.008] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/node_modules/.bin' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-06 07:56:45.008] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/node_modules/.bin' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-06 07:56:45.008] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/node_modules/.bin' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-06 07:56:45.008] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/node_modules/.bin' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-06 07:56:45.008] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/node_modules/.bin' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-06 07:56:45.008] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/node_modules/.bin' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-06 07:56:45.008] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/node_modules/.bin' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-06 07:56:45.008] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/node_modules/.bin' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-06 07:56:45.008] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/node_modules/.bin' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-06 07:56:45.008] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/node_modules/.bin' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-06 07:56:45.008] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/node_modules/.bin' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-06 07:56:45.008] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/node_modules/.bin' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-06 07:56:45.008] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/node_modules/.bin' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-06 07:56:45.008] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/node_modules/.bin' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-06 07:56:45.008] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/node_modules/.bin' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-06 07:56:45.008] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/node_modules/.bin' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-06 07:56:45.008] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/node_modules/.bin' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-06 07:56:45.008] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/node_modules/.bin' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-06 07:56:45.008] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/node_modules/.bin' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-06 07:56:45.008] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/node_modules/.bin' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-06 07:56:45.008] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/node_modules/.bin' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-06 07:56:45.008] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/node_modules/.bin' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-06 07:56:45.008] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/node_modules/.bin' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-06 07:56:45.008] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/node_modules/.bin' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-06 07:56:45.008] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/node_modules/.bin' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-06 07:56:45.008] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/node_modules/.bin' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-06 07:56:45.009] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/node_modules/.bin' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-06 07:56:45.009] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/node_modules/.bin' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-06 07:56:45.009] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/node_modules/.bin' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-06 07:56:45.009] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/node_modules/.bin' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-06 07:56:45.009] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/node_modules/.bin' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-06 07:56:45.009] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/node_modules/.bin' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-06 07:56:45.009] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/node_modules/.bin' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-06 07:56:45.009] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/node_modules/.bin' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-06 07:56:45.009] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/node_modules/.bin' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-06 07:56:45.009] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/ubuntu/jinkange/node_modules/.bin' is in submodule 'jinkange'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-10-06 07:56:49.579] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 501
+[2022-10-06 07:56:54.746] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 501
+[2022-10-06 07:56:59.896] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 501

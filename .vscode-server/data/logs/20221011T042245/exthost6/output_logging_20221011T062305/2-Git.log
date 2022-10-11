@@ -1,0 +1,47 @@
+[2022-10-11T06:23:07.151Z] Log level: Info
+[2022-10-11T06:23:07.159Z] [info] Validating found git in: git
+[2022-10-11T06:23:07.201Z] [info] Using git 2.34.1 from git
+[2022-10-11T06:23:07.304Z] > git rev-parse --show-toplevel [86ms]
+[2022-10-11T06:23:07.320Z] > git rev-parse --git-dir --git-common-dir [4ms]
+[2022-10-11T06:23:07.330Z] [info] Open repository: /home/ubuntu
+[2022-10-11T06:23:07.373Z] > git rev-parse --show-toplevel [22ms]
+[2022-10-11T06:23:07.410Z] > git rev-parse --show-toplevel [28ms]
+[2022-10-11T06:23:07.446Z] > git rev-parse --show-toplevel [28ms]
+[2022-10-11T06:23:07.476Z] > git rev-parse --show-toplevel [21ms]
+[2022-10-11T06:23:07.494Z] > git rev-parse --show-toplevel [11ms]
+[2022-10-11T06:23:07.566Z] > git rev-parse --show-toplevel [62ms]
+[2022-10-11T06:23:07.588Z] > git rev-parse --show-toplevel [12ms]
+[2022-10-11T06:23:07.595Z] > git rev-parse --show-toplevel [1ms]
+[2022-10-11T06:23:07.604Z] > git rev-parse --show-toplevel [2ms]
+[2022-10-11T06:23:07.612Z] > git rev-parse --show-toplevel [1ms]
+[2022-10-11T06:23:07.621Z] > git rev-parse --show-toplevel [3ms]
+[2022-10-11T06:23:07.631Z] > git rev-parse --show-toplevel [4ms]
+[2022-10-11T06:23:07.645Z] > git rev-parse --show-toplevel [5ms]
+[2022-10-11T06:23:07.645Z] fatal: detected dubious ownership in repository at '/home/ubuntu/jinkange'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ubuntu/jinkange
+[2022-10-11T06:23:07.700Z] > git show --textconv :docker_test/Dockerfile [11ms]
+[2022-10-11T06:23:07.703Z] > git ls-files --stage -- /home/ubuntu/docker_test/Dockerfile [7ms]
+[2022-10-11T06:23:08.104Z] > git check-ignore -v -z --stdin [16ms]
+[2022-10-11T06:23:09.632Z] > git status -z -uall [2290ms]
+[2022-10-11T06:23:09.642Z] > git symbolic-ref --short HEAD [2ms]
+[2022-10-11T06:23:09.669Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [22ms]
+[2022-10-11T06:23:09.686Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [8ms]
+[2022-10-11T06:23:09.688Z] > git remote --verbose [4ms]
+[2022-10-11T06:23:09.776Z] > git config --get commit.template [12ms]
+[2022-10-11T06:23:10.210Z] > git status -z -uall [425ms]
+[2022-10-11T06:23:10.221Z] > git symbolic-ref --short HEAD [3ms]
+[2022-10-11T06:23:10.231Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+[2022-10-11T06:23:10.245Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [7ms]
+[2022-10-11T06:23:10.246Z] > git remote --verbose [2ms]
+[2022-10-11T06:23:10.294Z] > git config --get commit.template [1ms]
+[2022-10-11T06:23:13.127Z] > git check-ignore -v -z --stdin [5ms]
+[2022-10-11T06:23:32.025Z] > git check-ignore -v -z --stdin [4ms]
+[2022-10-11T06:23:45.112Z] > git show --textconv :jinkange/Dockerfile [8ms]
+[2022-10-11T06:23:45.116Z] > git ls-files --stage -- /home/ubuntu/jinkange/Dockerfile [5ms]
+[2022-10-11T06:23:45.318Z] > git check-ignore -v -z --stdin [5ms]
+[2022-10-11T06:30:51.148Z] > git check-ignore -v -z --stdin [12ms]
+[2022-10-11T06:35:45.209Z] > git show --textconv :README.md [8ms]
+[2022-10-11T06:35:45.214Z] > git ls-files --stage -- /home/ubuntu/README.md [6ms]
+[2022-10-11T06:35:45.222Z] > git cat-file -s 4ba25dc41ba3b8169013f7810dbdb16249d9d8b0 [2ms]

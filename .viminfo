@@ -11,8 +11,14 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
+:q
+|2,0,1665470039,,"q"
+:q!
+|2,0,1665469951,,"q!"
 :wq
-|2,0,1664598007,,"wq"
+|2,0,1665469944,,"wq"
+:wq!
+|2,0,1665469939,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -28,16 +34,138 @@
 |3,1,36,0,1,0,1664598003,"r"
 
 # File marks:
-'0  5  4  ~/express/Nodejs/main.js
-|4,48,5,4,1664598007,"~/express/Nodejs/main.js"
+'0  1  0  /etc/nginx/sites-available/myapp.conf
+|4,48,1,0,1665470039,"/etc/nginx/sites-available/myapp.conf"
+'1  1  0  /etc/nginx/sites-available/myapp.conf
+|4,49,1,0,1665469951,"/etc/nginx/sites-available/myapp.conf"
+'2  5  7  ~/docker_test/Dockerfile
+|4,50,5,7,1665047766,"~/docker_test/Dockerfile"
+'3  1  0  ~/Dockerfile
+|4,51,1,0,1665044070,"~/Dockerfile"
+'4  5  4  ~/express/Nodejs/main.js
+|4,52,5,4,1664598007,"~/express/Nodejs/main.js"
 
 # Jumplist (newest first):
+-'  1  0  /etc/nginx/sites-available/myapp.conf
+|4,39,1,0,1665470039,"/etc/nginx/sites-available/myapp.conf"
+-'  1  0  /etc/nginx/sites-available/myapp.conf
+|4,39,1,0,1665469951,"/etc/nginx/sites-available/myapp.conf"
+-'  5  7  ~/docker_test/Dockerfile
+|4,39,5,7,1665047766,"~/docker_test/Dockerfile"
+-'  5  7  ~/docker_test/Dockerfile
+|4,39,5,7,1665047766,"~/docker_test/Dockerfile"
+-'  5  7  ~/docker_test/Dockerfile
+|4,39,5,7,1665047766,"~/docker_test/Dockerfile"
+-'  5  7  ~/docker_test/Dockerfile
+|4,39,5,7,1665047766,"~/docker_test/Dockerfile"
+-'  1  0  ~/docker_test/Dockerfile
+|4,39,1,0,1665047760,"~/docker_test/Dockerfile"
+-'  1  0  ~/docker_test/Dockerfile
+|4,39,1,0,1665047760,"~/docker_test/Dockerfile"
+-'  1  0  ~/docker_test/Dockerfile
+|4,39,1,0,1665047760,"~/docker_test/Dockerfile"
+-'  1  0  ~/docker_test/Dockerfile
+|4,39,1,0,1665047760,"~/docker_test/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1665044070,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1665044070,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1665044070,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1665044070,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1665044070,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1665044070,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1665044070,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1665044070,"~/Dockerfile"
+-'  5  4  ~/express/Nodejs/main.js
+|4,39,5,4,1664598007,"~/express/Nodejs/main.js"
+-'  5  4  ~/express/Nodejs/main.js
+|4,39,5,4,1664598007,"~/express/Nodejs/main.js"
+-'  5  4  ~/express/Nodejs/main.js
+|4,39,5,4,1664598007,"~/express/Nodejs/main.js"
+-'  5  4  ~/express/Nodejs/main.js
+|4,39,5,4,1664598007,"~/express/Nodejs/main.js"
+-'  5  4  ~/express/Nodejs/main.js
+|4,39,5,4,1664598007,"~/express/Nodejs/main.js"
+-'  5  4  ~/express/Nodejs/main.js
+|4,39,5,4,1664598007,"~/express/Nodejs/main.js"
+-'  5  4  ~/express/Nodejs/main.js
+|4,39,5,4,1664598007,"~/express/Nodejs/main.js"
+-'  5  4  ~/express/Nodejs/main.js
+|4,39,5,4,1664598007,"~/express/Nodejs/main.js"
+-'  5  4  ~/express/Nodejs/main.js
+|4,39,5,4,1664598007,"~/express/Nodejs/main.js"
+-'  5  4  ~/express/Nodejs/main.js
+|4,39,5,4,1664598007,"~/express/Nodejs/main.js"
+-'  5  4  ~/express/Nodejs/main.js
+|4,39,5,4,1664598007,"~/express/Nodejs/main.js"
+-'  5  4  ~/express/Nodejs/main.js
+|4,39,5,4,1664598007,"~/express/Nodejs/main.js"
+-'  5  4  ~/express/Nodejs/main.js
+|4,39,5,4,1664598007,"~/express/Nodejs/main.js"
+-'  5  4  ~/express/Nodejs/main.js
+|4,39,5,4,1664598007,"~/express/Nodejs/main.js"
+-'  5  4  ~/express/Nodejs/main.js
+|4,39,5,4,1664598007,"~/express/Nodejs/main.js"
 -'  5  4  ~/express/Nodejs/main.js
 |4,39,5,4,1664598007,"~/express/Nodejs/main.js"
 -'  1  0  ~/express/Nodejs/main.js
 |4,39,1,0,1664598000,"~/express/Nodejs/main.js"
+-'  1  0  ~/express/Nodejs/main.js
+|4,39,1,0,1664598000,"~/express/Nodejs/main.js"
+-'  1  0  ~/express/Nodejs/main.js
+|4,39,1,0,1664598000,"~/express/Nodejs/main.js"
+-'  1  0  ~/express/Nodejs/main.js
+|4,39,1,0,1664598000,"~/express/Nodejs/main.js"
+-'  1  0  ~/express/Nodejs/main.js
+|4,39,1,0,1664598000,"~/express/Nodejs/main.js"
+-'  1  0  ~/express/Nodejs/main.js
+|4,39,1,0,1664598000,"~/express/Nodejs/main.js"
+-'  1  0  ~/express/Nodejs/main.js
+|4,39,1,0,1664598000,"~/express/Nodejs/main.js"
+-'  1  0  ~/express/Nodejs/main.js
+|4,39,1,0,1664598000,"~/express/Nodejs/main.js"
+-'  1  0  ~/express/Nodejs/main.js
+|4,39,1,0,1664598000,"~/express/Nodejs/main.js"
+-'  1  0  ~/express/Nodejs/main.js
+|4,39,1,0,1664598000,"~/express/Nodejs/main.js"
+-'  1  0  ~/express/Nodejs/main.js
+|4,39,1,0,1664598000,"~/express/Nodejs/main.js"
+-'  1  0  ~/express/Nodejs/main.js
+|4,39,1,0,1664598000,"~/express/Nodejs/main.js"
+-'  1  0  ~/express/Nodejs/main.js
+|4,39,1,0,1664598000,"~/express/Nodejs/main.js"
+-'  1  0  ~/express/Nodejs/main.js
+|4,39,1,0,1664598000,"~/express/Nodejs/main.js"
+-'  1  0  ~/express/Nodejs/main.js
+|4,39,1,0,1664598000,"~/express/Nodejs/main.js"
+-'  1  0  ~/express/Nodejs/main.js
+|4,39,1,0,1664598000,"~/express/Nodejs/main.js"
 
 # History of marks within files (newest to oldest):
+
+> /etc/nginx/sites-available/myapp.conf
+	*	1665470037	0
+	"	1	0
+	^	8	0
+	.	8	0
+	+	8	0
+
+> ~/docker_test/Dockerfile
+	*	1665047766	0
+	"	5	7
+	^	5	8
+	.	5	7
+	+	5	7
+
+> ~/Dockerfile
+	*	1665044067	0
+	"	1	0
 
 > ~/express/Nodejs/main.js
 	*	1664598006	0

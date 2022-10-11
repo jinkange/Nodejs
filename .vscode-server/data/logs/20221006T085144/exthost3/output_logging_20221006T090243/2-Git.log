@@ -1,0 +1,21 @@
+[2022-10-06T09:02:56.442Z] Log level: Info
+[2022-10-06T09:02:56.534Z] [info] Validating found git in: git
+[2022-10-06T09:02:57.076Z] [info] Using git 2.34.1 from git
+[2022-10-06T09:02:57.493Z] > git rev-parse --show-toplevel [103ms]
+[2022-10-06T09:02:57.794Z] > git rev-parse --git-dir --git-common-dir [60ms]
+[2022-10-06T09:02:57.926Z] [info] Open repository: /home/ubuntu
+[2022-10-06T09:03:06.864Z] > git status -z -uall [8771ms]
+[2022-10-06T09:03:49.720Z] > git symbolic-ref --short HEAD [12700ms]
+[2022-10-06T09:03:56.324Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2701ms]
+[2022-10-06T09:03:57.795Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1291ms]
+[2022-10-06T09:03:57.821Z] > git remote --verbose [1292ms]
+[2022-10-06T09:03:59.550Z] > git config --get commit.template [290ms]
+[2022-10-06T09:04:02.385Z] > git check-ignore -v -z --stdin [1499ms]
+[2022-10-06T09:04:03.268Z] > git status -z -uall [3604ms]
+[2022-10-06T09:04:03.326Z] > git show --textconv :docker_test/Dockerfile [633ms]
+[2022-10-06T09:04:03.327Z] > git ls-files --stage -- /home/ubuntu/docker_test/Dockerfile [590ms]
+[2022-10-06T09:04:03.377Z] > git symbolic-ref --short HEAD [51ms]
+[2022-10-06T09:04:03.478Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [63ms]
+[2022-10-06T09:04:03.540Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [21ms]
+[2022-10-06T09:04:03.547Z] > git remote --verbose [11ms]
+[2022-10-06T09:04:05.095Z] > git config --get commit.template [1409ms]

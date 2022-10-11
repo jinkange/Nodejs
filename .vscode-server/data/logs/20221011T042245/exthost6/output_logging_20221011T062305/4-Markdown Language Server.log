@@ -1,0 +1,1785 @@
+[Trace 06:35:44.936] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/ubuntu/README.md
+[Trace 06:35:44.937] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:35:44.939] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:35:44.941] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:35:45.083] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 1
+[Debug 06:35:45.084] LinkProvider: compute - file:///home/ubuntu/README.md
+[Debug 06:35:45.260] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:35:45.277] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 1
+[Trace 06:35:46.896] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:35:46.897] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:35:47.079] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:35:47.080] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:35:47.249] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:35:47.250] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:35:47.398] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:35:47.399] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:35:47.607] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 5
+[Debug 06:35:47.607] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:35:47.645] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:35:47.757] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 5
+[Trace 06:35:48.020] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:35:48.021] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:35:48.148] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:35:48.148] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:35:48.358] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 7
+[Debug 06:35:48.358] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:35:48.496] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 7
+[Debug 06:35:48.496] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:35:49.407] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:35:49.408] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:35:49.606] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 8
+[Debug 06:35:49.607] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:35:49.652] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:35:49.694] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:35:49.694] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:35:49.891] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 9
+[Debug 06:35:49.891] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:35:50.054] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 9
+[Debug 06:35:50.054] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:35:50.096] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:35:50.096] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:35:50.311] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 10
+[Debug 06:35:50.311] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:35:50.326] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:35:50.326] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:35:50.454] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:35:50.454] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:35:50.659] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:35:50.660] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:35:50.788] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:35:50.789] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:35:50.987] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 14
+[Debug 06:35:50.987] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:35:51.037] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:35:51.136] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 14
+[Trace 06:35:51.438] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:35:51.438] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:35:51.529] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:35:51.529] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:35:51.625] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:35:51.625] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:35:51.830] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 17
+[Debug 06:35:51.831] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:35:51.864] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:35:51.865] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:35:52.068] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 18
+[Debug 06:35:52.068] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:35:52.115] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:35:52.219] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:35:52.219] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:35:52.379] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:35:52.380] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:35:52.525] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:35:52.526] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:35:52.732] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 21
+[Debug 06:35:52.732] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:35:52.747] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:35:52.747] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:35:52.957] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 22
+[Debug 06:35:52.957] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:35:52.998] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:35:53.096] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 22
+[Trace 06:35:53.198] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:35:53.198] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:35:53.260] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:35:53.261] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:35:53.439] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:35:53.439] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:35:53.635] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 25
+[Debug 06:35:53.635] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:35:53.644] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:35:53.645] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:35:53.845] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 26
+[Debug 06:35:53.846] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:35:53.892] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:35:53.912] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:35:53.912] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:35:54.117] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 27
+[Debug 06:35:54.117] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:35:54.178] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:35:54.264] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 27
+[Trace 06:35:54.327] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:35:54.327] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:35:54.507] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:35:54.507] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:35:54.651] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:35:54.651] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:35:54.826] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:35:54.827] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:35:55.034] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 31
+[Debug 06:35:55.034] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:35:55.076] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:35:55.184] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 31
+[Trace 06:35:55.406] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:35:55.406] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:35:55.606] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 32
+[Debug 06:35:55.606] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:35:55.653] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:35:55.670] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:35:55.670] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:35:55.820] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:35:55.820] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:35:56.026] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 34
+[Debug 06:35:56.026] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:35:56.068] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:35:56.148] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:35:56.148] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:35:56.229] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:35:56.229] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:35:56.434] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 36
+[Debug 06:35:56.434] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:35:56.451] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:35:56.451] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:35:56.595] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:35:56.595] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:35:56.676] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:35:56.677] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:35:56.769] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:35:56.769] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:35:56.974] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 40
+[Debug 06:35:56.974] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:35:56.994] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:35:56.994] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:35:57.206] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:35:57.206] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:35:57.412] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 42
+[Debug 06:35:57.412] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:35:57.453] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:35:57.561] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 42
+[Trace 06:35:58.421] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:35:58.421] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:35:58.630] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 43
+[Debug 06:35:58.630] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:35:58.779] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 43
+[Debug 06:35:58.779] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:35:59.093] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:35:59.093] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:35:59.285] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:35:59.285] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:35:59.487] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 45
+[Debug 06:35:59.487] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:35:59.532] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:35:59.620] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:35:59.620] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:35:59.831] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 46
+[Debug 06:35:59.831] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:35:59.868] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:35:59.981] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 46
+[Trace 06:36:00.005] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:00.005] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:00.149] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:00.149] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:36:00.358] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 48
+[Debug 06:36:00.358] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:36:00.397] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:36:00.401] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:00.401] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:36:00.612] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 49
+[Debug 06:36:00.613] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:36:00.652] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:36:00.691] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:00.692] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:36:00.898] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 50
+[Debug 06:36:00.898] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:36:00.940] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:36:01.046] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 50
+[Trace 06:36:03.005] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:03.005] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:36:03.215] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 51
+[Debug 06:36:03.215] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:36:03.261] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:03.261] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:03.405] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:03.405] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:36:03.606] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 53
+[Debug 06:36:03.606] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:36:03.653] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:36:03.755] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 53
+[Trace 06:36:03.860] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:03.860] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:04.003] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:04.003] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:36:04.206] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 55
+[Debug 06:36:04.206] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:36:04.324] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:04.324] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:04.386] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:04.386] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:04.468] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:04.468] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:04.533] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:04.534] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:04.625] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:04.626] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:04.725] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:04.726] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:36:04.782] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:36:04.904] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:04.904] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:05.046] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:05.046] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:36:05.247] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 63
+[Debug 06:36:05.247] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:36:05.399] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 63
+[Debug 06:36:05.399] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:36:07.157] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:07.158] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:07.190] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:07.191] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:36:07.399] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 65
+[Debug 06:36:07.399] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:36:07.436] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:36:07.549] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 65
+[Trace 06:36:19.234] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:19.234] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:36:19.441] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 66
+[Debug 06:36:19.441] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:36:19.486] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:36:19.585] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 66
+[Trace 06:36:20.327] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:20.327] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:20.501] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:20.502] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:36:20.704] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 68
+[Debug 06:36:20.704] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:36:20.769] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:20.769] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:20.935] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:20.935] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:21.046] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:21.046] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:36:21.249] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 71
+[Debug 06:36:21.249] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:36:21.292] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:36:21.317] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:21.318] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:36:21.514] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 72
+[Debug 06:36:21.514] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:36:21.564] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:36:21.671] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 72
+[Trace 06:36:21.744] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:21.744] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:36:21.956] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 73
+[Debug 06:36:21.956] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:36:21.971] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:21.972] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:36:22.181] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 74
+[Debug 06:36:22.181] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:36:22.219] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:36:22.319] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 74
+[Trace 06:36:22.836] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:22.836] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:22.979] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:22.979] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:36:23.188] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 76
+[Debug 06:36:23.188] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:36:23.216] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:23.216] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:36:23.434] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 77
+[Debug 06:36:23.434] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:36:23.474] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:23.474] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:23.578] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:23.579] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:23.701] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:23.701] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:36:23.724] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:36:23.895] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:23.895] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:23.939] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:23.939] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:24.133] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:24.133] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:36:24.140] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:36:24.194] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:24.195] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:24.195] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:24.195] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:36:24.392] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 85
+[Debug 06:36:24.393] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:36:24.434] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:24.435] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:36:24.441] LinkProvider: compute - file:///home/ubuntu/README.md
+[Debug 06:36:24.634] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 86
+[Debug 06:36:24.634] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:36:24.787] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:24.787] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:24.947] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:24.948] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:25.077] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:25.077] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:36:25.273] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 89
+[Debug 06:36:25.274] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:36:25.323] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:36:25.435] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:25.435] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:25.579] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:25.579] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:36:25.778] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 91
+[Debug 06:36:25.778] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:36:25.941] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 91
+[Debug 06:36:25.942] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:36:26.214] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:26.214] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:26.276] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:26.276] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:26.387] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:26.387] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:26.478] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:26.478] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:26.478] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:26.479] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:26.507] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:26.507] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:26.663] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:26.664] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:26.726] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:26.726] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:26.769] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:26.769] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:36:26.979] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 100
+[Debug 06:36:26.979] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:36:26.998] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:26.998] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:27.075] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:27.075] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:27.169] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:27.169] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:36:27.245] LinkProvider: compute - file:///home/ubuntu/README.md
+[Debug 06:36:27.371] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 103
+[Debug 06:36:27.371] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:36:27.391] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:27.391] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:27.464] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:27.465] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:36:27.643] LinkProvider: compute - file:///home/ubuntu/README.md
+[Debug 06:36:27.664] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 105
+[Debug 06:36:27.664] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:36:27.744] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:27.745] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:27.799] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:27.799] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:27.799] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:27.800] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:28.004] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:28.004] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:28.072] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Debug 06:36:28.072] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:36:28.072] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:28.246] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:28.246] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:28.436] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:28.436] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:36:28.490] LinkProvider: compute - file:///home/ubuntu/README.md
+[Debug 06:36:28.636] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 112
+[Debug 06:36:28.636] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:36:28.784] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 112
+[Trace 06:36:28.908] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:28.908] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:29.074] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:29.074] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:29.074] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:29.075] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:29.259] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:29.259] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:36:29.320] LinkProvider: compute - file:///home/ubuntu/README.md
+[Debug 06:36:29.462] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 116
+[Debug 06:36:29.462] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:36:29.611] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 116
+[Trace 06:36:33.863] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:33.863] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:34.038] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:34.039] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:34.182] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:34.182] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:36:34.376] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 119
+[Debug 06:36:34.376] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:36:34.417] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:34.418] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:36:34.630] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 120
+[Debug 06:36:34.630] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:36:34.668] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:36:34.779] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 120
+[Trace 06:36:35.570] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:35.570] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:36:35.772] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 121
+[Debug 06:36:35.772] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:36:35.821] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:36:35.921] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 121
+[Trace 06:36:36.919] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:36.919] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:36:37.124] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 122
+[Debug 06:36:37.125] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:36:37.275] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 122
+[Debug 06:36:37.276] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:36:37.509] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:37.509] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:36:37.714] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 123
+[Debug 06:36:37.714] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:36:37.759] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:36:37.862] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 123
+[Trace 06:36:38.230] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:38.231] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:36:38.433] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 124
+[Debug 06:36:38.433] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:36:38.464] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:38.464] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:36:38.675] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 125
+[Debug 06:36:38.675] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:36:38.824] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 125
+[Debug 06:36:38.824] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:36:39.023] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:39.023] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:36:39.229] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 126
+[Debug 06:36:39.230] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:36:39.381] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 126
+[Debug 06:36:39.381] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:36:39.494] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:39.494] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:39.558] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:39.559] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:36:39.758] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 128
+[Debug 06:36:39.758] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:36:39.806] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:36:39.861] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:39.861] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:40.020] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:40.020] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:36:40.221] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 130
+[Debug 06:36:40.222] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:36:40.373] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 130
+[Debug 06:36:40.373] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:36:40.438] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:40.438] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:40.589] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:40.590] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:40.734] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:40.734] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:36:40.943] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 133
+[Debug 06:36:40.943] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:36:40.979] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:36:41.093] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 133
+[Trace 06:36:41.167] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:41.168] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:41.310] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:41.311] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:41.476] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:41.476] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:36:41.682] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 136
+[Debug 06:36:41.682] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:36:41.824] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 136
+[Debug 06:36:41.824] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:36:41.997] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:41.997] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:42.078] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:42.078] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:42.206] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:42.206] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:42.397] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:42.398] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:36:42.597] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 140
+[Debug 06:36:42.597] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:36:42.646] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:36:42.699] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:42.700] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:36:42.913] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 141
+[Debug 06:36:42.913] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:36:42.950] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:36:43.023] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:43.023] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:43.132] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:43.133] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:43.195] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:43.195] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:43.276] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Debug 06:36:43.276] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:36:43.276] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:36:43.484] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 145
+[Debug 06:36:43.485] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:36:43.546] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:43.546] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:43.683] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:43.684] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:43.786] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:43.786] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:36:43.797] LinkProvider: compute - file:///home/ubuntu/README.md
+[Debug 06:36:43.996] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 148
+[Debug 06:36:43.996] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:36:44.146] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 148
+[Trace 06:36:44.632] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:44.632] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:44.713] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:44.713] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:44.818] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:44.818] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:36:44.881] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:36:44.986] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:44.987] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:44.987] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:44.987] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:36:45.182] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 153
+[Debug 06:36:45.183] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:36:45.232] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:36:45.284] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:45.284] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:45.372] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:45.372] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:45.448] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:45.448] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:45.575] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:45.575] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:45.617] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:45.618] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:45.763] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:45.764] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:45.799] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:45.799] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:45.800] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:45.800] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:45.924] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:45.924] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:36:46.055] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:36:46.083] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:46.083] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:46.178] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:46.178] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:46.244] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:46.244] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:46.345] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:46.345] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:46.510] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:46.510] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:46.556] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:46.556] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:46.699] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:46.700] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:36:46.762] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:36:46.787] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:46.787] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:46.787] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:46.788] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:46.825] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:46.826] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:46.912] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:46.912] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:47.003] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:47.003] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:47.084] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:47.084] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:47.173] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:47.173] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Debug 06:36:47.173] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:36:47.173] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:47.174] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:47.279] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:47.279] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:47.406] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:47.406] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:47.484] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:47.484] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:47.627] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:47.627] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:36:47.652] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:36:47.704] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:47.704] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:47.704] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:47.705] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:47.756] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:47.756] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:47.852] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:47.853] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:47.931] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:47.932] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:48.038] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:48.039] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:48.192] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:48.192] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:48.232] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:48.232] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:48.347] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:48.348] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:36:48.446] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:36:48.497] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:48.497] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:48.620] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:48.621] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:36:48.747] LinkProvider: compute - file:///home/ubuntu/README.md
+[Debug 06:36:48.815] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 192
+[Debug 06:36:48.815] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:36:48.972] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 192
+[Trace 06:36:48.993] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:48.993] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:49.126] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:49.126] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:49.267] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:49.267] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:49.411] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:49.411] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:36:49.619] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 196
+[Debug 06:36:49.619] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:36:49.660] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:36:49.700] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:49.700] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:49.822] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:49.822] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:49.893] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:49.893] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:50.021] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:50.021] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:50.045] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:50.046] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:50.046] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:50.046] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:50.170] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:50.170] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:50.359] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:50.359] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:50.446] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:50.447] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:50.530] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:50.531] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:36:50.604] LinkProvider: compute - file:///home/ubuntu/README.md
+[Debug 06:36:50.733] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 206
+[Debug 06:36:50.733] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:36:50.883] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 206
+[Trace 06:36:50.965] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:50.965] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:51.091] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:51.092] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:51.203] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:51.203] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:36:51.411] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 209
+[Debug 06:36:51.411] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:36:51.565] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:51.566] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:51.691] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:51.691] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:51.802] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:51.802] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:36:51.812] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:36:51.983] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:51.983] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:52.080] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:52.080] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:36:52.237] LinkProvider: compute - file:///home/ubuntu/README.md
+[Debug 06:36:52.281] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 214
+[Debug 06:36:52.281] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:36:52.432] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 214
+[Trace 06:36:57.686] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:57.686] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:57.830] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:57.830] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:57.982] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:57.982] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:58.057] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:58.057] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:58.242] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:58.242] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:36:58.438] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 219
+[Debug 06:36:58.438] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:36:58.588] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 219
+[Debug 06:36:58.588] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:36:58.606] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:58.606] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:58.749] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:58.749] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:36:58.877] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:58.878] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:36:59.085] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 222
+[Debug 06:36:59.086] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:36:59.125] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:36:59.236] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 222
+[Trace 06:36:59.765] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:36:59.765] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:36:59.975] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 223
+[Debug 06:36:59.975] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:37:00.123] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 223
+[Debug 06:37:00.123] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:37:00.608] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:00.608] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:37:00.814] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:00.814] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:37:01.011] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 225
+[Debug 06:37:01.011] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:37:01.176] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 225
+[Debug 06:37:01.176] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:37:01.334] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:01.334] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:37:01.529] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 226
+[Debug 06:37:01.529] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:37:01.575] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:01.575] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:37:01.779] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 227
+[Debug 06:37:01.779] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:37:01.892] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:01.893] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:37:02.094] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 228
+[Debug 06:37:02.094] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:37:02.246] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:02.246] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:37:02.405] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:02.405] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:37:02.533] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:02.533] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:37:02.710] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:02.710] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:37:02.836] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:02.836] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:37:03.041] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 233
+[Debug 06:37:03.041] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:37:03.084] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:37:03.190] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 233
+[Trace 06:37:03.429] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:03.429] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:37:03.542] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:03.542] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:37:03.683] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:03.683] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:37:03.788] LinkProvider: compute - file:///home/ubuntu/README.md
+[Debug 06:37:03.884] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 236
+[Debug 06:37:03.884] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:37:03.936] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:03.936] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:37:04.095] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:04.095] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:37:04.303] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:04.303] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:37:04.379] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:04.380] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:37:04.474] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:04.475] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:37:04.549] LinkProvider: compute - file:///home/ubuntu/README.md
+[Debug 06:37:04.678] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 241
+[Debug 06:37:04.678] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:37:04.719] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:04.719] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:04.719] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:37:04.720] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:37:04.919] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 243
+[Debug 06:37:04.919] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:37:04.956] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:04.956] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:37:04.967] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:37:05.119] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:05.119] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:37:05.313] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 245
+[Debug 06:37:05.314] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:37:05.364] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:37:05.476] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 245
+[Trace 06:37:05.563] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:05.563] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:37:05.663] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:05.663] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:37:05.787] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:05.787] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:37:05.849] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:05.849] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:37:05.913] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:37:06.016] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:06.016] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:37:06.059] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:06.059] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:37:06.260] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 251
+[Debug 06:37:06.260] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:37:06.260] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:37:06.408] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 251
+[Trace 06:37:14.975] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:14.975] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:37:15.120] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:15.120] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:37:15.311] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:15.311] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:37:15.374] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:15.374] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:37:15.580] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 255
+[Debug 06:37:15.580] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:37:15.599] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:15.599] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:37:15.809] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 256
+[Debug 06:37:15.809] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:37:15.957] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 256
+[Debug 06:37:15.958] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:37:16.246] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:16.246] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:37:16.454] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 257
+[Debug 06:37:16.454] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:37:16.492] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:37:16.604] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 257
+[Trace 06:37:17.302] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:17.302] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:37:17.330] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:17.330] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:37:17.533] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 259
+[Debug 06:37:17.533] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:37:17.548] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:37:17.601] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:17.601] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:37:17.751] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:17.751] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:37:17.959] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 261
+[Debug 06:37:17.959] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:37:17.997] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:37:18.108] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 261
+[Trace 06:37:18.277] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:18.278] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:37:18.391] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:18.391] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:37:18.485] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:18.485] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:37:18.577] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:18.577] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:37:18.676] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:18.676] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:37:18.875] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 266
+[Debug 06:37:18.875] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:37:18.925] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:37:19.025] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 266
+[Trace 06:37:19.125] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:19.125] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:37:19.326] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 267
+[Debug 06:37:19.326] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:37:19.359] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:19.359] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:37:19.446] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:19.446] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:37:19.572] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:19.573] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:37:19.749] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:19.749] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:37:19.960] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 271
+[Debug 06:37:19.960] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:37:19.998] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:37:20.109] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 271
+[Trace 06:37:20.173] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:20.173] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:37:20.379] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 272
+[Debug 06:37:20.379] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:37:20.420] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:37:20.520] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 272
+[Trace 06:37:28.326] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:28.326] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:37:28.415] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:28.415] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:37:28.498] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:28.498] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:37:28.708] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 275
+[Debug 06:37:28.708] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:37:28.749] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:37:28.857] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 275
+[Trace 06:37:29.171] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:29.171] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:37:29.330] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:29.331] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:37:29.508] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:29.508] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:37:29.716] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 278
+[Debug 06:37:29.717] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:37:29.757] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:37:29.866] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 278
+[Trace 06:37:31.727] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:31.727] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:37:31.876] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:31.876] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:37:32.051] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:32.051] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:37:32.195] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:32.195] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:37:32.405] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 282
+[Debug 06:37:32.406] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:37:32.445] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:37:32.557] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 282
+[Trace 06:37:32.768] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:32.768] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:37:32.979] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 283
+[Debug 06:37:32.979] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:37:33.129] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 283
+[Debug 06:37:33.129] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:37:33.486] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:33.488] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:37:33.571] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:33.572] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:37:33.716] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:33.716] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:37:33.859] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:33.860] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:37:34.061] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 287
+[Debug 06:37:34.061] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:37:34.107] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:37:34.130] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:34.130] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:37:34.328] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 288
+[Debug 06:37:34.328] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:37:34.412] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:34.413] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:37:34.509] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:34.509] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:37:34.685] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:34.685] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:37:34.861] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:34.861] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:37:34.940] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:34.940] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:37:35.044] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:35.044] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:37:35.116] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:35.117] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:37:35.262] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:35.262] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:37:35.472] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 296
+[Debug 06:37:35.472] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:37:35.518] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:37:35.608] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 296
+[Trace 06:37:36.413] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:36.413] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:37:36.556] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:36.557] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:37:36.649] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:36.649] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:37:36.856] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 299
+[Debug 06:37:36.856] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:37:36.902] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:37:37.008] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 299
+[Trace 06:37:37.091] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:37.091] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:37:37.301] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 300
+[Debug 06:37:37.301] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:37:37.301] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:37.305] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:37:37.429] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:37.429] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:37:37.639] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 302
+[Debug 06:37:37.640] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:37:37.677] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:37:37.790] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 302
+[Trace 06:37:38.099] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:38.099] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:37:38.296] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:38.297] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:37:38.402] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:38.402] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:37:38.511] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:38.511] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:37:38.592] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:38.592] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:37:38.677] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:38.678] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:37:38.888] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 308
+[Debug 06:37:38.888] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:37:38.932] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:37:39.037] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 308
+[Trace 06:37:41.349] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:41.349] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:37:41.429] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:41.430] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:37:41.639] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 310
+[Debug 06:37:41.639] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:37:41.680] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:41.680] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:37:41.895] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 311
+[Debug 06:37:41.896] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:37:41.933] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:37:42.045] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 311
+[Trace 06:37:43.077] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:43.077] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:37:43.277] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 312
+[Debug 06:37:43.277] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:37:43.327] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:37:43.428] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 312
+[Trace 06:37:43.708] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:43.708] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:37:43.907] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 313
+[Debug 06:37:43.907] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:37:43.957] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:37:43.992] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:43.992] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:37:44.195] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 314
+[Debug 06:37:44.196] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:37:44.245] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:37:44.345] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 314
+[Trace 06:37:44.543] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:44.543] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:37:44.749] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 315
+[Debug 06:37:44.750] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:37:44.769] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:44.769] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:37:44.866] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:44.866] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:37:45.045] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:45.045] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:37:45.173] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:45.174] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:37:45.264] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:45.265] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:37:45.471] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 320
+[Debug 06:37:45.471] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:37:45.516] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:37:45.621] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 320
+[Trace 06:37:45.942] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:45.942] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:37:46.150] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 321
+[Debug 06:37:46.150] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:37:46.189] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:37:46.300] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 321
+[Trace 06:37:46.812] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:46.813] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:37:47.021] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 322
+[Debug 06:37:47.021] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:37:47.059] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:37:47.170] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 322
+[Trace 06:37:47.886] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:47.886] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:37:48.090] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 323
+[Debug 06:37:48.090] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:37:48.133] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:37:48.240] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 323
+[Trace 06:37:48.795] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:48.795] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:37:48.992] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 324
+[Debug 06:37:48.993] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:37:49.046] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:37:49.156] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 324
+[Trace 06:37:49.382] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:49.382] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:37:49.592] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 325
+[Debug 06:37:49.592] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:37:49.629] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:37:49.702] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:49.702] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:37:49.800] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:49.800] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:37:50.022] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 327
+[Debug 06:37:50.022] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:37:50.022] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:50.023] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:37:50.133] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:50.133] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:37:50.329] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 329
+[Debug 06:37:50.330] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:37:50.381] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:37:50.495] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 329
+[Trace 06:37:51.823] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:51.824] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:37:51.965] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:51.965] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:37:52.166] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 331
+[Debug 06:37:52.166] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:37:52.316] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 331
+[Debug 06:37:52.316] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:37:52.364] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:52.364] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:37:52.571] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 332
+[Debug 06:37:52.571] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:37:52.612] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:37:52.635] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:52.635] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:37:52.843] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 333
+[Debug 06:37:52.843] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:37:52.993] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 333
+[Debug 06:37:52.993] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:37:53.076] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:53.076] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:37:53.278] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 334
+[Debug 06:37:53.278] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:37:53.428] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 334
+[Debug 06:37:53.428] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:37:53.782] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:53.783] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:37:53.984] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 335
+[Debug 06:37:53.985] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:37:54.138] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 335
+[Debug 06:37:54.138] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:37:56.302] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:56.303] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:37:56.443] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:56.443] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:37:56.507] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:56.507] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:37:56.548] LinkProvider: compute - file:///home/ubuntu/README.md
+[Debug 06:37:56.707] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 338
+[Debug 06:37:56.707] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:37:56.857] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 338
+[Trace 06:37:56.975] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:56.975] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:37:57.116] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:57.117] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:37:57.228] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Debug 06:37:57.228] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:37:57.228] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:37:57.426] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 341
+[Debug 06:37:57.426] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:37:57.464] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:57.464] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:37:57.667] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 342
+[Debug 06:37:57.667] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:37:57.676] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:57.676] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:37:57.838] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:57.838] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:37:57.979] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:57.979] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:37:58.140] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:58.141] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:37:58.334] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:58.334] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:37:58.411] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:58.411] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:37:58.492] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:58.492] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:37:58.580] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:37:58.640] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:58.640] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:58.640] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:58.640] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:37:58.641] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:37:58.799] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:58.799] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:37:58.989] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:58.990] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:37:59.116] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:59.116] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:37:59.244] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:59.245] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:37:59.390] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:59.390] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:37:59.474] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:59.475] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:37:59.545] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:59.547] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:37:59.636] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:37:59.711] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:59.711] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:37:59.768] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:59.769] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:37:59.835] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:59.836] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:37:59.959] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:37:59.998] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:37:59.998] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:38:00.059] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:00.059] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:38:00.139] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:00.140] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:38:00.242] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:00.242] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:00.242] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:38:00.243] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:38:00.280] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:00.280] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:38:00.378] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:00.378] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:38:00.510] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:00.510] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:38:00.588] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:00.588] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:38:00.767] LinkProvider: compute - file:///home/ubuntu/README.md
+[Debug 06:38:00.782] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 371
+[Debug 06:38:00.782] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:38:00.809] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:00.809] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:38:00.942] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:00.942] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:38:01.054] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:01.054] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:38:01.164] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:01.165] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:38:01.211] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:01.211] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:38:01.281] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:01.281] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:38:01.353] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:01.353] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:38:01.483] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:01.484] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:38:01.525] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:38:01.597] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:01.597] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:38:01.684] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:01.684] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:01.684] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:38:01.685] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:38:01.880] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 382
+[Debug 06:38:01.880] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:38:01.929] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:38:02.029] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 382
+[Trace 06:38:07.854] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:07.855] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:38:07.998] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:07.999] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:38:08.125] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:08.126] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:38:08.328] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 385
+[Debug 06:38:08.328] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:38:08.371] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:38:08.413] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:08.414] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:38:08.608] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:08.608] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:38:08.775] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:08.775] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:38:08.971] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 388
+[Debug 06:38:08.971] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:38:09.094] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:09.094] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:38:09.260] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:09.260] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:38:09.452] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 390
+[Debug 06:38:09.452] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:38:09.502] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:38:09.601] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 390
+[Trace 06:38:13.264] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:13.264] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:38:13.467] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 391
+[Debug 06:38:13.467] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:38:13.524] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:13.524] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:38:13.721] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 392
+[Debug 06:38:13.722] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:38:13.845] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:13.846] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:38:13.963] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:38:13.971] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:13.971] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:38:14.175] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 394
+[Debug 06:38:14.175] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:38:14.325] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 394
+[Debug 06:38:14.325] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:38:14.456] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:14.456] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:38:14.617] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:14.617] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:38:14.728] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:14.728] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:38:14.926] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 397
+[Debug 06:38:14.926] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:38:14.959] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:14.959] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:38:15.085] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:15.085] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:38:15.213] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:15.213] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:38:15.421] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 400
+[Debug 06:38:15.421] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:38:15.459] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:38:15.549] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:15.549] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:38:15.750] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 401
+[Debug 06:38:15.750] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:38:15.795] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:38:15.816] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:15.817] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:38:15.935] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:15.935] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:38:16.095] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:16.095] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:38:16.189] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:16.190] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:38:16.301] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:16.301] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:38:16.505] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 406
+[Debug 06:38:16.506] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:38:16.549] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:38:16.655] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 406
+[Trace 06:38:17.412] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:17.412] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:38:17.524] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:38:17.542] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:17.543] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:38:17.675] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:17.675] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:38:17.803] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:17.803] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:38:18.011] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:18.012] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:38:18.220] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 411
+[Debug 06:38:18.220] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:38:18.362] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 411
+[Debug 06:38:18.362] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:38:18.647] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:18.647] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:38:18.758] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:18.758] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:38:18.935] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:18.935] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:38:19.134] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 414
+[Debug 06:38:19.135] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:38:19.181] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:38:19.285] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 414
+[Trace 06:38:19.398] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:19.398] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:38:19.542] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:19.542] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:38:19.750] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 416
+[Debug 06:38:19.751] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:38:19.775] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:19.775] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:38:19.907] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:19.907] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:38:20.106] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 418
+[Debug 06:38:20.106] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:38:20.113] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:20.113] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:38:20.260] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:20.261] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:38:20.389] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:20.389] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:38:20.565] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:20.565] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:38:20.694] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:20.694] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:38:20.893] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 423
+[Debug 06:38:20.893] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:38:20.942] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:38:21.043] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 423
+[Trace 06:38:33.672] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:33.672] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:38:33.799] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:33.799] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:38:33.958] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:33.958] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:38:34.062] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:34.062] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:38:34.263] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 427
+[Debug 06:38:34.263] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:38:34.309] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:38:34.414] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 427
+[Trace 06:38:34.975] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:34.975] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:38:35.179] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 428
+[Debug 06:38:35.179] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:38:35.329] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 428
+[Debug 06:38:35.329] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:38:35.369] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:35.370] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:38:35.454] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:35.455] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:38:35.583] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:35.583] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:38:35.780] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 431
+[Debug 06:38:35.781] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:38:35.828] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:38:35.930] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 431
+[Trace 06:38:36.246] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:36.246] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:38:36.337] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:36.337] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:38:36.542] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 433
+[Debug 06:38:36.542] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:38:36.590] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:38:36.699] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 433
+[Trace 06:38:37.143] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:37.143] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:38:37.254] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:37.255] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:38:37.346] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:37.346] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:38:37.510] LinkProvider: compute - file:///home/ubuntu/README.md
+[Debug 06:38:37.544] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 436
+[Debug 06:38:37.544] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:38:37.705] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 436
+[Trace 06:38:37.716] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:37.716] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:38:37.753] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:37.753] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:37.753] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:38:37.754] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:38:37.860] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:37.860] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:38:37.932] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:37.933] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:37.933] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:38:37.934] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:38:37.986] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:37.986] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:38:38.188] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 443
+[Debug 06:38:38.189] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:38:38.189] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:38:38.338] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 443
+[Trace 06:38:45.742] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:45.742] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:38:45.874] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:45.874] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:38:46.082] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 445
+[Debug 06:38:46.082] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:38:46.118] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:38:46.216] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 445
+[Trace 06:38:46.370] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:46.370] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:38:46.564] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 446
+[Debug 06:38:46.565] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:38:46.615] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:38:46.730] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 446
+[Trace 06:38:50.361] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:50.361] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:38:50.470] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:50.470] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:38:50.647] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:50.648] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:38:50.725] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:50.725] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:38:50.821] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:50.822] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:38:50.893] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:38:50.964] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:50.964] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:50.965] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:38:50.966] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:38:51.043] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:51.043] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:38:51.256] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 454
+[Debug 06:38:51.256] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:38:51.395] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:51.396] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:38:51.483] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:51.483] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:38:51.638] LinkProvider: compute - file:///home/ubuntu/README.md
+[Debug 06:38:51.681] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 456
+[Debug 06:38:51.682] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:38:51.843] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 456
+[Trace 06:38:52.067] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:52.067] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:38:52.185] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:52.185] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:38:52.378] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 458
+[Debug 06:38:52.378] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:38:52.470] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:52.470] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:38:52.632] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:52.632] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:38:52.837] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 460
+[Debug 06:38:52.837] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:38:52.877] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:38:52.989] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 460
+[Trace 06:38:53.184] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:53.185] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:38:53.304] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:53.304] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:38:53.446] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:53.446] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:38:53.649] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 463
+[Debug 06:38:53.649] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:38:53.694] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:38:53.798] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 463
+[Trace 06:38:54.197] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:54.197] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:54.197] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:38:54.198] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:38:54.401] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 465
+[Debug 06:38:54.401] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:38:54.446] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:38:54.553] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 465
+[Trace 06:38:54.575] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:54.576] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:38:54.669] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:54.669] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:38:54.765] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:54.765] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:38:54.972] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 468
+[Debug 06:38:54.972] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:38:54.990] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:54.990] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:38:55.198] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 469
+[Debug 06:38:55.198] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:38:55.236] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:38:55.245] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:55.245] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:38:55.358] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:55.358] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:38:55.450] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:55.450] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:38:55.553] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:55.553] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:38:55.769] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 473
+[Debug 06:38:55.769] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:38:55.804] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:38:55.919] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 473
+[Trace 06:38:56.230] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:56.231] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:38:56.373] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:56.373] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:38:56.584] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 475
+[Debug 06:38:56.584] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:38:56.620] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:38:56.734] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 475
+[Trace 06:38:56.848] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:56.848] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:38:57.049] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 476
+[Debug 06:38:57.049] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:38:57.094] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:38:57.198] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 476
+[Trace 06:38:57.414] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:57.415] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:38:57.478] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:57.478] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:38:57.681] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 478
+[Debug 06:38:57.681] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:38:57.725] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:38:57.828] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 478
+[Trace 06:38:57.862] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:57.863] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:38:58.008] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:58.008] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:38:58.224] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:58.224] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:38:58.419] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 481
+[Debug 06:38:58.419] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:38:58.441] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:58.441] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:38:58.542] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:58.542] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:38:58.621] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:58.622] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:38:58.825] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 484
+[Debug 06:38:58.825] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:38:58.870] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:38:58.975] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 484
+[Trace 06:38:59.015] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:59.015] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:38:59.149] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:59.149] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:38:59.279] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:59.280] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:38:59.445] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:38:59.446] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:38:59.651] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 488
+[Debug 06:38:59.651] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:38:59.692] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:38:59.800] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 488
+[Trace 06:39:00.089] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:39:00.089] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:39:00.283] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 489
+[Debug 06:39:00.283] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:39:00.343] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:39:00.343] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:39:00.536] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 490
+[Debug 06:39:00.537] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:39:00.588] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:39:00.595] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:39:00.595] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:39:00.809] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 491
+[Debug 06:39:00.809] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:39:00.847] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:39:00.958] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 491
+[Trace 06:39:00.981] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:39:00.981] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:39:01.093] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:39:01.093] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:39:01.290] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 493
+[Debug 06:39:01.290] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:39:01.304] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:39:01.304] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:39:01.501] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 494
+[Debug 06:39:01.501] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:39:01.665] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 494
+[Debug 06:39:01.665] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:39:01.693] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:39:01.693] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:39:01.820] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:39:01.820] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:39:01.988] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:39:01.989] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:39:02.070] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:39:02.070] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:39:02.267] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 498
+[Debug 06:39:02.267] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:39:02.417] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 498
+[Debug 06:39:02.417] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:39:02.510] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:39:02.510] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:39:02.669] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:39:02.669] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:39:02.799] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:39:02.799] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:39:03.005] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 501
+[Debug 06:39:03.005] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:39:03.044] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:39:03.064] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:39:03.064] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:39:03.278] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:39:03.278] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:39:03.471] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:39:03.472] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:39:03.563] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:39:03.564] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:39:03.661] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:39:03.661] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:39:03.716] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:39:03.767] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:39:03.767] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:39:03.767] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:39:03.768] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:39:03.842] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:39:03.842] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:39:04.030] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:39:04.031] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:39:04.236] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 510
+[Debug 06:39:04.236] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:39:04.252] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:39:04.253] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:39:04.276] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:39:04.332] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:39:04.332] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:39:04.477] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:39:04.477] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:39:04.533] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:39:04.533] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:39:04.533] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:39:04.534] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:39:04.570] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:39:04.570] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:39:04.736] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:39:04.736] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:39:04.778] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:39:04.855] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:39:04.855] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:39:04.856] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:39:04.856] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:39:04.912] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:39:04.913] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:39:05.108] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 520
+[Debug 06:39:05.108] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:39:05.273] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 520
+[Debug 06:39:05.273] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:39:05.550] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:39:05.550] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:39:05.646] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:39:05.646] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:39:05.774] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:39:05.775] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:39:05.934] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:39:05.934] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:39:06.013] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:39:06.014] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:39:06.220] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 525
+[Debug 06:39:06.221] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:39:06.260] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:39:06.295] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:39:06.295] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:39:06.412] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:39:06.413] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:39:06.611] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 527
+[Debug 06:39:06.611] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:39:06.660] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:39:06.761] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 527
+[Trace 06:39:06.911] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:39:06.911] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:39:07.037] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:39:07.037] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:39:07.242] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 529
+[Debug 06:39:07.242] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:39:07.284] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:39:07.385] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 529
+[Trace 06:39:07.405] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:39:07.405] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:39:07.516] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:39:07.516] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:39:07.647] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:39:07.647] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:39:07.726] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:39:07.727] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:39:07.933] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 533
+[Debug 06:39:07.933] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Debug 06:39:07.973] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:39:08.084] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 533
+[Trace 06:39:08.198] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:39:08.198] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:39:08.400] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 534
+[Debug 06:39:08.400] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:39:08.545] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 534
+[Debug 06:39:08.545] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:39:08.858] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:39:08.858] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:39:09.048] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:39:09.048] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:39:09.100] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:39:09.125] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:39:09.125] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:39:09.305] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:39:09.305] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:39:09.394] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:39:09.394] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:39:09.492] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:39:09.492] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:39:09.544] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:39:09.544] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:39:09.752] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 541
+[Debug 06:39:09.752] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:39:09.765] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:39:09.765] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:39:09.879] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:39:09.879] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:39:10.020] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:39:10.020] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:39:10.182] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:39:10.182] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:39:10.244] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:39:10.244] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:39:10.293] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:39:10.293] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:39:10.438] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Debug 06:39:10.438] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:39:10.438] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:39:10.500] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:39:10.500] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:39:10.548] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:39:10.549] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:39:10.649] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:39:10.649] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:39:10.714] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:39:10.714] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:39:10.812] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:39:10.812] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:39:10.869] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:39:10.870] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:39:10.957] LinkProvider: compute - file:///home/ubuntu/README.md
+[Debug 06:39:11.076] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 554
+[Debug 06:39:11.076] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:39:11.093] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:39:11.093] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:39:11.221] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:39:11.221] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:39:11.422] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 556
+[Debug 06:39:11.422] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:39:11.510] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:39:11.511] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:39:11.671] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:39:11.671] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:39:11.761] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:39:11.761] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:39:11.794] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:39:11.794] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:39:11.918] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:39:11.939] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:39:11.939] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:39:12.034] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:39:12.034] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:39:12.129] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:39:12.130] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:39:12.189] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:39:12.238] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:39:12.239] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:39:12.456] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 564
+[Debug 06:39:12.457] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:39:12.457] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:39:12.457] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:39:12.530] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:39:12.531] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:39:12.703] LinkProvider: compute - file:///home/ubuntu/README.md
+[Trace 06:39:12.724] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:39:12.724] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:39:12.742] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:39:12.742] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:39:12.919] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:39:12.919] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:39:12.978] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:39:12.978] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:39:13.076] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ubuntu/README.md
+[Trace 06:39:13.076] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Debug 06:39:13.168] LinkProvider: compute - file:///home/ubuntu/README.md
+[Debug 06:39:13.288] MdFoldingProvider: provideFoldingRanges — file:///home/ubuntu/README.md 571
+[Debug 06:39:13.288] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:39:13.439] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ubuntu/README.md 571
+[Trace 06:39:14.642] VsCodeClientWorkspace: onDidChangeWatchedFiles: 1: file:///home/ubuntu/.vscode-server/data/User/History/59e9ef3f/wHD9.md
+[Trace 06:39:14.642] VsCodeClientWorkspace: onDidChangeWatchedFiles: 2: file:///home/ubuntu/README.md
+[Trace 06:39:17.876] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:39:18.574] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md

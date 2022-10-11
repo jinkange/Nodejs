@@ -163,3 +163,37 @@ sudo docker start blissful_blackburn
 docker ps
 sudo docker ps
 sudo su
+\sudo su
+ls
+cd de
+cd docker_test/
+sudo docker build -f Dockerfile -t docker_test .
+ls
+cd docker_test/
+docker build -f Dockerfile -t docker_test .
+sudo docker build -f Dockerfile -t docker_test .
+sudo su
+ls
+cd docker_test/
+docker login
+sudo su
+l
+ls
+cd docker_test/
+sudo docker build -f Dockerfile -t docker_test .
+vim Dockerfile 
+sudo docker build -f Dockerfile -t docker_test .
+docker images
+sudo docker images
+docker run -d -p 3002:3002 docker_test
+sudo docker run -d -p 3002:3002 docker_test
+docker ps
+sudo docker ps
+docker attach renerent_elgmal
+sudo docker attach renerent_elgmal
+sudo docker attach reverent_elgamal
+ls
+cd docker_test/
+docker image
+docker images
+sudo su

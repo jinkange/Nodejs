@@ -1,0 +1,17 @@
+[2022-10-06 08:11:17.432] [remoteagent] [info] Extension host agent started.
+[2022-10-06 08:11:17.859] [remoteagent] [info] [127.0.0.1][79c273fa][ManagementConnection] New connection established.
+[2022-10-06 08:11:17.861] [remoteagent] [info] [127.0.0.1][0e1c9c57][ExtensionHostConnection] New connection established.
+[2022-10-06 08:11:17.865] [remoteagent] [info] [127.0.0.1][0e1c9c57][ExtensionHostConnection] <1466> Launched Extension Host Process.
+[2022-10-06 08:11:23.797] [remoteagent] [info] [127.0.0.1][79c273fa][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-10-06 08:11:23.811] [remoteagent] [info] [127.0.0.1][0e1c9c57][ExtensionHostConnection] <1466> Extension Host Process exited with code: 0, signal: null.
+[2022-10-06 08:11:23.812] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-10-06 08:11:28.409] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2022-10-06 08:11:28.409] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-10-06 08:11:28.507] [remoteagent] [info] [127.0.0.1][154dffc9][ManagementConnection] New connection established.
+[2022-10-06 08:11:28.554] [remoteagent] [info] [127.0.0.1][f83d63d5][ExtensionHostConnection] New connection established.
+[2022-10-06 08:11:28.584] [remoteagent] [info] [127.0.0.1][f83d63d5][ExtensionHostConnection] <1623> Launched Extension Host Process.
+[2022-10-06 08:11:30.945] [remoteagent] [error] ["CodeExpectedError: Could not find pty on pty host","    at c._throwIfNoPty (/home/ubuntu/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/platform/terminal/node/ptyHostMain.js:23:36316)","    at c.updateTitle (/home/ubuntu/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/platform/terminal/node/ptyHostMain.js:23:32064)","    at Object.call (/home/ubuntu/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/platform/terminal/node/ptyHostMain.js:16:8386)","    at u.onPromise (/home/ubuntu/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/platform/terminal/node/ptyHostMain.js:15:5851)","    at u.onRawMessage (/home/ubuntu/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/platform/terminal/node/ptyHostMain.js:15:5234)","    at /home/ubuntu/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/platform/terminal/node/ptyHostMain.js:15:4520","    at p.invoke (/home/ubuntu/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/platform/terminal/node/ptyHostMain.js:11:145)","    at D.deliver (/home/ubuntu/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/platform/terminal/node/ptyHostMain.js:11:2275)","    at T.fire (/home/ubuntu/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/platform/terminal/node/ptyHostMain.js:11:1853)","    at process.Q (/home/ubuntu/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/platform/terminal/node/ptyHostMain.js:9:20703)","    at process.emit (node:events:526:28)","    at emit (node:internal/child_process:938:14)","    at processTicksAndRejections (node:internal/process/task_queues:84:21)"]
+[2022-10-06 08:16:28.410] [remoteagent] [info] New EH opened, aborting shutdown
+[2022-10-06 08:22:41.475] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-10-06 08:23:03.437] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-10-06 08:24:36.887] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
