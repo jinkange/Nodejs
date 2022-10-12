@@ -1784,3 +1784,14 @@
 [Trace 06:39:17.876] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
 [Trace 06:39:18.574] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
 [Debug 06:43:17.494] TableOfContentsProvider: create - file:///home/ubuntu/README.md
+[Trace 06:46:23.429] VsCodeClientWorkspace: onDidChangeWatchedFiles: 3: file:///home/ubuntu/express/Nodejs/README.md
+[Trace 06:50:23.002] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:52:51.492] Server: connection.languages.diagnostics.on: file:///home/ubuntu/README.md
+[Trace 06:52:51.493] VsCodeClientWorkspace: TextDocument.onDidClose: file:///home/ubuntu/README.md
+[Trace 07:21:56.995] VsCodeClientWorkspace: onDidChangeWatchedFiles: 1: file:///home/ubuntu/.yarn/README.md
+[Trace 07:22:25.327] VsCodeClientWorkspace: onDidChangeWatchedFiles: 1: file:///home/ubuntu/.nvm/.github/ISSUE_TEMPLATE.md
+[Trace 07:22:25.328] VsCodeClientWorkspace: onDidChangeWatchedFiles: 1: file:///home/ubuntu/.nvm/CONTRIBUTING.md
+[Trace 07:22:25.328] VsCodeClientWorkspace: onDidChangeWatchedFiles: 1: file:///home/ubuntu/.nvm/LICENSE.md
+[Trace 07:22:25.328] VsCodeClientWorkspace: onDidChangeWatchedFiles: 1: file:///home/ubuntu/.nvm/README.md
+[Trace 07:22:25.328] VsCodeClientWorkspace: onDidChangeWatchedFiles: 1: file:///home/ubuntu/.nvm/ROADMAP.md
+[Trace 07:23:24.067] VsCodeClientWorkspace: onDidChangeWatchedFiles: 1: file:///home/ubuntu/.yarn/README.md

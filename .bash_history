@@ -241,3 +241,105 @@ ls
 cd ..
 git commit -m "react nginx 연결"
 git push
+15.164.216.178df
+df
+ls
+pwd
+cd jinkange/
+ls
+cd ..
+ssh-keygen
+ls
+pwd
+git push
+ls
+git push
+git add .
+git commit -m "vscode git update"
+git push
+cd express/
+npm init
+ls
+cd Nodejs/
+ls
+cd ..
+ls
+rm Nodejs/ -R
+ls
+vim Dockerfile
+vim servicer.js
+cd ..
+ls
+cd nginx/
+ls
+vim nginx.conf
+cd ji
+cd ..
+docker-compose up -d
+ls
+docker-compose up -d
+ls
+cd jinkange/
+ls
+cd ..
+ls
+ls -al
+docker-compose.yml up
+docker-compose up
+sudo apt  install docker-compose
+docker-compose up -d
+npm install -g npm@8.19.2
+docker-compose up -d
+system nginx stop
+systemctl stop nginx
+sudo systemctl stop nginx
+docker-compose up -d
+ls
+cd jinkange/
+ls
+npm start
+curl -o- -L https://yarnpkg.com/install.sh | bash
+source ~/.bashrc
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh | bash
+. ~/.nvm/nvm.sh
+nvm install node
+node -e "console.log('Running Node.js ' + process.version)"
+cd ..
+sudo yum update
+sudo yum install git
+curl -o- -L https://yarnpkg.com/install.sh | bash
+source ~/.bashrc
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh | bash
+sudo yum update
+sudo su
+cd /var/www/html/
+ls
+mkdir /var/www/react
+sudo mkdir /var/www/react
+sudo cp -r build/* /var/www/react/
+sudo cp -r build/* /var/www/react
+cp -r build/* /var/www/react
+cd /home/ubuntu/
+ls
+cd jinkange/
+ls
+sudo cp -r build/* /var/www/react
+cd /etc/nginx/sites-available/
+sudo vim default
+sudo systemctl restart nginx
+cd /home/ubuntu/
+ls
+cd express/
+ls
+pm2 start servicer.js --name test
+cd /etc/nginx/sites-available/
+vim default 
+subo num default 
+subo vim default 
+sudo vim default 
+sudo systemctl restart nginx
+cd ..
+cd /var/www/react/
+ls
+vim index.html 
+sudo su
