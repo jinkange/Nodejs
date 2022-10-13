@@ -1,0 +1,125 @@
+[2022-10-13 01:11:35.408] [remoteagent] [info] Extension host agent started.
+[2022-10-13 01:11:35.625] [remoteagent] [error] [127.0.0.1][ba0dd145][ManagementConnection] Unknown reconnection token (never seen).
+[2022-10-13 01:11:35.632] [remoteagent] [error] [127.0.0.1][a73b170e][ExtensionHostConnection] Unknown reconnection token (never seen).
+[2022-10-13 01:11:43.445] [remoteagent] [info] [127.0.0.1][ec9afcbf][ManagementConnection] New connection established.
+[2022-10-13 01:11:43.471] [remoteagent] [info] [127.0.0.1][69facb8d][ExtensionHostConnection] New connection established.
+[2022-10-13 01:11:43.477] [remoteagent] [info] [127.0.0.1][69facb8d][ExtensionHostConnection] <444216> Launched Extension Host Process.
+[2022-10-13 01:11:46.734] [remoteagent] [error] ["CodeExpectedError: Could not find pty on pty host","    at a._throwIfNoPty (/home/ubuntu/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/out/vs/platform/terminal/node/ptyHostMain.js:27:7252)","    at a.updateTitle (/home/ubuntu/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/out/vs/platform/terminal/node/ptyHostMain.js:27:2984)","    at Object.call (/home/ubuntu/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/out/vs/platform/terminal/node/ptyHostMain.js:16:8386)","    at c.onPromise (/home/ubuntu/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/out/vs/platform/terminal/node/ptyHostMain.js:15:5833)","    at c.onRawMessage (/home/ubuntu/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/out/vs/platform/terminal/node/ptyHostMain.js:15:5216)","    at /home/ubuntu/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/out/vs/platform/terminal/node/ptyHostMain.js:15:4502","    at m.invoke (/home/ubuntu/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/out/vs/platform/terminal/node/ptyHostMain.js:11:145)","    at D.deliver (/home/ubuntu/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/out/vs/platform/terminal/node/ptyHostMain.js:11:2275)","    at O.fire (/home/ubuntu/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/out/vs/platform/terminal/node/ptyHostMain.js:11:1853)","    at process.X (/home/ubuntu/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/out/vs/platform/terminal/node/ptyHostMain.js:9:20837)","    at process.emit (node:events:526:28)","    at emit (node:internal/child_process:938:14)","    at processTicksAndRejections (node:internal/process/task_queues:84:21)"]
+[2022-10-13 01:21:09.828] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:80
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+[2022-10-13 01:21:09.829] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:80
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+[2022-10-13 01:21:10.076] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:80
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+[2022-10-13 01:21:57.590] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:80
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+[2022-10-13 01:21:57.591] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:80
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+[2022-10-13 01:21:57.847] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:80
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+[2022-10-13 01:22:14.189] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:3001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+[2022-10-13 01:22:14.190] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:3001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+[2022-10-13 01:22:14.429] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:3001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+[2022-10-13 01:22:48.552] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:3000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+[2022-10-13 01:23:16.058] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:3001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+[2022-10-13 01:23:16.060] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:3001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+[2022-10-13 01:23:16.328] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:3001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+[2022-10-13 01:23:17.393] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:80
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+[2022-10-13 01:23:17.394] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:80
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+[2022-10-13 01:23:17.664] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:80
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+[2022-10-13 01:26:01.168] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:3001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+[2022-10-13 01:26:01.169] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:3001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+[2022-10-13 01:26:01.441] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:3001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+[2022-10-13 01:26:33.123] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:3001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+[2022-10-13 01:26:33.124] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:3001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+[2022-10-13 01:26:33.382] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:3001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+[2022-10-13 01:26:36.934] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:3001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+[2022-10-13 01:26:39.853] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:80
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+[2022-10-13 01:26:39.854] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:80
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+[2022-10-13 01:26:40.107] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:80
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+[2022-10-13 01:27:09.460] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:3000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+[2022-10-13 01:27:27.569] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:80
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+[2022-10-13 01:27:27.570] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:80
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+[2022-10-13 01:27:27.570] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:3000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+[2022-10-13 01:27:27.837] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:80
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+[2022-10-13 01:27:28.896] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:3000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+[2022-10-13 01:27:34.277] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:3001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+[2022-10-13 01:27:34.277] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:3001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+[2022-10-13 01:27:34.544] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:3001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+[2022-10-13 01:27:37.581] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:80
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+[2022-10-13 01:27:37.582] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:80
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+[2022-10-13 01:27:37.834] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:80
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+[2022-10-13 01:31:12.452] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:3000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+[2022-10-13 01:34:46.119] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:3001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+[2022-10-13 01:34:46.120] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:3001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+[2022-10-13 01:34:46.388] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:3001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+[2022-10-13 01:35:06.542] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:3001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+[2022-10-13 01:35:06.814] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:3001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+[2022-10-13 01:35:43.199] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:3000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+[2022-10-13 01:36:45.162] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:3001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+[2022-10-13 01:36:45.162] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:3001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+[2022-10-13 01:36:45.427] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:3001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+[2022-10-13 01:36:47.480] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:3000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+[2022-10-13 01:36:47.481] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:3000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+[2022-10-13 01:36:47.733] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:3000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+[2022-10-13 01:39:45.455] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:3000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+[2022-10-13 01:43:44.061] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:3000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+[2022-10-13 01:43:45.169] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:3000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+[2022-10-13 01:43:45.170] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:3000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+[2022-10-13 01:43:45.424] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:3000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+[2022-10-13 01:47:46.445] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:3000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+[2022-10-13 01:51:51.466] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:3000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+[2022-10-13 01:56:00.475] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:3000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
