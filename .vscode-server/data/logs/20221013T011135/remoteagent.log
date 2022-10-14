@@ -123,3 +123,42 @@
     at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
 [2022-10-13 01:56:00.475] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:3000
     at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+[2022-10-13 02:00:17.471] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:3000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+[2022-10-13 02:07:43.902] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: std::bad_alloc (EUNKNOWN) (path: /home/ubuntu)
+[2022-10-13 02:07:43.902] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: std::bad_alloc
+[2022-10-13 02:07:44.379] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: No such file or directory (EUNKNOWN) (path: /home/ubuntu)
+[2022-10-13 02:07:44.379] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: No such file or directory
+[2022-10-13 03:17:06.797] [remoteagent] [info] [127.0.0.1][adaaf85d][ManagementConnection] New connection established.
+[2022-10-13 03:17:06.844] [remoteagent] [info] [127.0.0.1][85d142e9][ExtensionHostConnection] New connection established.
+[2022-10-13 03:17:06.855] [remoteagent] [info] [127.0.0.1][85d142e9][ExtensionHostConnection] <466504> Launched Extension Host Process.
+[2022-10-13 03:18:03.354] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: std::bad_alloc (EUNKNOWN) (path: /home/ubuntu)
+[2022-10-13 03:18:03.358] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: std::bad_alloc (EUNKNOWN) (path: /home/ubuntu)
+[2022-10-13 03:18:03.360] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: std::bad_alloc
+[2022-10-13 03:18:03.377] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: std::bad_alloc
+[2022-10-13 03:18:04.856] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: inotify_add_watch on '/home/ubuntu/jinkange/node_modules/watchpack/node_modules/fsevents' failed: No such file or directory (EUNKNOWN) (path: /home/ubuntu)
+[2022-10-13 03:18:04.857] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: inotify_add_watch on '/home/ubuntu/jinkange/node_modules/watchpack/node_modules/fsevents' failed: No such file or directory
+[2022-10-13 03:18:04.992] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: inotify_add_watch on '/home/ubuntu/jinkange/node_modules/.detect-newline-f91WkIWS' failed: No such file or directory (EUNKNOWN) (path: /home/ubuntu)
+[2022-10-13 03:18:04.995] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: inotify_add_watch on '/home/ubuntu/jinkange/node_modules/.detect-newline-f91WkIWS' failed: No such file or directory
+[2022-10-13 03:18:06.372] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: inotify_add_watch on '/home/ubuntu/jinkange/node_modules/.eslint-webpack-plugin-q7EyqYwt/types' failed: No such file or directory (EUNKNOWN) (path: /home/ubuntu)
+[2022-10-13 03:18:06.374] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: inotify_add_watch on '/home/ubuntu/jinkange/node_modules/.eslint-webpack-plugin-q7EyqYwt/types' failed: No such file or directory
+[2022-10-13 03:18:06.720] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: inotify_add_watch on '/home/ubuntu/jinkange/node_modules/@babel/.plugin-transform-destructuring-qCsztX53' failed: No such file or directory (EUNKNOWN) (path: /home/ubuntu)
+[2022-10-13 03:18:06.721] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: inotify_add_watch on '/home/ubuntu/jinkange/node_modules/@babel/.plugin-transform-destructuring-qCsztX53' failed: No such file or directory
+[2022-10-13 03:18:06.847] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: No such file or directory (EUNKNOWN) (path: /home/ubuntu)
+[2022-10-13 03:18:06.847] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: No such file or directory
+[2022-10-13 03:18:07.063] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: No such file or directory (EUNKNOWN) (path: /home/ubuntu)
+[2022-10-13 03:18:07.064] [remoteagent] [error] [File Watcher (universal)] gave up attempting to restart watcher after error: No such file or directory
+[2022-10-13 03:18:08.167] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: inotify_add_watch on '/home/ubuntu/jinkange/node_modules/@istanbuljs/.load-nyc-config-e6nmnEzp/node_modules/p-locate' failed: No such file or directory (EUNKNOWN) (path: /home/ubuntu)
+[2022-10-13 03:18:08.171] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: inotify_add_watch on '/home/ubuntu/jinkange/node_modules/@istanbuljs/.load-nyc-config-e6nmnEzp/node_modules/p-locate' failed: No such file or directory
+[2022-10-13 03:18:08.679] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: No such file or directory (EUNKNOWN) (path: /home/ubuntu)
+[2022-10-13 03:18:08.679] [remoteagent] [error] [File Watcher (universal)] gave up attempting to restart watcher after error: No such file or directory
+[2022-10-13 03:18:36.934] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:3000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+[2022-10-13 03:18:36.934] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:3000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+[2022-10-13 03:18:37.187] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:3000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+[2022-10-13 03:22:07.031] [remoteagent] [info] [127.0.0.1][69facb8d][ExtensionHostConnection] <444216> Extension Host Process exited with code: 0, signal: null.
+[2022-10-13 10:19:44.973] [remoteagent] [info] [127.0.0.1][85d142e9][ExtensionHostConnection] <466504> Extension Host Process exited with code: 0, signal: null.
+[2022-10-13 10:19:44.973] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-10-13 10:24:44.974] [remoteagent] [info] Last EH closed, shutting down

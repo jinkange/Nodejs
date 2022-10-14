@@ -2578,3 +2578,68 @@
 2022-10-11T14:33:38: PM2 log: App [test:1] online
 2022-10-11T14:33:38: PM2 log: App [test:1] exited with code [1] via signal [SIGINT]
 2022-10-11T14:33:38: PM2 log: Script /home/ubuntu/express/servicer.js had too many unstable restarts (16). Stopped. "errored"
+2022-10-13T03:29:04: PM2 log: App [server:2] starting in -fork mode-
+2022-10-13T03:29:04: PM2 log: App [server:2] online
+2022-10-13T03:43:03: PM2 log: Stopping app:server id:2
+2022-10-13T03:43:03: PM2 log: App [server:2] exited with code [0] via signal [SIGINT]
+2022-10-13T03:43:03: PM2 log: pid=469577 msg=process killed
+2022-10-13T03:43:03: PM2 log: App [server:2] starting in -fork mode-
+2022-10-13T03:43:03: PM2 log: App [server:2] online
+2022-10-14T03:38:43: PM2 log: [PM2] This PM2 is not UP TO DATE
+2022-10-14T03:38:43: PM2 log: [PM2] Upgrade to version 5.2.2
+2022-10-14T07:01:48: PM2 log: Stopping app:server id:2
+2022-10-14T07:01:48: PM2 log: App [server:2] exited with code [0] via signal [SIGINT]
+2022-10-14T07:01:48: PM2 log: pid=472006 msg=process killed
+2022-10-14T07:01:48: PM2 log: App [server:2] starting in -fork mode-
+2022-10-14T07:01:48: PM2 log: App [server:2] online
+2022-10-14T07:02:21: PM2 log: Stopping app:server id:2
+2022-10-14T07:02:21: PM2 log: App [server:2] exited with code [0] via signal [SIGINT]
+2022-10-14T07:02:21: PM2 log: pid=725604 msg=process killed
+2022-10-14T07:02:21: PM2 log: App [server:2] starting in -fork mode-
+2022-10-14T07:02:21: PM2 log: App [server:2] online
+2022-10-14T07:02:32: PM2 log: Stopping app:server id:2
+2022-10-14T07:02:32: PM2 log: App [server:2] exited with code [0] via signal [SIGINT]
+2022-10-14T07:02:32: PM2 log: pid=725918 msg=process killed
+2022-10-14T07:02:32: PM2 log: App [server:2] starting in -fork mode-
+2022-10-14T07:02:32: PM2 log: App [server:2] online
+2022-10-14T07:02:39: PM2 log: Stopping app:main id:0
+2022-10-14T07:02:39: PM2 error: app=main id=0 does not have a pid
+2022-10-14T07:02:39: PM2 log: Stopping app:test id:1
+2022-10-14T07:02:39: PM2 error: app=test id=1 does not have a pid
+2022-10-14T07:02:39: PM2 log: Stopping app:server id:2
+2022-10-14T07:02:39: PM2 log: App [server:2] exited with code [0] via signal [SIGINT]
+2022-10-14T07:02:39: PM2 log: pid=725972 msg=process killed
+2022-10-14T07:02:39: PM2 log: PM2 successfully stopped
+2022-10-14T07:02:40: PM2 log: ===============================================================================
+2022-10-14T07:02:40: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2022-10-14T07:02:40: PM2 log: Time                 : Fri Oct 14 2022 07:02:40 GMT+0000 (Coordinated Universal Time)
+2022-10-14T07:02:40: PM2 log: PM2 version          : 5.2.0
+2022-10-14T07:02:40: PM2 log: Node.js version      : 12.22.9
+2022-10-14T07:02:40: PM2 log: Current arch         : x64
+2022-10-14T07:02:40: PM2 log: PM2 home             : /home/ubuntu/.pm2
+2022-10-14T07:02:40: PM2 log: PM2 PID file         : /home/ubuntu/.pm2/pm2.pid
+2022-10-14T07:02:40: PM2 log: RPC socket file      : /home/ubuntu/.pm2/rpc.sock
+2022-10-14T07:02:40: PM2 log: BUS socket file      : /home/ubuntu/.pm2/pub.sock
+2022-10-14T07:02:40: PM2 log: Application log path : /home/ubuntu/.pm2/logs
+2022-10-14T07:02:40: PM2 log: Worker Interval      : 30000
+2022-10-14T07:02:40: PM2 log: Process dump file    : /home/ubuntu/.pm2/dump.pm2
+2022-10-14T07:02:40: PM2 log: Concurrent actions   : 2
+2022-10-14T07:02:40: PM2 log: SIGTERM timeout      : 1600
+2022-10-14T07:02:40: PM2 log: ===============================================================================
+2022-10-14T07:02:40: PM2 log: PM2 successfully stopped
+2022-10-14T07:02:42: PM2 log: ===============================================================================
+2022-10-14T07:02:42: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2022-10-14T07:02:42: PM2 log: Time                 : Fri Oct 14 2022 07:02:42 GMT+0000 (Coordinated Universal Time)
+2022-10-14T07:02:42: PM2 log: PM2 version          : 5.2.0
+2022-10-14T07:02:42: PM2 log: Node.js version      : 12.22.9
+2022-10-14T07:02:42: PM2 log: Current arch         : x64
+2022-10-14T07:02:42: PM2 log: PM2 home             : /home/ubuntu/.pm2
+2022-10-14T07:02:42: PM2 log: PM2 PID file         : /home/ubuntu/.pm2/pm2.pid
+2022-10-14T07:02:42: PM2 log: RPC socket file      : /home/ubuntu/.pm2/rpc.sock
+2022-10-14T07:02:42: PM2 log: BUS socket file      : /home/ubuntu/.pm2/pub.sock
+2022-10-14T07:02:42: PM2 log: Application log path : /home/ubuntu/.pm2/logs
+2022-10-14T07:02:42: PM2 log: Worker Interval      : 30000
+2022-10-14T07:02:42: PM2 log: Process dump file    : /home/ubuntu/.pm2/dump.pm2
+2022-10-14T07:02:42: PM2 log: Concurrent actions   : 2
+2022-10-14T07:02:42: PM2 log: SIGTERM timeout      : 1600
+2022-10-14T07:02:42: PM2 log: ===============================================================================

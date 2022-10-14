@@ -343,3 +343,197 @@ cd /var/www/react/
 ls
 vim index.html 
 sudo su
+sudo vi /etc/nginx/sites-available/default.conf 
+cd /etc/nginx/sites-available/
+ls
+rm myapp.conf 
+sudo rm myapp.conf 
+sudo vi /etc/nginx/sites-available/default.conf 
+sudo ln -s /etc/nginx/sites-available/default /etc/nginx/sites-enabled/defalut 
+ls
+rm default
+sudo rm default
+ls
+cd ..
+ls
+cd sites-enabled/
+ls
+rm myapp.conf 
+sudo rm myapp.conf defalut 
+cp default 
+rm default 
+sudo rm default 
+ls
+cd ..
+ls
+cd sites-available/
+ls
+cp default.conf defalut.conf
+sudo cp default.conf defalut.conf
+sudo ln -s /etc/nginx/sites-available/defalut /etc/nginx/sites-enabled/defalut 
+sudo systemctl stop nginx
+sudo systemctl start nginx
+sudo systemctl status nginx 
+sudo systemctl start nginx
+journalctl -xeu nginx.service
+ls
+rm default.conf 
+sudo rm default.conf 
+vim defalut.conf 
+sudo systemctl start nginx
+sudo vi /etc/nginx/sites-available/default.conf 
+sudo systemctl start nginx
+sudo systemctl start nginxsudo ln -s /etc/nginx/sites-available/default /etc/nginx/sites-enabled/defalut 
+sudo systemctl start nginxsudo ln -s /etc/nginx/sites-available/default /etc/tail -f /var/log/nginx/error.log nginx/sites-enabled/defalut 
+tail -f /var/log/nginx/error.log 
+vim /etc/nginx/nginx.conf 
+sudo vim /etc/nginx/nginx.conf 
+sudo systemctl start nginx
+cd /home/ubuntu/jinkange/
+npm start
+npm bulid
+npm start bulid
+npm start build
+npm run build
+sudo systemctl restart nginx
+sudo vim /etc/nginx/nginx.conf 
+sudo systemctl restart nginx
+cd /etc/nginx/
+ls
+cd sites-available/
+ls
+sudo rm /etc/nginx/sites-available/default
+sudo rm /etc/nginx/sites-enabled/default
+ls
+rm default.conf 
+sudo rm defalut.conf 
+sudo rm default.conf 
+cd ..
+cd sites-enabled/
+ls
+rm defalut 
+sido rm defalut 
+sudo rm defalut 
+cd ..
+ls
+cd sites-available/
+sudo nano /etc/nginx/sites-available/myapp.conf
+sudo vim /etc/nginx/sites-available/myapp.conf
+sudo ln -s /etc/nginx/sites-available/myapp.conf /etc/nginx/sites-enabled/myapp.conf
+-1
+sudo systemctl stop nginx
+sudo systemctl start nginx
+chmod 711 /home/ubuntu
+sudo chmod 711 /home/ubuntu
+ls
+cd /home/
+ls -al
+sudo chmod 777 /home/ubuntu
+cd ..
+cd home/ubuntu/
+ls
+cd jinkange/
+npm start
+npm start build
+npm run build
+sudo chmod 711 /home/ubuntu
+tail -f /var/log/nginx/error.log 
+systemctl restart nginx
+sudo systemctl restart nginx
+npm start
+npm run build
+tail -f /var/log/nginx/error.log 
+sudo vim /etc/nginx/sites-available/
+sudo systemctl restart nginx
+sudo vim /etc/nginx/conf.d/
+sudo vim /etc/nginx/sites-available/
+sudo systemctl restart nginx
+nslookup jinaknge.site
+nslookup jinkange.site
+cd ..
+ls
+gid add .
+git add .
+git commit -m "react, nginx  연걸"
+git push
+ls
+cd express/
+npm install forever 
+forever start -c "npm start" ./ 
+forever
+npm audit fix --force
+ls
+cd node
+node server.js 
+forever start server.js 
+npm install forever
+forever
+sudo npm install forever
+forever
+npm audit fix --force
+forever
+pm2 start server.js 
+pm2 log
+pm2 restart server.js 
+pm2 log
+ls
+sudo vim /etc/nginx/conf.d/
+systemctl restart nginx
+sudo systemctl restart nginx
+sudo vim /etc/nginx/conf.d/
+sudo systemctl restart nginx
+sudo vim /etc/nginx/conf.d/
+sudo systemctl restart nginx
+sudo vim /etc/nginx/conf.d/
+sudo systemctl restart nginx
+sudo vim /etc/nginx/sites-available/myapp.conf 
+sudo systemctl restart nginx
+sudo vim /etc/nginx/sites-available/myapp.conf 
+cd express/
+ls
+node start servicer.js 
+node servicer.js 
+ls
+cd ..
+ls
+cd myapp/
+ls
+cd ..
+sudo rm -R myapp/
+cd nginx/
+ls
+cd ..
+ls
+sudo rm -R nginx/
+cd frontend/
+ls
+cd ..
+ls
+sudo rm -R frontend/
+ls
+sudo rm -R express/
+npm install forever 
+forever
+npm
+sudo npm install -g pm2
+ls
+mkdir node
+cd node
+npm init -y
+ls
+npm install --save express
+ls
+vim server.js 
+node server.js
+vim server.js 
+node server.js
+vim server.js 
+node server.js
+cd ..
+ls
+cd jinkange/
+ls
+npm install axios
+npm audit fix --force
+npm run build
+npm start

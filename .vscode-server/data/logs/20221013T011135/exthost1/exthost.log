@@ -123,3 +123,6 @@
 [2022-10-13 01:25:38.565] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
 [2022-10-13 01:25:38.566] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
 [2022-10-13 01:25:38.566] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+[2022-10-13 03:22:06.964] [exthost] [info] Extension host terminating: renderer disconnected for too long (2)
+[2022-10-13 03:22:06.965] [exthost] [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/f754b7aa2240ec878ccf37628a1e6a51/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-10-13 03:22:07.009] [exthost] [info] Extension host with pid 444216 exiting with code 0

@@ -1,0 +1,1340 @@
+0 verbose cli [ '/usr/bin/node', '/usr/bin/npm', 'audit', 'fix', '--force' ]
+1 info using npm@8.5.1
+2 info using node@v12.22.9
+3 timing npm:load:whichnode Completed in 0ms
+4 timing config:load:defaults Completed in 2ms
+5 timing config:load:file:/usr/share/nodejs/npm/npmrc Completed in 3ms
+6 timing config:load:builtin Completed in 3ms
+7 timing config:load:cli Completed in 2ms
+8 timing config:load:env Completed in 1ms
+9 timing config:load:file:/home/ubuntu/node/.npmrc Completed in 0ms
+10 timing config:load:project Completed in 4ms
+11 timing config:load:file:/home/ubuntu/.npmrc Completed in 0ms
+12 timing config:load:user Completed in 0ms
+13 timing config:load:file:/etc/npmrc Completed in 0ms
+14 timing config:load:global Completed in 1ms
+15 timing config:load:validate Completed in 0ms
+16 timing config:load:credentials Completed in 1ms
+17 timing config:load:setEnvs Completed in 2ms
+18 timing config:load Completed in 17ms
+19 timing npm:load:configload Completed in 17ms
+20 timing npm:load:setTitle Completed in 0ms
+21 timing config:load:flatten Completed in 4ms
+22 timing npm:load:display Completed in 7ms
+23 verbose logfile /home/ubuntu/.npm/_logs/2022-10-13T03_27_35_477Z-debug-0.log
+24 timing npm:load:logFile Completed in 8ms
+25 timing npm:load:timers Completed in 0ms
+26 timing npm:load:configScope Completed in 0ms
+27 warn using --force Recommended protections disabled.
+28 timing npm:load Completed in 36ms
+29 timing arborist:ctor Completed in 2ms
+30 silly logfile start cleaning logs, removing 1 files
+31 silly audit bulk request {
+31 silly audit   '@colors/colors': [ '1.5.0' ],
+31 silly audit   '@dabh/diagnostics': [ '2.0.3' ],
+31 silly audit   accepts: [ '1.3.8' ],
+31 silly audit   anymatch: [ '2.0.0' ],
+31 silly audit   'normalize-path': [ '2.1.1', '3.0.0' ],
+31 silly audit   'arr-diff': [ '4.0.0' ],
+31 silly audit   'arr-flatten': [ '1.1.0' ],
+31 silly audit   'arr-union': [ '3.1.0' ],
+31 silly audit   'array-flatten': [ '1.1.1' ],
+31 silly audit   'array-unique': [ '0.3.2' ],
+31 silly audit   'assign-symbols': [ '1.0.0' ],
+31 silly audit   async: [ '1.5.2', '0.2.10', '0.2.9', '3.2.4' ],
+31 silly audit   'async-each': [ '1.0.3' ],
+31 silly audit   atob: [ '2.1.2' ],
+31 silly audit   'available-typed-arrays': [ '1.0.5' ],
+31 silly audit   'balanced-match': [ '1.0.2' ],
+31 silly audit   base: [ '0.11.2' ],
+31 silly audit   'define-property': [ '1.0.0', '0.2.5', '2.0.2' ],
+31 silly audit   'binary-extensions': [ '1.13.1' ],
+31 silly audit   bindings: [ '1.5.0' ],
+31 silly audit   'body-parser': [ '1.20.1' ],
+31 silly audit   'brace-expansion': [ '1.1.11' ],
+31 silly audit   braces: [ '2.3.2' ],
+31 silly audit   broadway: [ '0.3.6' ],
+31 silly audit   cliff: [ '0.1.9', '0.1.10' ],
+31 silly audit   eventemitter2: [ '0.4.14', '6.4.4' ],
+31 silly audit   pkginfo: [ '0.3.1' ],
+31 silly audit   winston: [ '0.8.0', '0.8.3', '3.8.2' ],
+31 silly audit   bytes: [ '3.1.2' ],
+31 silly audit   'cache-base': [ '1.0.1' ],
+31 silly audit   'call-bind': [ '1.0.2' ],
+31 silly audit   caller: [ '1.1.0' ],
+31 silly audit   chokidar: [ '2.1.8' ],
+31 silly audit   'class-utils': [ '0.3.6' ],
+31 silly audit   'is-accessor-descriptor': [ '0.1.6', '1.0.0' ],
+31 silly audit   'is-data-descriptor': [ '0.1.4', '1.0.0' ],
+31 silly audit   'is-descriptor': [ '0.1.6', '1.0.2' ],
+31 silly audit   'kind-of': [ '5.1.0', '4.0.0', '6.0.3', '3.2.2' ],
+31 silly audit   colors: [ '1.0.3', '0.6.2', '1.4.0' ],
+31 silly audit   clone: [ '2.1.2' ],
+31 silly audit   'collection-visit': [ '1.0.0' ],
+31 silly audit   color: [ '3.2.1' ],
+31 silly audit   'color-convert': [ '1.9.3' ],
+31 silly audit   'color-name': [ '1.1.3' ],
+31 silly audit   'color-string': [ '1.9.1' ],
+31 silly audit   colorspace: [ '1.1.4' ],
+31 silly audit   'component-emitter': [ '1.3.0' ],
+31 silly audit   'concat-map': [ '0.0.1' ],
+31 silly audit   configstore: [ '4.0.0' ],
+31 silly audit   'content-disposition': [ '0.5.4' ],
+31 silly audit   'content-type': [ '1.0.4' ],
+31 silly audit   cookie: [ '0.5.0' ],
+31 silly audit   'cookie-signature': [ '1.0.6' ],
+31 silly audit   'copy-descriptor': [ '0.1.1' ],
+31 silly audit   'core-util-is': [ '1.0.3' ],
+31 silly audit   'crypto-random-string': [ '1.0.0' ],
+31 silly audit   cycle: [ '1.0.3' ],
+31 silly audit   debug: [ '2.6.9' ],
+31 silly audit   'decode-uri-component': [ '0.2.0' ],
+31 silly audit   'deep-equal': [ '2.0.5' ],
+31 silly audit   isarray: [ '2.0.5', '1.0.0' ],
+31 silly audit   'define-properties': [ '1.1.4' ],
+31 silly audit   depd: [ '2.0.0' ],
+31 silly audit   destroy: [ '1.2.0' ],
+31 silly audit   director: [ '1.2.7' ],
+31 silly audit   'dot-prop': [ '4.2.1' ],
+31 silly audit   duplexer: [ '0.1.2' ],
+31 silly audit   'ee-first': [ '1.1.1' ],
+31 silly audit   enabled: [ '2.0.0' ],
+31 silly audit   encodeurl: [ '1.0.2' ],
+31 silly audit   'es-abstract': [ '1.20.4' ],
+31 silly audit   'es-get-iterator': [ '1.1.2' ],
+31 silly audit   'es-to-primitive': [ '1.2.1' ],
+31 silly audit   'escape-html': [ '1.0.3' ],
+31 silly audit   etag: [ '1.8.1' ],
+31 silly audit   'event-stream': [ '3.3.4' ],
+31 silly audit   'expand-brackets': [ '2.1.4' ],
+31 silly audit   express: [ '4.18.2' ],
+31 silly audit   'extend-shallow': [ '2.0.1', '3.0.2' ],
+31 silly audit   extglob: [ '2.0.4' ],
+31 silly audit   eyes: [ '0.1.8' ],
+31 silly audit   fecha: [ '4.2.3' ],
+31 silly audit   'file-uri-to-path': [ '1.0.0' ],
+31 silly audit   'fill-range': [ '4.0.0' ],
+31 silly audit   finalhandler: [ '1.2.0' ],
+31 silly audit   flatiron: [ '0.4.3' ],
+31 silly audit   'fn.name': [ '1.1.0' ],
+31 silly audit   'for-each': [ '0.3.3' ],
+31 silly audit   'for-in': [ '1.0.2' ],
+31 silly audit   forever: [ '4.0.3' ],
+31 silly audit   'forever-monitor': [ '3.0.3' ],
+31 silly audit   forwarded: [ '0.2.0' ],
+31 silly audit   'fragment-cache': [ '0.2.1' ],
+31 silly audit   fresh: [ '0.5.2' ],
+31 silly audit   from: [ '0.1.7' ],
+31 silly audit   'fs.realpath': [ '1.0.0' ],
+31 silly audit   fsevents: [ '1.2.13' ],
+31 silly audit   'function-bind': [ '1.1.1' ],
+31 silly audit   'function.prototype.name': [ '1.1.5' ],
+31 silly audit   'functions-have-names': [ '1.2.3' ],
+31 silly audit   'get-intrinsic': [ '1.1.3' ],
+31 silly audit   'get-symbol-description': [ '1.0.0' ],
+31 silly audit   'get-value': [ '2.0.6' ],
+31 silly audit   glob: [ '7.2.3' ],
+31 silly audit   'glob-parent': [ '3.1.0' ],
+31 silly audit   'is-glob': [ '3.1.0', '4.0.3' ],
+31 silly audit   'graceful-fs': [ '4.2.10' ],
+31 silly audit   has: [ '1.0.3' ],
+31 silly audit   'has-bigints': [ '1.0.2' ],
+31 silly audit   'has-property-descriptors': [ '1.0.0' ],
+31 silly audit   'has-symbols': [ '1.0.3' ],
+31 silly audit   'has-tostringtag': [ '1.0.0' ],
+31 silly audit   'has-value': [ '1.0.0', '0.3.1' ],
+31 silly audit   'has-values': [ '1.0.0', '0.1.4' ],
+31 silly audit   'http-errors': [ '2.0.0' ],
+31 silly audit   i: [ '0.3.7' ],
+31 silly audit   'iconv-lite': [ '0.4.24' ],
+31 silly audit   imurmurhash: [ '0.1.4' ],
+31 silly audit   inflight: [ '1.0.6' ],
+31 silly audit   inherits: [ '2.0.4' ],
+31 silly audit   ini: [ '1.3.8' ],
+31 silly audit   'internal-slot': [ '1.0.3' ],
+31 silly audit   'ipaddr.js': [ '1.9.1' ],
+31 silly audit   'is-arguments': [ '1.1.1' ],
+31 silly audit   'is-arrayish': [ '0.3.2' ],
+31 silly audit   'is-bigint': [ '1.0.4' ],
+31 silly audit   'is-binary-path': [ '1.0.1' ],
+31 silly audit   'is-boolean-object': [ '1.1.2' ],
+31 silly audit   'is-buffer': [ '1.1.6' ],
+31 silly audit   'is-callable': [ '1.2.7' ],
+31 silly audit   'is-date-object': [ '1.0.5' ],
+31 silly audit   'is-extendable': [ '0.1.1', '1.0.1' ],
+31 silly audit   'is-extglob': [ '2.1.1' ],
+31 silly audit   'is-map': [ '2.0.2' ],
+31 silly audit   'is-negative-zero': [ '2.0.2' ],
+31 silly audit   'is-number': [ '3.0.0' ],
+31 silly audit   'is-number-object': [ '1.0.7' ],
+31 silly audit   'is-obj': [ '1.0.1' ],
+31 silly audit   'is-plain-object': [ '2.0.4' ],
+31 silly audit   'is-regex': [ '1.1.4' ],
+31 silly audit   'is-set': [ '2.0.2' ],
+31 silly audit   'is-shared-array-buffer': [ '1.0.2' ],
+31 silly audit   'is-stream': [ '2.0.1' ],
+31 silly audit   'is-string': [ '1.0.7' ],
+31 silly audit   'is-symbol': [ '1.0.4' ],
+31 silly audit   'is-typed-array': [ '1.1.9' ],
+31 silly audit   'is-weakmap': [ '2.0.1' ],
+31 silly audit   'is-weakref': [ '1.0.2' ],
+31 silly audit   'is-weakset': [ '2.0.2' ],
+31 silly audit   'is-windows': [ '1.0.2' ],
+31 silly audit   isobject: [ '3.0.1', '2.1.0' ],
+31 silly audit   isstream: [ '0.1.2' ],
+31 silly audit   kuler: [ '2.0.0' ],
+31 silly audit   lazy: [ '1.0.11' ],
+31 silly audit   logform: [ '2.4.2' ],
+31 silly audit   ms: [ '2.1.3', '2.0.0' ],
+31 silly audit   'make-dir': [ '1.3.0' ],
+31 silly audit   'map-cache': [ '0.2.2' ],
+31 silly audit   'map-stream': [ '0.1.0' ],
+31 silly audit   'map-visit': [ '1.0.0' ],
+31 silly audit   'media-typer': [ '0.3.0' ],
+31 silly audit   'merge-descriptors': [ '1.0.1' ],
+31 silly audit   methods: [ '1.1.2' ],
+31 silly audit   micromatch: [ '3.1.10' ],
+31 silly audit   mime: [ '1.6.0' ],
+31 silly audit   'mime-db': [ '1.52.0' ],
+31 silly audit   'mime-types': [ '2.1.35' ],
+31 silly audit   minimatch: [ '3.1.2' ],
+31 silly audit   minimist: [ '1.2.7', '0.0.10' ],
+31 silly audit   'mixin-deep': [ '1.3.2' ],
+31 silly audit   mkdirp: [ '0.5.6' ],
+31 silly audit   'mute-stream': [ '0.0.8' ],
+31 silly audit   nan: [ '2.17.0' ],
+31 silly audit   nanomatch: [ '1.2.13' ],
+31 silly audit   nconf: [ '0.6.9' ],
+31 silly audit   ncp: [ '0.4.2' ],
+31 silly audit   negotiator: [ '0.6.3' ],
+31 silly audit   nssocket: [ '0.6.0' ],
+31 silly audit   'object-assign': [ '4.1.1' ],
+31 silly audit   'object-copy': [ '0.1.0' ],
+31 silly audit   'object-inspect': [ '1.12.2' ],
+31 silly audit   'object-is': [ '1.1.5' ],
+31 silly audit   'object-keys': [ '1.1.1' ],
+31 silly audit   'object-visit': [ '1.0.1' ],
+31 silly audit   'object.assign': [ '4.1.4' ],
+31 silly audit   'object.pick': [ '1.3.0' ],
+31 silly audit   'on-finished': [ '2.4.1' ],
+31 silly audit   once: [ '1.4.0' ],
+31 silly audit   'one-time': [ '1.0.0' ],
+31 silly audit   optimist: [ '0.6.0' ],
+31 silly audit   parseurl: [ '1.3.3' ],
+31 silly audit   pascalcase: [ '0.1.1' ],
+31 silly audit   'path-dirname': [ '1.0.2' ],
+31 silly audit   'path-is-absolute': [ '1.0.1' ],
+31 silly audit   'path-to-regexp': [ '0.1.7' ],
+31 silly audit   'pause-stream': [ '0.0.11' ],
+31 silly audit   pify: [ '3.0.0' ],
+31 silly audit   'posix-character-classes': [ '0.1.1' ],
+31 silly audit   prettyjson: [ '1.2.5' ],
+31 silly audit   'process-nextick-args': [ '2.0.1' ],
+31 silly audit   prompt: [ '0.2.14' ],
+31 silly audit   'proxy-addr': [ '2.0.7' ],
+31 silly audit   'ps-tree': [ '1.2.0' ],
+31 silly audit   qs: [ '6.11.0' ],
+31 silly audit   'range-parser': [ '1.2.1' ],
+31 silly audit   'raw-body': [ '2.5.1' ],
+31 silly audit   read: [ '1.0.7' ],
+31 silly audit   'readable-stream': [ '2.3.7', '3.6.0' ],
+31 silly audit   'safe-buffer': [ '5.1.2', '5.2.1' ],
+31 silly audit   readdirp: [ '2.2.1' ],
+31 silly audit   'regex-not': [ '1.0.2' ],
+31 silly audit   'regexp.prototype.flags': [ '1.4.3' ],
+31 silly audit   'remove-trailing-separator': [ '1.1.0' ],
+31 silly audit   'repeat-element': [ '1.1.4' ],
+31 silly audit   'repeat-string': [ '1.6.1' ],
+31 silly audit   'resolve-url': [ '0.2.1' ],
+31 silly audit   ret: [ '0.1.15' ],
+31 silly audit   revalidator: [ '0.1.8' ],
+31 silly audit   rimraf: [ '2.7.1' ],
+31 silly audit   'safe-regex': [ '1.1.0' ],
+31 silly audit   'safe-regex-test': [ '1.0.0' ],
+31 silly audit   'safe-stable-stringify': [ '2.4.0' ],
+31 silly audit   'safer-buffer': [ '2.1.2' ],
+31 silly audit   send: [ '0.18.0' ],
+31 silly audit   'serve-static': [ '1.15.0' ],
+31 silly audit   'set-value': [ '2.0.1' ],
+31 silly audit   setprototypeof: [ '1.2.0' ],
+31 silly audit   shush: [ '1.0.2' ],
+31 silly audit   'side-channel': [ '1.0.4' ],
+31 silly audit   'signal-exit': [ '3.0.7' ],
+31 silly audit   'simple-swizzle': [ '0.2.2' ],
+31 silly audit   snapdragon: [ '0.8.2' ],
+31 silly audit   'snapdragon-node': [ '2.1.1' ],
+31 silly audit   'snapdragon-util': [ '3.0.1' ],
+31 silly audit   'source-map': [ '0.5.7' ],
+31 silly audit   'source-map-resolve': [ '0.5.3' ],
+31 silly audit   'source-map-url': [ '0.4.1' ],
+31 silly audit   split: [ '0.3.3' ],
+31 silly audit   'split-string': [ '3.1.0' ],
+31 silly audit   'stack-trace': [ '0.0.10' ],
+31 silly audit   'static-extend': [ '0.1.2' ],
+31 silly audit   statuses: [ '2.0.1' ],
+31 silly audit   'stream-combiner': [ '0.0.4' ],
+31 silly audit   string_decoder: [ '1.1.1' ],
+31 silly audit   'string.prototype.trimend': [ '1.0.5' ],
+31 silly audit   'string.prototype.trimstart': [ '1.0.5' ],
+31 silly audit   'strip-json-comments': [ '2.0.1' ],
+31 silly audit   'text-hex': [ '1.0.0' ],
+31 silly audit   through: [ '2.3.8' ],
+31 silly audit   'to-object-path': [ '0.3.0' ],
+31 silly audit   'to-regex': [ '3.0.2' ],
+31 silly audit   'to-regex-range': [ '2.1.1' ],
+31 silly audit   toidentifier: [ '1.0.1' ],
+31 silly audit   'triple-beam': [ '1.3.0' ],
+31 silly audit   'type-is': [ '1.6.18' ],
+31 silly audit   'unbox-primitive': [ '1.0.2' ],
+31 silly audit   'union-value': [ '1.0.1' ],
+31 silly audit   'unique-string': [ '1.0.0' ],
+31 silly audit   unpipe: [ '1.0.0' ],
+31 silly audit   'unset-value': [ '1.0.0' ],
+31 silly audit   upath: [ '1.2.0' ],
+31 silly audit   urix: [ '0.1.0' ],
+31 silly audit   use: [ '3.1.1' ],
+31 silly audit   'util-deprecate': [ '1.0.2' ],
+31 silly audit   utile: [ '0.2.1' ],
+31 silly audit   'utils-merge': [ '1.0.1' ],
+31 silly audit   vary: [ '1.1.2' ],
+31 silly audit   'which-boxed-primitive': [ '1.0.2' ],
+31 silly audit   'which-collection': [ '1.0.1' ],
+31 silly audit   'which-typed-array': [ '1.1.8' ],
+31 silly audit   'winston-transport': [ '4.5.0' ],
+31 silly audit   wordwrap: [ '0.0.3' ],
+31 silly audit   wrappy: [ '1.0.2' ],
+31 silly audit   'write-file-atomic': [ '2.4.3' ],
+31 silly audit   'xdg-basedir': [ '3.0.0' ]
+31 silly audit }
+32 http fetch POST 200 https://registry.npmjs.org/-/npm/v1/security/advisories/bulk 273ms
+33 timing auditReport:getReport Completed in 280ms
+34 silly audit report {
+34 silly audit report   nconf: [
+34 silly audit report     {
+34 silly audit report       id: 1070223,
+34 silly audit report       url: 'https://github.com/advisories/GHSA-6xwr-q98w-rvg7',
+34 silly audit report       title: 'Prototype Pollution in nconf',
+34 silly audit report       severity: 'high',
+34 silly audit report       vulnerable_versions: '<0.11.4',
+34 silly audit report       cwe: [Array],
+34 silly audit report       cvss: [Object]
+34 silly audit report     }
+34 silly audit report   ],
+34 silly audit report   minimist: [
+34 silly audit report     {
+34 silly audit report       id: 1070255,
+34 silly audit report       url: 'https://github.com/advisories/GHSA-vh95-rmgr-6w4m',
+34 silly audit report       title: 'Prototype Pollution in minimist',
+34 silly audit report       severity: 'moderate',
+34 silly audit report       vulnerable_versions: '<0.2.1',
+34 silly audit report       cwe: [Array],
+34 silly audit report       cvss: [Object]
+34 silly audit report     },
+34 silly audit report     {
+34 silly audit report       id: 1067342,
+34 silly audit report       url: 'https://github.com/advisories/GHSA-xvch-5gv4-984h',
+34 silly audit report       title: 'Prototype Pollution in minimist',
+34 silly audit report       severity: 'critical',
+34 silly audit report       vulnerable_versions: '<1.2.6',
+34 silly audit report       cwe: [Array],
+34 silly audit report       cvss: [Object]
+34 silly audit report     }
+34 silly audit report   ],
+34 silly audit report   'glob-parent': [
+34 silly audit report     {
+34 silly audit report       id: 1081884,
+34 silly audit report       url: 'https://github.com/advisories/GHSA-ww39-953v-wcq6',
+34 silly audit report       title: 'glob-parent before 5.1.2 vulnerable to Regular Expression Denial of Service in enclosure regex',
+34 silly audit report       severity: 'high',
+34 silly audit report       vulnerable_versions: '<5.1.2',
+34 silly audit report       cwe: [Array],
+34 silly audit report       cvss: [Object]
+34 silly audit report     }
+34 silly audit report   ]
+34 silly audit report }
+35 timing metavuln:cache:get:security-advisory:nconf:/t62kYCyWl+VKCTafMdtcARwlBscjmb43UeazMwWq9XbelP0AYkALnEMJ/QIxvQ0ylTN4ceXaN0NVJpVMQ14YA== Completed in 17ms
+36 timing metavuln:cache:get:security-advisory:minimist:HzlTd/CS509JwqRUmSOa+xKGYgjeXpUaWCnQckWGHjn/fcOUvS1viXUyBuSwKMKOELDnu9ADP3t6IyP7rFSUIA== Completed in 16ms
+37 timing metavuln:cache:get:security-advisory:minimist:nZkhUdPEpKwzIx1nekYW4B7BHQyF2nm6J0JsgeP2HfA0DRMT5hhByRU71A4RPgtBbQPYEzVBozv8/mBZCafaGw== Completed in 15ms
+38 timing metavuln:cache:get:security-advisory:glob-parent:S4NFkE/dxC92qTLWroavym0NwZzQKYtYudj/+ukE5LnX++Gm4YT6e2q8w6lEC60psmjq5CL7a6aosF0CCmRNEA== Completed in 15ms
+39 http fetch GET 200 https://registry.npmjs.org/nconf 46ms (cache miss)
+40 timing metavuln:packument:nconf Completed in 49ms
+41 timing metavuln:load:security-advisory:nconf:1070223 Completed in 1ms
+42 timing metavuln:calculate:security-advisory:nconf:1070223 Completed in 51ms
+43 http fetch GET 200 https://registry.npmjs.org/glob-parent 47ms (cache miss)
+44 timing metavuln:packument:glob-parent Completed in 48ms
+45 timing metavuln:load:security-advisory:glob-parent:1081884 Completed in 1ms
+46 timing metavuln:calculate:security-advisory:glob-parent:1081884 Completed in 49ms
+47 http fetch GET 200 https://registry.npmjs.org/minimist 346ms (cache miss)
+48 timing metavuln:packument:minimist Completed in 347ms
+49 timing metavuln:load:security-advisory:minimist:1070255 Completed in 1ms
+50 timing metavuln:calculate:security-advisory:minimist:1070255 Completed in 348ms
+51 timing metavuln:load:security-advisory:minimist:1067342 Completed in 0ms
+52 timing metavuln:calculate:security-advisory:minimist:1067342 Completed in 347ms
+53 timing metavuln:cache:get:security-advisory:broadway:Fw2bebDAQ6kXrEz53M86XFuTVhGyhaa/8CHBIsMjzMAzNLbut4dlsbD8sGWltJl9Cm7v6i3bSO0Y0/NKa30JPw== Completed in 3ms
+54 http fetch GET 200 https://registry.npmjs.org/broadway 23ms (cache miss)
+55 timing metavuln:packument:broadway Completed in 24ms
+56 timing metavuln:load:security-advisory:broadway:/t62kYCyWl+VKCTafMdtcARwlBscjmb43UeazMwWq9XbelP0AYkALnEMJ/QIxvQ0ylTN4ceXaN0NVJpVMQ14YA== Completed in 1ms
+57 timing metavuln:calculate:security-advisory:broadway:/t62kYCyWl+VKCTafMdtcARwlBscjmb43UeazMwWq9XbelP0AYkALnEMJ/QIxvQ0ylTN4ceXaN0NVJpVMQ14YA== Completed in 25ms
+58 timing metavuln:cache:get:security-advisory:optimist:QlpVugrpOusS/3D2cXrzh/p5B7l+sZkt5/a0nwAoaWvtLGHzbaPJYeCv5rLMF+h6AeHU6ckXkVcXSGjkApkBsQ== Completed in 3ms
+59 http fetch GET 200 https://registry.npmjs.org/optimist 29ms (cache miss)
+60 timing metavuln:packument:optimist Completed in 30ms
+61 timing metavuln:load:security-advisory:optimist:HzlTd/CS509JwqRUmSOa+xKGYgjeXpUaWCnQckWGHjn/fcOUvS1viXUyBuSwKMKOELDnu9ADP3t6IyP7rFSUIA== Completed in 0ms
+62 timing metavuln:calculate:security-advisory:optimist:HzlTd/CS509JwqRUmSOa+xKGYgjeXpUaWCnQckWGHjn/fcOUvS1viXUyBuSwKMKOELDnu9ADP3t6IyP7rFSUIA== Completed in 30ms
+63 timing metavuln:cache:get:security-advisory:chokidar:uf213K1qOikcEono5yiXr2SA5KaLVXavJZh/LQf7qKdqNe37cPKVWjxJ34dQtd0JVSJPdE69qCM6cjwVEtHv0A== Completed in 3ms
+64 http fetch GET 200 https://registry.npmjs.org/chokidar 33ms (cache miss)
+65 timing metavuln:packument:chokidar Completed in 34ms
+66 timing metavuln:load:security-advisory:chokidar:S4NFkE/dxC92qTLWroavym0NwZzQKYtYudj/+ukE5LnX++Gm4YT6e2q8w6lEC60psmjq5CL7a6aosF0CCmRNEA== Completed in 1ms
+67 timing metavuln:calculate:security-advisory:chokidar:S4NFkE/dxC92qTLWroavym0NwZzQKYtYudj/+ukE5LnX++Gm4YT6e2q8w6lEC60psmjq5CL7a6aosF0CCmRNEA== Completed in 36ms
+68 timing metavuln:cache:get:security-advisory:flatiron:VHZOprnIMCzFrYskmG2tpOnxKxJmOEB8kiZwJsnuyeaJXJf5EEfqOV9w5sD96xvTNbq5ACyhRb/GQdKXc+WSVg== Completed in 3ms
+69 http fetch GET 200 https://registry.npmjs.org/flatiron 26ms (cache miss)
+70 timing metavuln:packument:flatiron Completed in 28ms
+71 timing metavuln:load:security-advisory:flatiron:Fw2bebDAQ6kXrEz53M86XFuTVhGyhaa/8CHBIsMjzMAzNLbut4dlsbD8sGWltJl9Cm7v6i3bSO0Y0/NKa30JPw== Completed in 0ms
+72 timing metavuln:calculate:security-advisory:flatiron:Fw2bebDAQ6kXrEz53M86XFuTVhGyhaa/8CHBIsMjzMAzNLbut4dlsbD8sGWltJl9Cm7v6i3bSO0Y0/NKa30JPw== Completed in 29ms
+73 timing metavuln:cache:get:security-advisory:flatiron:tcBvK1lt8G/8pZDbCfRRZxF5rb+S0FG7XeVqi3B9Y1Dle9Ou3Ie/Gway50gDgXK6bFiFGq+NbyzL+I7qVVt3iQ== Completed in 1ms
+74 timing metavuln:load:security-advisory:flatiron:QlpVugrpOusS/3D2cXrzh/p5B7l+sZkt5/a0nwAoaWvtLGHzbaPJYeCv5rLMF+h6AeHU6ckXkVcXSGjkApkBsQ== Completed in 0ms
+75 timing metavuln:calculate:security-advisory:flatiron:QlpVugrpOusS/3D2cXrzh/p5B7l+sZkt5/a0nwAoaWvtLGHzbaPJYeCv5rLMF+h6AeHU6ckXkVcXSGjkApkBsQ== Completed in 2ms
+76 timing metavuln:cache:get:security-advisory:nconf:qiU40JTZFea6mD874TNL9uTGdNH+BhIQrEISRtKc5aGjNzHGzZ0n0hhukyXSHslGRjOD/XRm+s42i87yGQqVpQ== Completed in 2ms
+77 timing metavuln:load:security-advisory:nconf:QlpVugrpOusS/3D2cXrzh/p5B7l+sZkt5/a0nwAoaWvtLGHzbaPJYeCv5rLMF+h6AeHU6ckXkVcXSGjkApkBsQ== Completed in 0ms
+78 timing metavuln:calculate:security-advisory:nconf:QlpVugrpOusS/3D2cXrzh/p5B7l+sZkt5/a0nwAoaWvtLGHzbaPJYeCv5rLMF+h6AeHU6ckXkVcXSGjkApkBsQ== Completed in 2ms
+79 timing metavuln:cache:get:security-advisory:forever-monitor:Dr7WP44mc7FFU+Dyow89KR8XiT8ePL1tUChL8KOOLudJNCXFTUY5xvsUjGUDWn1Gv4Ku/PE7UyEzIEco8qutOQ== Completed in 3ms
+80 http fetch GET 200 https://registry.npmjs.org/forever-monitor 215ms (cache miss)
+81 timing metavuln:packument:forever-monitor Completed in 216ms
+82 timing metavuln:load:security-advisory:forever-monitor:uf213K1qOikcEono5yiXr2SA5KaLVXavJZh/LQf7qKdqNe37cPKVWjxJ34dQtd0JVSJPdE69qCM6cjwVEtHv0A== Completed in 0ms
+83 timing metavuln:calculate:security-advisory:forever-monitor:uf213K1qOikcEono5yiXr2SA5KaLVXavJZh/LQf7qKdqNe37cPKVWjxJ34dQtd0JVSJPdE69qCM6cjwVEtHv0A== Completed in 217ms
+84 timing metavuln:cache:get:security-advisory:forever:/l4yZfauVOoaBPA2haL5hGlLnM71N00oE7h9JIxshRAO6CHupJON4lIhM231+IYgywC9+Jfz+QH8M86A06u6lw== Completed in 9ms
+85 http fetch GET 200 https://registry.npmjs.org/forever 25ms (cache miss)
+86 timing metavuln:packument:forever Completed in 29ms
+87 timing metavuln:load:security-advisory:forever:VHZOprnIMCzFrYskmG2tpOnxKxJmOEB8kiZwJsnuyeaJXJf5EEfqOV9w5sD96xvTNbq5ACyhRb/GQdKXc+WSVg== Completed in 0ms
+88 timing metavuln:calculate:security-advisory:forever:VHZOprnIMCzFrYskmG2tpOnxKxJmOEB8kiZwJsnuyeaJXJf5EEfqOV9w5sD96xvTNbq5ACyhRb/GQdKXc+WSVg== Completed in 29ms
+89 timing metavuln:cache:get:security-advisory:forever:HmI+Cs+U/8y3oUmYNqRAAnl/RMitDZDEtGlfev4CTMAGbDhR2XmhdTDfwbYD0IK34FSIl529c0CPauTi/719QQ== Completed in 1ms
+90 timing metavuln:load:security-advisory:forever:Dr7WP44mc7FFU+Dyow89KR8XiT8ePL1tUChL8KOOLudJNCXFTUY5xvsUjGUDWn1Gv4Ku/PE7UyEzIEco8qutOQ== Completed in 0ms
+91 timing metavuln:calculate:security-advisory:forever:Dr7WP44mc7FFU+Dyow89KR8XiT8ePL1tUChL8KOOLudJNCXFTUY5xvsUjGUDWn1Gv4Ku/PE7UyEzIEco8qutOQ== Completed in 1ms
+92 timing auditReport:init Completed in 748ms
+93 timing audit Completed in 1389ms
+94 timing idealTree:init Completed in 1ms
+95 warn audit Updating forever to 0.9.2,which is a SemVer major change.
+96 timing idealTree:userRequests Completed in 5ms
+97 silly idealTree buildDeps
+98 silly fetch manifest forever@0.9.2
+99 silly placeDep ROOT forever@0.9.2 REPLACE for: node@1.0.0 want: 0.9.2
+100 silly fetch manifest broadway@0.1.x
+101 silly fetch manifest daemon@0.5.x
+102 silly fetch manifest flatiron@0.1.x
+103 silly fetch manifest microtime@0.2.x
+104 silly fetch manifest minimatch@0.2.x
+105 silly fetch manifest nconf@0.5.x
+106 silly fetch manifest nssocket@0.3.x
+107 silly fetch manifest node-fork@0.4.x
+108 silly fetch manifest optimist@0.3.x
+109 silly fetch manifest pkginfo@0.x.x
+110 silly fetch manifest portfinder@0.x.x
+111 silly fetch manifest ps-tree@0.0.x
+112 silly fetch manifest timespan@2.0.x
+113 silly fetch manifest watch@0.5.x
+114 silly fetch manifest utile@0.0.x
+115 silly fetch manifest winston@0.5.x
+116 timing arborist:ctor Completed in 1ms
+117 http fetch GET 200 https://registry.npmjs.org/minimatch 359ms (cache miss)
+118 http fetch GET 200 https://registry.npmjs.org/nssocket 360ms (cache miss)
+119 http fetch GET 200 https://registry.npmjs.org/pkginfo 360ms (cache miss)
+120 http fetch GET 200 https://registry.npmjs.org/ps-tree 359ms (cache miss)
+121 http fetch GET 200 https://registry.npmjs.org/watch 357ms (cache miss)
+122 http fetch GET 200 https://registry.npmjs.org/daemon 368ms (cache miss)
+123 http fetch GET 200 https://registry.npmjs.org/microtime 368ms (cache miss)
+124 http fetch GET 200 https://registry.npmjs.org/node-fork 366ms (cache miss)
+125 http fetch GET 200 https://registry.npmjs.org/utile 362ms (cache miss)
+126 http fetch GET 200 https://registry.npmjs.org/portfinder 366ms (cache miss)
+127 http fetch GET 200 https://registry.npmjs.org/timespan 365ms (cache miss)
+128 http fetch GET 200 https://registry.npmjs.org/winston 361ms (cache miss)
+129 timing idealTree:#root Completed in 431ms
+130 silly placeDep ROOT broadway@0.1.15 OK for: forever@0.9.2 want: 0.1.x
+131 silly placeDep ROOT daemon@0.5.1 OK for: forever@0.9.2 want: 0.5.x
+132 silly placeDep ROOT flatiron@0.1.2 OK for: forever@0.9.2 want: 0.1.x
+133 silly placeDep ROOT microtime@0.2.0 OK for: forever@0.9.2 want: 0.2.x
+134 silly placeDep ROOT minimatch@0.2.14 OK for: forever@0.9.2 want: 0.2.x
+135 silly placeDep ROOT nconf@0.5.1 OK for: forever@0.9.2 want: 0.5.x
+136 silly placeDep ROOT node-fork@0.4.2 OK for: forever@0.9.2 want: 0.4.x
+137 silly placeDep ROOT nssocket@0.3.8 OK for: forever@0.9.2 want: 0.3.x
+138 silly placeDep ROOT optimist@0.3.7 OK for: forever@0.9.2 want: 0.3.x
+139 silly placeDep ROOT pkginfo@0.4.1 OK for: forever@0.9.2 want: 0.x.x
+140 silly placeDep ROOT portfinder@0.4.0 OK for: forever@0.9.2 want: 0.x.x
+141 silly placeDep ROOT ps-tree@0.0.3 OK for: forever@0.9.2 want: 0.0.x
+142 silly placeDep ROOT timespan@2.0.1 OK for: forever@0.9.2 want: 2.0.x
+143 silly placeDep ROOT utile@0.0.10 OK for: forever@0.9.2 want: 0.0.x
+144 silly placeDep ROOT watch@0.5.1 OK for: forever@0.9.2 want: 0.5.x
+145 silly placeDep ROOT winston@0.5.11 OK for: forever@0.9.2 want: 0.5.x
+146 silly fetch manifest colors@0.6.0-1
+147 silly fetch manifest cliff@0.1.7
+148 silly fetch manifest eventemitter2@0.4.9
+149 silly fetch manifest nconf@0.5.1
+150 silly fetch manifest optimist@0.3.1
+151 silly fetch manifest broadway@x.x.x
+152 silly fetch manifest optimist@0.2.x
+153 silly fetch manifest prompt@0.1.x >=0.1.9
+154 silly fetch manifest director@x.x.x
+155 silly fetch manifest pkginfo@0.2.x
+156 silly fetch manifest lru-cache@2
+157 silly fetch manifest sigmund@~1.0.0
+158 silly fetch manifest async@0.1.x
+159 silly fetch manifest ini@1.x.x
+160 silly fetch manifest eventemitter2@0.4.x
+161 silly fetch manifest lazy@1.0.x
+162 silly fetch manifest wordwrap@~0.0.2
+163 silly fetch manifest async@0.9.0
+164 silly fetch manifest mkdirp@0.5.x
+165 silly fetch manifest event-stream@~0.5
+166 silly fetch manifest mkdirp@0.x.x
+167 silly fetch manifest ncp@0.2.x
+168 silly fetch manifest rimraf@1.x.x
+169 silly fetch manifest colors@0.x.x
+170 silly fetch manifest loggly@0.3.x >=0.3.7
+171 http fetch GET 200 https://registry.npmjs.org/colors 114ms (cache miss)
+172 http fetch GET 200 https://registry.npmjs.org/mkdirp 105ms (cache miss)
+173 http fetch GET 200 https://registry.npmjs.org/sigmund 113ms (cache miss)
+174 http fetch GET 200 https://registry.npmjs.org/lazy 112ms (cache miss)
+175 http fetch GET 200 https://registry.npmjs.org/wordwrap 111ms (cache miss)
+176 http fetch GET 200 https://registry.npmjs.org/eventemitter2 120ms (cache miss)
+177 http fetch GET 200 https://registry.npmjs.org/ncp 109ms (cache miss)
+178 http fetch GET 200 https://registry.npmjs.org/lru-cache 118ms (cache miss)
+179 http fetch GET 200 https://registry.npmjs.org/event-stream 114ms (cache miss)
+180 http fetch GET 200 https://registry.npmjs.org/async 120ms (cache miss)
+181 http fetch GET 200 https://registry.npmjs.org/rimraf 123ms (cache miss)
+182 http fetch GET 200 https://registry.npmjs.org/ini 130ms (cache miss)
+183 http fetch GET 200 https://registry.npmjs.org/director 233ms (cache miss)
+184 http fetch GET 200 https://registry.npmjs.org/prompt 235ms (cache miss)
+185 http fetch GET 200 https://registry.npmjs.org/loggly 242ms (cache miss)
+186 http fetch GET 200 https://registry.npmjs.org/cliff 740ms (cache miss)
+187 timing idealTree:node_modules/forever Completed in 787ms
+188 silly placeDep node_modules/broadway cliff@0.1.7 OK for: broadway@0.1.15 want: 0.1.7
+189 silly placeDep ROOT colors@0.6.0-1 OK for: broadway@0.1.15 want: 0.6.0-1
+190 silly placeDep ROOT eventemitter2@0.4.9 OK for: broadway@0.1.15 want: 0.4.9
+191 silly placeDep ROOT nconf@0.5.1 KEEP for: broadway@0.1.15 want: 0.5.1
+192 silly placeDep node_modules/broadway optimist@0.3.1 OK for: broadway@0.1.15 want: 0.3.1
+193 silly fetch manifest wordwrap@>=0.0.1 <0.1.0
+194 timing idealTree:node_modules/broadway Completed in 9ms
+195 timing idealTree:node_modules/colors Completed in 1ms
+196 timing idealTree:node_modules/daemon Completed in 0ms
+197 timing idealTree:node_modules/eventemitter2 Completed in 0ms
+198 silly placeDep ROOT broadway@4.1.0 KEEP for: flatiron@0.1.2 want: x.x.x
+199 silly placeDep ROOT director@1.2.8 OK for: flatiron@0.1.2 want: x.x.x
+200 silly placeDep node_modules/flatiron optimist@0.2.8 OK for: flatiron@0.1.2 want: 0.2.x
+201 silly placeDep node_modules/flatiron pkginfo@0.2.3 OK for: flatiron@0.1.2 want: 0.2.x
+202 silly placeDep ROOT prompt@0.1.12 OK for: flatiron@0.1.2 want: 0.1.x >=0.1.9
+203 timing idealTree:node_modules/flatiron Completed in 9ms
+204 timing idealTree:node_modules/director Completed in 0ms
+205 timing idealTree:node_modules/microtime Completed in 0ms
+206 silly placeDep ROOT lru-cache@2.7.3 OK for: minimatch@0.2.14 want: 2
+207 silly placeDep ROOT sigmund@1.0.1 OK for: minimatch@0.2.14 want: ~1.0.0
+208 timing idealTree:node_modules/minimatch Completed in 2ms
+209 timing idealTree:node_modules/lru-cache Completed in 1ms
+210 silly placeDep ROOT async@0.1.22 OK for: nconf@0.5.1 want: 0.1.x
+211 silly placeDep ROOT ini@1.3.8 OK for: nconf@0.5.1 want: 1.x.x
+212 silly placeDep node_modules/nconf pkginfo@0.2.3 OK for: nconf@0.5.1 want: 0.2.x
+213 timing idealTree:node_modules/nconf Completed in 7ms
+214 timing idealTree:node_modules/async Completed in 0ms
+215 timing idealTree:node_modules/ini Completed in 0ms
+216 timing idealTree:node_modules/node-fork Completed in 0ms
+217 silly placeDep ROOT lazy@1.0.11 OK for: nssocket@0.3.8 want: 1.0.x
+218 timing idealTree:node_modules/nssocket Completed in 1ms
+219 timing idealTree:node_modules/lazy Completed in 0ms
+220 silly placeDep ROOT wordwrap@0.0.3 OK for: optimist@0.3.7 want: ~0.0.2
+221 timing idealTree:node_modules/optimist Completed in 1ms
+222 timing idealTree:node_modules/pkginfo Completed in 0ms
+223 silly placeDep node_modules/portfinder async@0.9.0 OK for: portfinder@0.4.0 want: 0.9.0
+224 silly placeDep ROOT mkdirp@0.5.6 OK for: portfinder@0.4.0 want: 0.5.x
+225 silly fetch manifest minimist@^1.2.6
+226 timing idealTree:node_modules/portfinder Completed in 3ms
+227 silly placeDep ROOT minimist@1.2.7 OK for: mkdirp@0.5.6 want: ^1.2.6
+228 timing idealTree:node_modules/mkdirp Completed in 1ms
+229 timing idealTree:node_modules/minimist Completed in 0ms
+230 silly placeDep node_modules/prompt colors@0.6.2 OK for: prompt@0.1.12 want: 0.x.x
+231 timing idealTree:node_modules/prompt Completed in 1ms
+232 silly placeDep ROOT event-stream@0.5.3 OK for: ps-tree@0.0.3 want: ~0.5
+233 silly fetch manifest optimist@0.2
+234 timing idealTree:node_modules/ps-tree Completed in 3ms
+235 silly placeDep node_modules/event-stream optimist@0.2.8 OK for: event-stream@0.5.3 want: 0.2
+236 timing idealTree:node_modules/event-stream Completed in 2ms
+237 timing idealTree:node_modules/sigmund Completed in 0ms
+238 timing idealTree:node_modules/timespan Completed in 0ms
+239 silly placeDep ROOT ncp@0.2.7 OK for: utile@0.0.10 want: 0.2.x
+240 silly placeDep ROOT rimraf@1.0.9 OK for: utile@0.0.10 want: 1.x.x
+241 timing idealTree:node_modules/utile Completed in 3ms
+242 timing idealTree:node_modules/ncp Completed in 0ms
+243 timing idealTree:node_modules/rimraf Completed in 0ms
+244 timing idealTree:node_modules/watch Completed in 0ms
+245 silly placeDep node_modules/winston colors@0.6.2 OK for: winston@0.5.11 want: 0.x.x
+246 silly placeDep ROOT loggly@0.3.11 OK for: winston@0.5.11 want: 0.3.x >=0.3.7
+247 silly placeDep node_modules/winston pkginfo@0.2.3 OK for: winston@0.5.11 want: 0.2.x
+248 silly fetch manifest request@2.9.x
+249 http fetch GET 200 https://registry.npmjs.org/request 33ms (cache miss)
+250 timing idealTree:node_modules/winston Completed in 41ms
+251 silly placeDep ROOT request@2.9.203 OK for: loggly@0.3.11 want: 2.9.x
+252 timing idealTree:node_modules/loggly Completed in 2ms
+253 timing idealTree:node_modules/request Completed in 0ms
+254 timing idealTree:node_modules/wordwrap Completed in 0ms
+255 silly placeDep node_modules/broadway/node_modules/cliff colors@0.6.2 OK for: cliff@0.1.7 want: 0.x.x
+256 timing idealTree:node_modules/broadway/node_modules/cliff Completed in 1ms
+257 timing idealTree:node_modules/broadway/node_modules/optimist Completed in 0ms
+258 timing idealTree:node_modules/event-stream/node_modules/optimist Completed in 0ms
+259 timing idealTree:node_modules/flatiron/node_modules/optimist Completed in 0ms
+260 timing idealTree:node_modules/flatiron/node_modules/pkginfo Completed in 0ms
+261 timing idealTree:node_modules/nconf/node_modules/pkginfo Completed in 0ms
+262 timing idealTree:node_modules/portfinder/node_modules/async Completed in 0ms
+263 timing idealTree:node_modules/prompt/node_modules/colors Completed in 0ms
+264 timing idealTree:node_modules/winston/node_modules/colors Completed in 0ms
+265 timing idealTree:node_modules/winston/node_modules/pkginfo Completed in 0ms
+266 timing idealTree:node_modules/broadway/node_modules/cliff/node_modules/colors Completed in 0ms
+267 timing idealTree:buildDeps Completed in 1311ms
+268 timing idealTree:fixDepFlags Completed in 2ms
+269 timing idealTree Completed in 1322ms
+270 timing reify:loadTrees Completed in 1323ms
+271 timing reify:diffTrees Completed in 7ms
+272 silly reify mark retired [ '/home/ubuntu/node/node_modules/@colors/colors' ]
+273 silly reify mark retired [ '/home/ubuntu/node/node_modules/@dabh/diagnostics' ]
+274 silly reify mark retired [ '/home/ubuntu/node/node_modules/anymatch' ]
+275 silly reify mark retired [ '/home/ubuntu/node/node_modules/arr-diff' ]
+276 silly reify mark retired [ '/home/ubuntu/node/node_modules/arr-flatten' ]
+277 silly reify mark retired [ '/home/ubuntu/node/node_modules/arr-union' ]
+278 silly reify mark retired [ '/home/ubuntu/node/node_modules/array-unique' ]
+279 silly reify mark retired [ '/home/ubuntu/node/node_modules/assign-symbols' ]
+280 silly reify mark retired [ '/home/ubuntu/node/node_modules/async' ]
+281 silly reify mark retired [ '/home/ubuntu/node/node_modules/async-each' ]
+282 silly reify mark retired [
+282 silly reify   '/home/ubuntu/node/node_modules/atob',
+282 silly reify   '/home/ubuntu/node/node_modules/.bin/atob'
+282 silly reify ]
+283 silly reify mark retired [ '/home/ubuntu/node/node_modules/available-typed-arrays' ]
+284 silly reify mark retired [ '/home/ubuntu/node/node_modules/balanced-match' ]
+285 silly reify mark retired [ '/home/ubuntu/node/node_modules/base' ]
+286 silly reify mark retired [ '/home/ubuntu/node/node_modules/binary-extensions' ]
+287 silly reify mark retired [ '/home/ubuntu/node/node_modules/brace-expansion' ]
+288 silly reify mark retired [ '/home/ubuntu/node/node_modules/braces' ]
+289 silly reify mark retired [ '/home/ubuntu/node/node_modules/broadway' ]
+290 silly reify mark retired [ '/home/ubuntu/node/node_modules/cache-base' ]
+291 silly reify mark retired [ '/home/ubuntu/node/node_modules/caller' ]
+292 silly reify mark retired [ '/home/ubuntu/node/node_modules/chokidar' ]
+293 silly reify mark retired [ '/home/ubuntu/node/node_modules/class-utils' ]
+294 silly reify mark retired [ '/home/ubuntu/node/node_modules/clone' ]
+295 silly reify mark retired [ '/home/ubuntu/node/node_modules/collection-visit' ]
+296 silly reify mark retired [ '/home/ubuntu/node/node_modules/color' ]
+297 silly reify mark retired [ '/home/ubuntu/node/node_modules/color-convert' ]
+298 silly reify mark retired [ '/home/ubuntu/node/node_modules/color-name' ]
+299 silly reify mark retired [ '/home/ubuntu/node/node_modules/color-string' ]
+300 silly reify mark retired [ '/home/ubuntu/node/node_modules/colors' ]
+301 silly reify mark retired [ '/home/ubuntu/node/node_modules/colorspace' ]
+302 silly reify mark retired [ '/home/ubuntu/node/node_modules/component-emitter' ]
+303 silly reify mark retired [ '/home/ubuntu/node/node_modules/concat-map' ]
+304 silly reify mark retired [ '/home/ubuntu/node/node_modules/configstore' ]
+305 silly reify mark retired [ '/home/ubuntu/node/node_modules/copy-descriptor' ]
+306 silly reify mark retired [ '/home/ubuntu/node/node_modules/core-util-is' ]
+307 silly reify mark retired [ '/home/ubuntu/node/node_modules/crypto-random-string' ]
+308 silly reify mark retired [ '/home/ubuntu/node/node_modules/decode-uri-component' ]
+309 silly reify mark retired [ '/home/ubuntu/node/node_modules/deep-equal' ]
+310 silly reify mark retired [ '/home/ubuntu/node/node_modules/define-properties' ]
+311 silly reify mark retired [ '/home/ubuntu/node/node_modules/define-property' ]
+312 silly reify mark retired [ '/home/ubuntu/node/node_modules/director' ]
+313 silly reify mark retired [ '/home/ubuntu/node/node_modules/dot-prop' ]
+314 silly reify mark retired [ '/home/ubuntu/node/node_modules/duplexer' ]
+315 silly reify mark retired [ '/home/ubuntu/node/node_modules/enabled' ]
+316 silly reify mark retired [ '/home/ubuntu/node/node_modules/es-abstract' ]
+317 silly reify mark retired [ '/home/ubuntu/node/node_modules/es-get-iterator' ]
+318 silly reify mark retired [ '/home/ubuntu/node/node_modules/es-to-primitive' ]
+319 silly reify mark retired [ '/home/ubuntu/node/node_modules/event-stream' ]
+320 silly reify mark retired [ '/home/ubuntu/node/node_modules/eventemitter2' ]
+321 silly reify mark retired [ '/home/ubuntu/node/node_modules/expand-brackets' ]
+322 silly reify mark retired [ '/home/ubuntu/node/node_modules/extend-shallow' ]
+323 silly reify mark retired [ '/home/ubuntu/node/node_modules/extglob' ]
+324 silly reify mark retired [ '/home/ubuntu/node/node_modules/fecha' ]
+325 silly reify mark retired [ '/home/ubuntu/node/node_modules/fill-range' ]
+326 silly reify mark retired [
+326 silly reify   '/home/ubuntu/node/node_modules/flatiron',
+326 silly reify   '/home/ubuntu/node/node_modules/.bin/flatiron'
+326 silly reify ]
+327 silly reify mark retired [ '/home/ubuntu/node/node_modules/fn.name' ]
+328 silly reify mark retired [ '/home/ubuntu/node/node_modules/for-each' ]
+329 silly reify mark retired [ '/home/ubuntu/node/node_modules/for-in' ]
+330 silly reify mark retired [
+330 silly reify   '/home/ubuntu/node/node_modules/forever',
+330 silly reify   '/home/ubuntu/node/node_modules/.bin/forever'
+330 silly reify ]
+331 silly reify mark retired [ '/home/ubuntu/node/node_modules/forever-monitor' ]
+332 silly reify mark retired [ '/home/ubuntu/node/node_modules/fragment-cache' ]
+333 silly reify mark retired [ '/home/ubuntu/node/node_modules/from' ]
+334 silly reify mark retired [ '/home/ubuntu/node/node_modules/fs.realpath' ]
+335 silly reify mark retired [ '/home/ubuntu/node/node_modules/function.prototype.name' ]
+336 silly reify mark retired [ '/home/ubuntu/node/node_modules/functions-have-names' ]
+337 silly reify mark retired [ '/home/ubuntu/node/node_modules/get-symbol-description' ]
+338 silly reify mark retired [ '/home/ubuntu/node/node_modules/get-value' ]
+339 silly reify mark retired [ '/home/ubuntu/node/node_modules/glob' ]
+340 silly reify mark retired [ '/home/ubuntu/node/node_modules/glob-parent' ]
+341 silly reify mark retired [ '/home/ubuntu/node/node_modules/graceful-fs' ]
+342 silly reify mark retired [ '/home/ubuntu/node/node_modules/has-bigints' ]
+343 silly reify mark retired [ '/home/ubuntu/node/node_modules/has-property-descriptors' ]
+344 silly reify mark retired [ '/home/ubuntu/node/node_modules/has-tostringtag' ]
+345 silly reify mark retired [ '/home/ubuntu/node/node_modules/has-value' ]
+346 silly reify mark retired [ '/home/ubuntu/node/node_modules/has-values' ]
+347 silly reify mark retired [ '/home/ubuntu/node/node_modules/i' ]
+348 silly reify mark retired [ '/home/ubuntu/node/node_modules/imurmurhash' ]
+349 silly reify mark retired [ '/home/ubuntu/node/node_modules/inflight' ]
+350 silly reify mark retired [ '/home/ubuntu/node/node_modules/internal-slot' ]
+351 silly reify mark retired [ '/home/ubuntu/node/node_modules/is-accessor-descriptor' ]
+352 silly reify mark retired [ '/home/ubuntu/node/node_modules/is-arguments' ]
+353 silly reify mark retired [ '/home/ubuntu/node/node_modules/is-arrayish' ]
+354 silly reify mark retired [ '/home/ubuntu/node/node_modules/is-bigint' ]
+355 silly reify mark retired [ '/home/ubuntu/node/node_modules/is-binary-path' ]
+356 silly reify mark retired [ '/home/ubuntu/node/node_modules/is-boolean-object' ]
+357 silly reify mark retired [ '/home/ubuntu/node/node_modules/is-buffer' ]
+358 silly reify mark retired [ '/home/ubuntu/node/node_modules/is-callable' ]
+359 silly reify mark retired [ '/home/ubuntu/node/node_modules/is-data-descriptor' ]
+360 silly reify mark retired [ '/home/ubuntu/node/node_modules/is-date-object' ]
+361 silly reify mark retired [ '/home/ubuntu/node/node_modules/is-descriptor' ]
+362 silly reify mark retired [ '/home/ubuntu/node/node_modules/is-extendable' ]
+363 silly reify mark retired [ '/home/ubuntu/node/node_modules/is-extglob' ]
+364 silly reify mark retired [ '/home/ubuntu/node/node_modules/is-glob' ]
+365 silly reify mark retired [ '/home/ubuntu/node/node_modules/is-map' ]
+366 silly reify mark retired [ '/home/ubuntu/node/node_modules/is-negative-zero' ]
+367 silly reify mark retired [ '/home/ubuntu/node/node_modules/is-number' ]
+368 silly reify mark retired [ '/home/ubuntu/node/node_modules/is-number-object' ]
+369 silly reify mark retired [ '/home/ubuntu/node/node_modules/is-obj' ]
+370 silly reify mark retired [ '/home/ubuntu/node/node_modules/is-plain-object' ]
+371 silly reify mark retired [ '/home/ubuntu/node/node_modules/is-regex' ]
+372 silly reify mark retired [ '/home/ubuntu/node/node_modules/is-set' ]
+373 silly reify mark retired [ '/home/ubuntu/node/node_modules/is-shared-array-buffer' ]
+374 silly reify mark retired [ '/home/ubuntu/node/node_modules/is-stream' ]
+375 silly reify mark retired [ '/home/ubuntu/node/node_modules/is-string' ]
+376 silly reify mark retired [ '/home/ubuntu/node/node_modules/is-symbol' ]
+377 silly reify mark retired [ '/home/ubuntu/node/node_modules/is-typed-array' ]
+378 silly reify mark retired [ '/home/ubuntu/node/node_modules/is-weakmap' ]
+379 silly reify mark retired [ '/home/ubuntu/node/node_modules/is-weakref' ]
+380 silly reify mark retired [ '/home/ubuntu/node/node_modules/is-weakset' ]
+381 silly reify mark retired [ '/home/ubuntu/node/node_modules/is-windows' ]
+382 silly reify mark retired [ '/home/ubuntu/node/node_modules/isarray' ]
+383 silly reify mark retired [ '/home/ubuntu/node/node_modules/isobject' ]
+384 silly reify mark retired [ '/home/ubuntu/node/node_modules/kind-of' ]
+385 silly reify mark retired [ '/home/ubuntu/node/node_modules/kuler' ]
+386 silly reify mark retired [ '/home/ubuntu/node/node_modules/logform' ]
+387 silly reify mark retired [ '/home/ubuntu/node/node_modules/make-dir' ]
+388 silly reify mark retired [ '/home/ubuntu/node/node_modules/map-cache' ]
+389 silly reify mark retired [ '/home/ubuntu/node/node_modules/map-stream' ]
+390 silly reify mark retired [ '/home/ubuntu/node/node_modules/map-visit' ]
+391 silly reify mark retired [ '/home/ubuntu/node/node_modules/micromatch' ]
+392 silly reify mark retired [ '/home/ubuntu/node/node_modules/minimatch' ]
+393 silly reify mark retired [ '/home/ubuntu/node/node_modules/mixin-deep' ]
+394 silly reify mark retired [ '/home/ubuntu/node/node_modules/mute-stream' ]
+395 silly reify mark retired [ '/home/ubuntu/node/node_modules/nanomatch' ]
+396 silly reify mark retired [ '/home/ubuntu/node/node_modules/nconf' ]
+397 silly reify mark retired [
+397 silly reify   '/home/ubuntu/node/node_modules/ncp',
+397 silly reify   '/home/ubuntu/node/node_modules/.bin/ncp'
+397 silly reify ]
+398 silly reify mark retired [ '/home/ubuntu/node/node_modules/normalize-path' ]
+399 silly reify mark retired [ '/home/ubuntu/node/node_modules/nssocket' ]
+400 silly reify mark retired [ '/home/ubuntu/node/node_modules/object-assign' ]
+401 silly reify mark retired [ '/home/ubuntu/node/node_modules/object-copy' ]
+402 silly reify mark retired [ '/home/ubuntu/node/node_modules/object-is' ]
+403 silly reify mark retired [ '/home/ubuntu/node/node_modules/object-keys' ]
+404 silly reify mark retired [ '/home/ubuntu/node/node_modules/object-visit' ]
+405 silly reify mark retired [ '/home/ubuntu/node/node_modules/object.assign' ]
+406 silly reify mark retired [ '/home/ubuntu/node/node_modules/object.pick' ]
+407 silly reify mark retired [ '/home/ubuntu/node/node_modules/once' ]
+408 silly reify mark retired [ '/home/ubuntu/node/node_modules/one-time' ]
+409 silly reify mark retired [ '/home/ubuntu/node/node_modules/optimist' ]
+410 silly reify mark retired [ '/home/ubuntu/node/node_modules/pascalcase' ]
+411 silly reify mark retired [ '/home/ubuntu/node/node_modules/path-dirname' ]
+412 silly reify mark retired [ '/home/ubuntu/node/node_modules/path-is-absolute' ]
+413 silly reify mark retired [ '/home/ubuntu/node/node_modules/pause-stream' ]
+414 silly reify mark retired [ '/home/ubuntu/node/node_modules/pify' ]
+415 silly reify mark retired [ '/home/ubuntu/node/node_modules/posix-character-classes' ]
+416 silly reify mark retired [
+416 silly reify   '/home/ubuntu/node/node_modules/prettyjson',
+416 silly reify   '/home/ubuntu/node/node_modules/.bin/prettyjson'
+416 silly reify ]
+417 silly reify mark retired [ '/home/ubuntu/node/node_modules/process-nextick-args' ]
+418 silly reify mark retired [ '/home/ubuntu/node/node_modules/prompt' ]
+419 silly reify mark retired [
+419 silly reify   '/home/ubuntu/node/node_modules/ps-tree',
+419 silly reify   '/home/ubuntu/node/node_modules/.bin/ps-tree'
+419 silly reify ]
+420 silly reify mark retired [ '/home/ubuntu/node/node_modules/read' ]
+421 silly reify mark retired [ '/home/ubuntu/node/node_modules/readable-stream' ]
+422 silly reify mark retired [ '/home/ubuntu/node/node_modules/readdirp' ]
+423 silly reify mark retired [ '/home/ubuntu/node/node_modules/regex-not' ]
+424 silly reify mark retired [ '/home/ubuntu/node/node_modules/regexp.prototype.flags' ]
+425 silly reify mark retired [ '/home/ubuntu/node/node_modules/remove-trailing-separator' ]
+426 silly reify mark retired [ '/home/ubuntu/node/node_modules/repeat-element' ]
+427 silly reify mark retired [ '/home/ubuntu/node/node_modules/repeat-string' ]
+428 silly reify mark retired [ '/home/ubuntu/node/node_modules/resolve-url' ]
+429 silly reify mark retired [ '/home/ubuntu/node/node_modules/ret' ]
+430 silly reify mark retired [ '/home/ubuntu/node/node_modules/revalidator' ]
+431 silly reify mark retired [
+431 silly reify   '/home/ubuntu/node/node_modules/rimraf',
+431 silly reify   '/home/ubuntu/node/node_modules/.bin/rimraf'
+431 silly reify ]
+432 silly reify mark retired [ '/home/ubuntu/node/node_modules/safe-regex' ]
+433 silly reify mark retired [ '/home/ubuntu/node/node_modules/safe-regex-test' ]
+434 silly reify mark retired [ '/home/ubuntu/node/node_modules/safe-stable-stringify' ]
+435 silly reify mark retired [ '/home/ubuntu/node/node_modules/set-value' ]
+436 silly reify mark retired [ '/home/ubuntu/node/node_modules/shush' ]
+437 silly reify mark retired [ '/home/ubuntu/node/node_modules/signal-exit' ]
+438 silly reify mark retired [ '/home/ubuntu/node/node_modules/simple-swizzle' ]
+439 silly reify mark retired [ '/home/ubuntu/node/node_modules/snapdragon' ]
+440 silly reify mark retired [ '/home/ubuntu/node/node_modules/snapdragon-node' ]
+441 silly reify mark retired [ '/home/ubuntu/node/node_modules/snapdragon-util' ]
+442 silly reify mark retired [ '/home/ubuntu/node/node_modules/source-map' ]
+443 silly reify mark retired [ '/home/ubuntu/node/node_modules/source-map-resolve' ]
+444 silly reify mark retired [ '/home/ubuntu/node/node_modules/source-map-url' ]
+445 silly reify mark retired [ '/home/ubuntu/node/node_modules/split' ]
+446 silly reify mark retired [ '/home/ubuntu/node/node_modules/split-string' ]
+447 silly reify mark retired [ '/home/ubuntu/node/node_modules/static-extend' ]
+448 silly reify mark retired [ '/home/ubuntu/node/node_modules/stream-combiner' ]
+449 silly reify mark retired [ '/home/ubuntu/node/node_modules/string_decoder' ]
+450 silly reify mark retired [ '/home/ubuntu/node/node_modules/string.prototype.trimend' ]
+451 silly reify mark retired [ '/home/ubuntu/node/node_modules/string.prototype.trimstart' ]
+452 silly reify mark retired [ '/home/ubuntu/node/node_modules/strip-json-comments' ]
+453 silly reify mark retired [ '/home/ubuntu/node/node_modules/text-hex' ]
+454 silly reify mark retired [ '/home/ubuntu/node/node_modules/through' ]
+455 silly reify mark retired [ '/home/ubuntu/node/node_modules/to-object-path' ]
+456 silly reify mark retired [ '/home/ubuntu/node/node_modules/to-regex' ]
+457 silly reify mark retired [ '/home/ubuntu/node/node_modules/to-regex-range' ]
+458 silly reify mark retired [ '/home/ubuntu/node/node_modules/triple-beam' ]
+459 silly reify mark retired [ '/home/ubuntu/node/node_modules/unbox-primitive' ]
+460 silly reify mark retired [ '/home/ubuntu/node/node_modules/union-value' ]
+461 silly reify mark retired [ '/home/ubuntu/node/node_modules/unique-string' ]
+462 silly reify mark retired [ '/home/ubuntu/node/node_modules/unset-value' ]
+463 silly reify mark retired [ '/home/ubuntu/node/node_modules/upath' ]
+464 silly reify mark retired [ '/home/ubuntu/node/node_modules/urix' ]
+465 silly reify mark retired [ '/home/ubuntu/node/node_modules/use' ]
+466 silly reify mark retired [ '/home/ubuntu/node/node_modules/util-deprecate' ]
+467 silly reify mark retired [ '/home/ubuntu/node/node_modules/utile' ]
+468 silly reify mark retired [ '/home/ubuntu/node/node_modules/which-boxed-primitive' ]
+469 silly reify mark retired [ '/home/ubuntu/node/node_modules/which-collection' ]
+470 silly reify mark retired [ '/home/ubuntu/node/node_modules/which-typed-array' ]
+471 silly reify mark retired [ '/home/ubuntu/node/node_modules/winston' ]
+472 silly reify mark retired [ '/home/ubuntu/node/node_modules/winston-transport' ]
+473 silly reify mark retired [ '/home/ubuntu/node/node_modules/wrappy' ]
+474 silly reify mark retired [ '/home/ubuntu/node/node_modules/write-file-atomic' ]
+475 silly reify mark retired [ '/home/ubuntu/node/node_modules/xdg-basedir' ]
+476 silly reify moves {
+476 silly reify   '/home/ubuntu/node/node_modules/@colors/colors': '/home/ubuntu/node/node_modules/@colors/.colors-8tGfNmSX',
+476 silly reify   '/home/ubuntu/node/node_modules/@dabh/diagnostics': '/home/ubuntu/node/node_modules/@dabh/.diagnostics-zsh0xcRJ',
+476 silly reify   '/home/ubuntu/node/node_modules/anymatch': '/home/ubuntu/node/node_modules/.anymatch-IHebWSjV',
+476 silly reify   '/home/ubuntu/node/node_modules/arr-diff': '/home/ubuntu/node/node_modules/.arr-diff-Pz9GH8la',
+476 silly reify   '/home/ubuntu/node/node_modules/arr-flatten': '/home/ubuntu/node/node_modules/.arr-flatten-pd9j19x2',
+476 silly reify   '/home/ubuntu/node/node_modules/arr-union': '/home/ubuntu/node/node_modules/.arr-union-ohdEvkdJ',
+476 silly reify   '/home/ubuntu/node/node_modules/array-unique': '/home/ubuntu/node/node_modules/.array-unique-IURhoMiy',
+476 silly reify   '/home/ubuntu/node/node_modules/assign-symbols': '/home/ubuntu/node/node_modules/.assign-symbols-JI0ix0Ic',
+476 silly reify   '/home/ubuntu/node/node_modules/async': '/home/ubuntu/node/node_modules/.async-iFPNfOMp',
+476 silly reify   '/home/ubuntu/node/node_modules/async-each': '/home/ubuntu/node/node_modules/.async-each-Q99mIJJx',
+476 silly reify   '/home/ubuntu/node/node_modules/atob': '/home/ubuntu/node/node_modules/.atob-GcYQZ5yR',
+476 silly reify   '/home/ubuntu/node/node_modules/.bin/atob': '/home/ubuntu/node/node_modules/.bin/.atob-bUlnVsQ3',
+476 silly reify   '/home/ubuntu/node/node_modules/available-typed-arrays': '/home/ubuntu/node/node_modules/.available-typed-arrays-zyWIl3QN',
+476 silly reify   '/home/ubuntu/node/node_modules/balanced-match': '/home/ubuntu/node/node_modules/.balanced-match-VWFTkGOD',
+476 silly reify   '/home/ubuntu/node/node_modules/base': '/home/ubuntu/node/node_modules/.base-2xGOSnH9',
+476 silly reify   '/home/ubuntu/node/node_modules/binary-extensions': '/home/ubuntu/node/node_modules/.binary-extensions-4vKBUXV4',
+476 silly reify   '/home/ubuntu/node/node_modules/brace-expansion': '/home/ubuntu/node/node_modules/.brace-expansion-g0kROJHS',
+476 silly reify   '/home/ubuntu/node/node_modules/braces': '/home/ubuntu/node/node_modules/.braces-6aqJo0Hm',
+476 silly reify   '/home/ubuntu/node/node_modules/broadway': '/home/ubuntu/node/node_modules/.broadway-nlKq8Vh2',
+476 silly reify   '/home/ubuntu/node/node_modules/cache-base': '/home/ubuntu/node/node_modules/.cache-base-FutJQZH3',
+476 silly reify   '/home/ubuntu/node/node_modules/caller': '/home/ubuntu/node/node_modules/.caller-BXVuqZvR',
+476 silly reify   '/home/ubuntu/node/node_modules/chokidar': '/home/ubuntu/node/node_modules/.chokidar-x4eNqMLh',
+476 silly reify   '/home/ubuntu/node/node_modules/class-utils': '/home/ubuntu/node/node_modules/.class-utils-wkTV5dsX',
+476 silly reify   '/home/ubuntu/node/node_modules/clone': '/home/ubuntu/node/node_modules/.clone-31peL1kj',
+476 silly reify   '/home/ubuntu/node/node_modules/collection-visit': '/home/ubuntu/node/node_modules/.collection-visit-Mbph4Qip',
+476 silly reify   '/home/ubuntu/node/node_modules/color': '/home/ubuntu/node/node_modules/.color-J7rmbVdo',
+476 silly reify   '/home/ubuntu/node/node_modules/color-convert': '/home/ubuntu/node/node_modules/.color-convert-TgdMnsXh',
+476 silly reify   '/home/ubuntu/node/node_modules/color-name': '/home/ubuntu/node/node_modules/.color-name-Vf0yxCX3',
+476 silly reify   '/home/ubuntu/node/node_modules/color-string': '/home/ubuntu/node/node_modules/.color-string-MLVbgE1L',
+476 silly reify   '/home/ubuntu/node/node_modules/colors': '/home/ubuntu/node/node_modules/.colors-JrTQFP1g',
+476 silly reify   '/home/ubuntu/node/node_modules/colorspace': '/home/ubuntu/node/node_modules/.colorspace-HrBCLWqW',
+476 silly reify   '/home/ubuntu/node/node_modules/component-emitter': '/home/ubuntu/node/node_modules/.component-emitter-XVWztdA2',
+476 silly reify   '/home/ubuntu/node/node_modules/concat-map': '/home/ubuntu/node/node_modules/.concat-map-hHit22Hk',
+476 silly reify   '/home/ubuntu/node/node_modules/configstore': '/home/ubuntu/node/node_modules/.configstore-GIjf3goV',
+476 silly reify   '/home/ubuntu/node/node_modules/copy-descriptor': '/home/ubuntu/node/node_modules/.copy-descriptor-FfmfOnAv',
+476 silly reify   '/home/ubuntu/node/node_modules/core-util-is': '/home/ubuntu/node/node_modules/.core-util-is-ua75T1IP',
+476 silly reify   '/home/ubuntu/node/node_modules/crypto-random-string': '/home/ubuntu/node/node_modules/.crypto-random-string-FXTGS0QJ',
+476 silly reify   '/home/ubuntu/node/node_modules/decode-uri-component': '/home/ubuntu/node/node_modules/.decode-uri-component-9mrKc3Nj',
+476 silly reify   '/home/ubuntu/node/node_modules/deep-equal': '/home/ubuntu/node/node_modules/.deep-equal-P7ZZwnkl',
+476 silly reify   '/home/ubuntu/node/node_modules/define-properties': '/home/ubuntu/node/node_modules/.define-properties-A7W3bzMu',
+476 silly reify   '/home/ubuntu/node/node_modules/define-property': '/home/ubuntu/node/node_modules/.define-property-BKiAvqbI',
+476 silly reify   '/home/ubuntu/node/node_modules/director': '/home/ubuntu/node/node_modules/.director-3m0wVomT',
+476 silly reify   '/home/ubuntu/node/node_modules/dot-prop': '/home/ubuntu/node/node_modules/.dot-prop-Qn2wu5BJ',
+476 silly reify   '/home/ubuntu/node/node_modules/duplexer': '/home/ubuntu/node/node_modules/.duplexer-xChLkEsv',
+476 silly reify   '/home/ubuntu/node/node_modules/enabled': '/home/ubuntu/node/node_modules/.enabled-6yHW3csA',
+476 silly reify   '/home/ubuntu/node/node_modules/es-abstract': '/home/ubuntu/node/node_modules/.es-abstract-3yKrA7zG',
+476 silly reify   '/home/ubuntu/node/node_modules/es-get-iterator': '/home/ubuntu/node/node_modules/.es-get-iterator-rPATWALA',
+476 silly reify   '/home/ubuntu/node/node_modules/es-to-primitive': '/home/ubuntu/node/node_modules/.es-to-primitive-eTmperPh',
+476 silly reify   '/home/ubuntu/node/node_modules/event-stream': '/home/ubuntu/node/node_modules/.event-stream-9o11yGfQ',
+476 silly reify   '/home/ubuntu/node/node_modules/eventemitter2': '/home/ubuntu/node/node_modules/.eventemitter2-N7yyCoBw',
+476 silly reify   '/home/ubuntu/node/node_modules/expand-brackets': '/home/ubuntu/node/node_modules/.expand-brackets-Kpl1Z7EV',
+476 silly reify   '/home/ubuntu/node/node_modules/extend-shallow': '/home/ubuntu/node/node_modules/.extend-shallow-ovqWIXK7',
+476 silly reify   '/home/ubuntu/node/node_modules/extglob': '/home/ubuntu/node/node_modules/.extglob-Z5pWW7T9',
+476 silly reify   '/home/ubuntu/node/node_modules/fecha': '/home/ubuntu/node/node_modules/.fecha-8sLXCLe1',
+476 silly reify   '/home/ubuntu/node/node_modules/fill-range': '/home/ubuntu/node/node_modules/.fill-range-rgYWiIu3',
+476 silly reify   '/home/ubuntu/node/node_modules/flatiron': '/home/ubuntu/node/node_modules/.flatiron-wqlGXH3Q',
+476 silly reify   '/home/ubuntu/node/node_modules/.bin/flatiron': '/home/ubuntu/node/node_modules/.bin/.flatiron-YcOJdxj4',
+476 silly reify   '/home/ubuntu/node/node_modules/fn.name': '/home/ubuntu/node/node_modules/.fn.name-HIzDPo2M',
+476 silly reify   '/home/ubuntu/node/node_modules/for-each': '/home/ubuntu/node/node_modules/.for-each-VwSFXoL5',
+476 silly reify   '/home/ubuntu/node/node_modules/for-in': '/home/ubuntu/node/node_modules/.for-in-u06n2pFE',
+476 silly reify   '/home/ubuntu/node/node_modules/forever': '/home/ubuntu/node/node_modules/.forever-Bh3dd7Gy',
+476 silly reify   '/home/ubuntu/node/node_modules/.bin/forever': '/home/ubuntu/node/node_modules/.bin/.forever-2rWI8lWa',
+476 silly reify   '/home/ubuntu/node/node_modules/forever-monitor': '/home/ubuntu/node/node_modules/.forever-monitor-yRTyPLt8',
+476 silly reify   '/home/ubuntu/node/node_modules/fragment-cache': '/home/ubuntu/node/node_modules/.fragment-cache-lLOHTNgs',
+476 silly reify   '/home/ubuntu/node/node_modules/from': '/home/ubuntu/node/node_modules/.from-d5V34wD1',
+476 silly reify   '/home/ubuntu/node/node_modules/fs.realpath': '/home/ubuntu/node/node_modules/.fs.realpath-7CD1FLPf',
+476 silly reify   '/home/ubuntu/node/node_modules/function.prototype.name': '/home/ubuntu/node/node_modules/.function.prototype.name-UEoW16n5',
+476 silly reify   '/home/ubuntu/node/node_modules/functions-have-names': '/home/ubuntu/node/node_modules/.functions-have-names-LkWg8HDH',
+476 silly reify   '/home/ubuntu/node/node_modules/get-symbol-description': '/home/ubuntu/node/node_modules/.get-symbol-description-VlhGueb8',
+476 silly reify   '/home/ubuntu/node/node_modules/get-value': '/home/ubuntu/node/node_modules/.get-value-VoBtJqMz',
+476 silly reify   '/home/ubuntu/node/node_modules/glob': '/home/ubuntu/node/node_modules/.glob-ff4AttSJ',
+476 silly reify   '/home/ubuntu/node/node_modules/glob-parent': '/home/ubuntu/node/node_modules/.glob-parent-VR1EapeQ',
+476 silly reify   '/home/ubuntu/node/node_modules/graceful-fs': '/home/ubuntu/node/node_modules/.graceful-fs-geVWXkQz',
+476 silly reify   '/home/ubuntu/node/node_modules/has-bigints': '/home/ubuntu/node/node_modules/.has-bigints-u1KYzOyB',
+476 silly reify   '/home/ubuntu/node/node_modules/has-property-descriptors': '/home/ubuntu/node/node_modules/.has-property-descriptors-plyUvuVt',
+476 silly reify   '/home/ubuntu/node/node_modules/has-tostringtag': '/home/ubuntu/node/node_modules/.has-tostringtag-ypx6yAej',
+476 silly reify   '/home/ubuntu/node/node_modules/has-value': '/home/ubuntu/node/node_modules/.has-value-9E2TekcI',
+476 silly reify   '/home/ubuntu/node/node_modules/has-values': '/home/ubuntu/node/node_modules/.has-values-AezF6Xw9',
+476 silly reify   '/home/ubuntu/node/node_modules/i': '/home/ubuntu/node/node_modules/.i-YJOcIJtG',
+476 silly reify   '/home/ubuntu/node/node_modules/imurmurhash': '/home/ubuntu/node/node_modules/.imurmurhash-HVZG0l4T',
+476 silly reify   '/home/ubuntu/node/node_modules/inflight': '/home/ubuntu/node/node_modules/.inflight-8XXbt01N',
+476 silly reify   '/home/ubuntu/node/node_modules/internal-slot': '/home/ubuntu/node/node_modules/.internal-slot-gZTJyyzh',
+476 silly reify   '/home/ubuntu/node/node_modules/is-accessor-descriptor': '/home/ubuntu/node/node_modules/.is-accessor-descriptor-srnoclTC',
+476 silly reify   '/home/ubuntu/node/node_modules/is-arguments': '/home/ubuntu/node/node_modules/.is-arguments-lNOHUGWu',
+476 silly reify   '/home/ubuntu/node/node_modules/is-arrayish': '/home/ubuntu/node/node_modules/.is-arrayish-XDERTpBD',
+476 silly reify   '/home/ubuntu/node/node_modules/is-bigint': '/home/ubuntu/node/node_modules/.is-bigint-srNFHoMe',
+476 silly reify   '/home/ubuntu/node/node_modules/is-binary-path': '/home/ubuntu/node/node_modules/.is-binary-path-Ld0fMvCi',
+476 silly reify   '/home/ubuntu/node/node_modules/is-boolean-object': '/home/ubuntu/node/node_modules/.is-boolean-object-erQebqT1',
+476 silly reify   '/home/ubuntu/node/node_modules/is-buffer': '/home/ubuntu/node/node_modules/.is-buffer-PgLzBaE2',
+476 silly reify   '/home/ubuntu/node/node_modules/is-callable': '/home/ubuntu/node/node_modules/.is-callable-q9Z8WtJn',
+476 silly reify   '/home/ubuntu/node/node_modules/is-data-descriptor': '/home/ubuntu/node/node_modules/.is-data-descriptor-cAZUnURA',
+476 silly reify   '/home/ubuntu/node/node_modules/is-date-object': '/home/ubuntu/node/node_modules/.is-date-object-LzZ6xvWI',
+476 silly reify   '/home/ubuntu/node/node_modules/is-descriptor': '/home/ubuntu/node/node_modules/.is-descriptor-5Ec9N9Uq',
+476 silly reify   '/home/ubuntu/node/node_modules/is-extendable': '/home/ubuntu/node/node_modules/.is-extendable-u5lokA1q',
+476 silly reify   '/home/ubuntu/node/node_modules/is-extglob': '/home/ubuntu/node/node_modules/.is-extglob-nR2Nz9Xw',
+476 silly reify   '/home/ubuntu/node/node_modules/is-glob': '/home/ubuntu/node/node_modules/.is-glob-kCezSXMJ',
+476 silly reify   '/home/ubuntu/node/node_modules/is-map': '/home/ubuntu/node/node_modules/.is-map-X5t3nrW2',
+476 silly reify   '/home/ubuntu/node/node_modules/is-negative-zero': '/home/ubuntu/node/node_modules/.is-negative-zero-0kr2GcJw',
+476 silly reify   '/home/ubuntu/node/node_modules/is-number': '/home/ubuntu/node/node_modules/.is-number-VaaXils2',
+476 silly reify   '/home/ubuntu/node/node_modules/is-number-object': '/home/ubuntu/node/node_modules/.is-number-object-gdAZ8N0m',
+476 silly reify   '/home/ubuntu/node/node_modules/is-obj': '/home/ubuntu/node/node_modules/.is-obj-XmqENStc',
+476 silly reify   '/home/ubuntu/node/node_modules/is-plain-object': '/home/ubuntu/node/node_modules/.is-plain-object-fIP7tVxw',
+476 silly reify   '/home/ubuntu/node/node_modules/is-regex': '/home/ubuntu/node/node_modules/.is-regex-LlZXyJ3J',
+476 silly reify   '/home/ubuntu/node/node_modules/is-set': '/home/ubuntu/node/node_modules/.is-set-ReVjcB0U',
+476 silly reify   '/home/ubuntu/node/node_modules/is-shared-array-buffer': '/home/ubuntu/node/node_modules/.is-shared-array-buffer-7RZouslA',
+476 silly reify   '/home/ubuntu/node/node_modules/is-stream': '/home/ubuntu/node/node_modules/.is-stream-5O8BggFx',
+476 silly reify   '/home/ubuntu/node/node_modules/is-string': '/home/ubuntu/node/node_modules/.is-string-ZWyYGcaJ',
+476 silly reify   '/home/ubuntu/node/node_modules/is-symbol': '/home/ubuntu/node/node_modules/.is-symbol-lYJBAhxW',
+476 silly reify   '/home/ubuntu/node/node_modules/is-typed-array': '/home/ubuntu/node/node_modules/.is-typed-array-1Cgr0Q6l',
+476 silly reify   '/home/ubuntu/node/node_modules/is-weakmap': '/home/ubuntu/node/node_modules/.is-weakmap-cANZcflC',
+476 silly reify   '/home/ubuntu/node/node_modules/is-weakref': '/home/ubuntu/node/node_modules/.is-weakref-eBdfIKy3',
+476 silly reify   '/home/ubuntu/node/node_modules/is-weakset': '/home/ubuntu/node/node_modules/.is-weakset-ATQEa27b',
+476 silly reify   '/home/ubuntu/node/node_modules/is-windows': '/home/ubuntu/node/node_modules/.is-windows-9WSxELqL',
+476 silly reify   '/home/ubuntu/node/node_modules/isarray': '/home/ubuntu/node/node_modules/.isarray-w1cXmkv6',
+476 silly reify   '/home/ubuntu/node/node_modules/isobject': '/home/ubuntu/node/node_modules/.isobject-DJp093H6',
+476 silly reify   '/home/ubuntu/node/node_modules/kind-of': '/home/ubuntu/node/node_modules/.kind-of-NZy0t258',
+476 silly reify   '/home/ubuntu/node/node_modules/kuler': '/home/ubuntu/node/node_modules/.kuler-GgGwtHbh',
+476 silly reify   '/home/ubuntu/node/node_modules/logform': '/home/ubuntu/node/node_modules/.logform-qsDkn4WG',
+476 silly reify   '/home/ubuntu/node/node_modules/make-dir': '/home/ubuntu/node/node_modules/.make-dir-sS51NHHD',
+476 silly reify   '/home/ubuntu/node/node_modules/map-cache': '/home/ubuntu/node/node_modules/.map-cache-TlrSxEan',
+476 silly reify   '/home/ubuntu/node/node_modules/map-stream': '/home/ubuntu/node/node_modules/.map-stream-I6EcJBzs',
+476 silly reify   '/home/ubuntu/node/node_modules/map-visit': '/home/ubuntu/node/node_modules/.map-visit-LrJXxaWd',
+476 silly reify   '/home/ubuntu/node/node_modules/micromatch': '/home/ubuntu/node/node_modules/.micromatch-ij8V71vO',
+476 silly reify   '/home/ubuntu/node/node_modules/minimatch': '/home/ubuntu/node/node_modules/.minimatch-WvbOka9A',
+476 silly reify   '/home/ubuntu/node/node_modules/mixin-deep': '/home/ubuntu/node/node_modules/.mixin-deep-ri0ZKm3V',
+476 silly reify   '/home/ubuntu/node/node_modules/mute-stream': '/home/ubuntu/node/node_modules/.mute-stream-9O64pxiS',
+476 silly reify   '/home/ubuntu/node/node_modules/nanomatch': '/home/ubuntu/node/node_modules/.nanomatch-0K31Sx1p',
+476 silly reify   '/home/ubuntu/node/node_modules/nconf': '/home/ubuntu/node/node_modules/.nconf-J8rgte33',
+476 silly reify   '/home/ubuntu/node/node_modules/ncp': '/home/ubuntu/node/node_modules/.ncp-YLxTaO5Q',
+476 silly reify   '/home/ubuntu/node/node_modules/.bin/ncp': '/home/ubuntu/node/node_modules/.bin/.ncp-TuBHHNwX',
+476 silly reify   '/home/ubuntu/node/node_modules/normalize-path': '/home/ubuntu/node/node_modules/.normalize-path-PMzEFBld',
+476 silly reify   '/home/ubuntu/node/node_modules/nssocket': '/home/ubuntu/node/node_modules/.nssocket-HgbgZrJh',
+476 silly reify   '/home/ubuntu/node/node_modules/object-assign': '/home/ubuntu/node/node_modules/.object-assign-aMccwi3Z',
+476 silly reify   '/home/ubuntu/node/node_modules/object-copy': '/home/ubuntu/node/node_modules/.object-copy-hoUlc6gD',
+476 silly reify   '/home/ubuntu/node/node_modules/object-is': '/home/ubuntu/node/node_modules/.object-is-ynlK0wlh',
+476 silly reify   '/home/ubuntu/node/node_modules/object-keys': '/home/ubuntu/node/node_modules/.object-keys-lphJw4Ge',
+476 silly reify   '/home/ubuntu/node/node_modules/object-visit': '/home/ubuntu/node/node_modules/.object-visit-td3a283u',
+476 silly reify   '/home/ubuntu/node/node_modules/object.assign': '/home/ubuntu/node/node_modules/.object.assign-BHLqdce9',
+476 silly reify   '/home/ubuntu/node/node_modules/object.pick': '/home/ubuntu/node/node_modules/.object.pick-PoUL60dO',
+476 silly reify   '/home/ubuntu/node/node_modules/once': '/home/ubuntu/node/node_modules/.once-5l2PyMkH',
+476 silly reify   '/home/ubuntu/node/node_modules/one-time': '/home/ubuntu/node/node_modules/.one-time-DefQgzTj',
+476 silly reify   '/home/ubuntu/node/node_modules/optimist': '/home/ubuntu/node/node_modules/.optimist-fwwdCFNN',
+476 silly reify   '/home/ubuntu/node/node_modules/pascalcase': '/home/ubuntu/node/node_modules/.pascalcase-TVd4yO91',
+476 silly reify   '/home/ubuntu/node/node_modules/path-dirname': '/home/ubuntu/node/node_modules/.path-dirname-5XtOrmtx',
+476 silly reify   '/home/ubuntu/node/node_modules/path-is-absolute': '/home/ubuntu/node/node_modules/.path-is-absolute-IiiuaQQI',
+476 silly reify   '/home/ubuntu/node/node_modules/pause-stream': '/home/ubuntu/node/node_modules/.pause-stream-WbUMPO5q',
+476 silly reify   '/home/ubuntu/node/node_modules/pify': '/home/ubuntu/node/node_modules/.pify-4n44oTtl',
+476 silly reify   '/home/ubuntu/node/node_modules/posix-character-classes': '/home/ubuntu/node/node_modules/.posix-character-classes-iNVsKetc',
+476 silly reify   '/home/ubuntu/node/node_modules/prettyjson': '/home/ubuntu/node/node_modules/.prettyjson-WsDQRfI4',
+476 silly reify   '/home/ubuntu/node/node_modules/.bin/prettyjson': '/home/ubuntu/node/node_modules/.bin/.prettyjson-zjJ8Lvpi',
+476 silly reify   '/home/ubuntu/node/node_modules/process-nextick-args': '/home/ubuntu/node/node_modules/.process-nextick-args-ZPsjyNN8',
+476 silly reify   '/home/ubuntu/node/node_modules/prompt': '/home/ubuntu/node/node_modules/.prompt-HOLdYdAX',
+476 silly reify   '/home/ubuntu/node/node_modules/ps-tree': '/home/ubuntu/node/node_modules/.ps-tree-VSnNWLJB',
+476 silly reify   '/home/ubuntu/node/node_modules/.bin/ps-tree': '/home/ubuntu/node/node_modules/.bin/.ps-tree-345nDUoG',
+476 silly reify   '/home/ubuntu/node/node_modules/read': '/home/ubuntu/node/node_modules/.read-FIx0S9dR',
+476 silly reify   '/home/ubuntu/node/node_modules/readable-stream': '/home/ubuntu/node/node_modules/.readable-stream-ZLdkhUFZ',
+476 silly reify   '/home/ubuntu/node/node_modules/readdirp': '/home/ubuntu/node/node_modules/.readdirp-TMPHzNWX',
+476 silly reify   '/home/ubuntu/node/node_modules/regex-not': '/home/ubuntu/node/node_modules/.regex-not-SkrUgeAu',
+476 silly reify   '/home/ubuntu/node/node_modules/regexp.prototype.flags': '/home/ubuntu/node/node_modules/.regexp.prototype.flags-Il8zCVuL',
+476 silly reify   '/home/ubuntu/node/node_modules/remove-trailing-separator': '/home/ubuntu/node/node_modules/.remove-trailing-separator-wbHfkKMM',
+476 silly reify   '/home/ubuntu/node/node_modules/repeat-element': '/home/ubuntu/node/node_modules/.repeat-element-kIORdo4m',
+476 silly reify   '/home/ubuntu/node/node_modules/repeat-string': '/home/ubuntu/node/node_modules/.repeat-string-TQVfK0VO',
+476 silly reify   '/home/ubuntu/node/node_modules/resolve-url': '/home/ubuntu/node/node_modules/.resolve-url-nllRZRFH',
+476 silly reify   '/home/ubuntu/node/node_modules/ret': '/home/ubuntu/node/node_modules/.ret-vwfAT30m',
+476 silly reify   '/home/ubuntu/node/node_modules/revalidator': '/home/ubuntu/node/node_modules/.revalidator-m9f8YSmy',
+476 silly reify   '/home/ubuntu/node/node_modules/rimraf': '/home/ubuntu/node/node_modules/.rimraf-FM4R3MNQ',
+476 silly reify   '/home/ubuntu/node/node_modules/.bin/rimraf': '/home/ubuntu/node/node_modules/.bin/.rimraf-qIr0fbwy',
+476 silly reify   '/home/ubuntu/node/node_modules/safe-regex': '/home/ubuntu/node/node_modules/.safe-regex-RgyfxGx3',
+476 silly reify   '/home/ubuntu/node/node_modules/safe-regex-test': '/home/ubuntu/node/node_modules/.safe-regex-test-lAfY3Ng2',
+476 silly reify   '/home/ubuntu/node/node_modules/safe-stable-stringify': '/home/ubuntu/node/node_modules/.safe-stable-stringify-bRbHDCO6',
+476 silly reify   '/home/ubuntu/node/node_modules/set-value': '/home/ubuntu/node/node_modules/.set-value-o18mI8xE',
+476 silly reify   '/home/ubuntu/node/node_modules/shush': '/home/ubuntu/node/node_modules/.shush-fY0if273',
+476 silly reify   '/home/ubuntu/node/node_modules/signal-exit': '/home/ubuntu/node/node_modules/.signal-exit-ib5qCRch',
+476 silly reify   '/home/ubuntu/node/node_modules/simple-swizzle': '/home/ubuntu/node/node_modules/.simple-swizzle-WfjAulRv',
+476 silly reify   '/home/ubuntu/node/node_modules/snapdragon': '/home/ubuntu/node/node_modules/.snapdragon-WrQUZk5V',
+476 silly reify   '/home/ubuntu/node/node_modules/snapdragon-node': '/home/ubuntu/node/node_modules/.snapdragon-node-b9rl4ivg',
+476 silly reify   '/home/ubuntu/node/node_modules/snapdragon-util': '/home/ubuntu/node/node_modules/.snapdragon-util-XYzfKdit',
+476 silly reify   '/home/ubuntu/node/node_modules/source-map': '/home/ubuntu/node/node_modules/.source-map-pFc3rmqb',
+476 silly reify   '/home/ubuntu/node/node_modules/source-map-resolve': '/home/ubuntu/node/node_modules/.source-map-resolve-5i7ddolE',
+476 silly reify   '/home/ubuntu/node/node_modules/source-map-url': '/home/ubuntu/node/node_modules/.source-map-url-ThJu5M8X',
+476 silly reify   '/home/ubuntu/node/node_modules/split': '/home/ubuntu/node/node_modules/.split-uZ2Ggq9O',
+476 silly reify   '/home/ubuntu/node/node_modules/split-string': '/home/ubuntu/node/node_modules/.split-string-8NxGGaec',
+476 silly reify   '/home/ubuntu/node/node_modules/static-extend': '/home/ubuntu/node/node_modules/.static-extend-AT4QiZBT',
+476 silly reify   '/home/ubuntu/node/node_modules/stream-combiner': '/home/ubuntu/node/node_modules/.stream-combiner-qUxtOu4e',
+476 silly reify   '/home/ubuntu/node/node_modules/string_decoder': '/home/ubuntu/node/node_modules/.string_decoder-2PLApZEi',
+476 silly reify   '/home/ubuntu/node/node_modules/string.prototype.trimend': '/home/ubuntu/node/node_modules/.string.prototype.trimend-pMg3qNNO',
+476 silly reify   '/home/ubuntu/node/node_modules/string.prototype.trimstart': '/home/ubuntu/node/node_modules/.string.prototype.trimstart-5tRaql6b',
+476 silly reify   '/home/ubuntu/node/node_modules/strip-json-comments': '/home/ubuntu/node/node_modules/.strip-json-comments-oE7hpcQw',
+476 silly reify   '/home/ubuntu/node/node_modules/text-hex': '/home/ubuntu/node/node_modules/.text-hex-85ddt0Um',
+476 silly reify   '/home/ubuntu/node/node_modules/through': '/home/ubuntu/node/node_modules/.through-ChteNXpa',
+476 silly reify   '/home/ubuntu/node/node_modules/to-object-path': '/home/ubuntu/node/node_modules/.to-object-path-IzuAeqAz',
+476 silly reify   '/home/ubuntu/node/node_modules/to-regex': '/home/ubuntu/node/node_modules/.to-regex-xn2rQ9ci',
+476 silly reify   '/home/ubuntu/node/node_modules/to-regex-range': '/home/ubuntu/node/node_modules/.to-regex-range-GLCX01T6',
+476 silly reify   '/home/ubuntu/node/node_modules/triple-beam': '/home/ubuntu/node/node_modules/.triple-beam-9RK4x1xS',
+476 silly reify   '/home/ubuntu/node/node_modules/unbox-primitive': '/home/ubuntu/node/node_modules/.unbox-primitive-iqCbXYs8',
+476 silly reify   '/home/ubuntu/node/node_modules/union-value': '/home/ubuntu/node/node_modules/.union-value-5ApR5U7h',
+476 silly reify   '/home/ubuntu/node/node_modules/unique-string': '/home/ubuntu/node/node_modules/.unique-string-KaEjJdSN',
+476 silly reify   '/home/ubuntu/node/node_modules/unset-value': '/home/ubuntu/node/node_modules/.unset-value-NmCZkoYo',
+476 silly reify   '/home/ubuntu/node/node_modules/upath': '/home/ubuntu/node/node_modules/.upath-JIle7ztn',
+476 silly reify   '/home/ubuntu/node/node_modules/urix': '/home/ubuntu/node/node_modules/.urix-UETQfgAw',
+476 silly reify   '/home/ubuntu/node/node_modules/use': '/home/ubuntu/node/node_modules/.use-RZerfNyY',
+476 silly reify   '/home/ubuntu/node/node_modules/util-deprecate': '/home/ubuntu/node/node_modules/.util-deprecate-BgKUShGD',
+476 silly reify   '/home/ubuntu/node/node_modules/utile': '/home/ubuntu/node/node_modules/.utile-ibrHCquT',
+476 silly reify   '/home/ubuntu/node/node_modules/which-boxed-primitive': '/home/ubuntu/node/node_modules/.which-boxed-primitive-aeokCNUJ',
+476 silly reify   '/home/ubuntu/node/node_modules/which-collection': '/home/ubuntu/node/node_modules/.which-collection-7yV9aFGU',
+476 silly reify   '/home/ubuntu/node/node_modules/which-typed-array': '/home/ubuntu/node/node_modules/.which-typed-array-yyEnKQPV',
+476 silly reify   '/home/ubuntu/node/node_modules/winston': '/home/ubuntu/node/node_modules/.winston-W2EQf881',
+476 silly reify   '/home/ubuntu/node/node_modules/winston-transport': '/home/ubuntu/node/node_modules/.winston-transport-hegqwSxh',
+476 silly reify   '/home/ubuntu/node/node_modules/wrappy': '/home/ubuntu/node/node_modules/.wrappy-cNXZA8eD',
+476 silly reify   '/home/ubuntu/node/node_modules/write-file-atomic': '/home/ubuntu/node/node_modules/.write-file-atomic-UYk2TWes',
+476 silly reify   '/home/ubuntu/node/node_modules/xdg-basedir': '/home/ubuntu/node/node_modules/.xdg-basedir-hcU7rvEX'
+476 silly reify }
+477 timing reify:retireShallow Completed in 70ms
+478 timing reify:createSparse Completed in 18ms
+479 timing reify:loadBundles Completed in 0ms
+480 silly audit bulk request {
+480 silly audit   accepts: [ '1.3.8' ],
+480 silly audit   'array-flatten': [ '1.1.1' ],
+480 silly audit   async: [ '0.2.10', '0.1.22', '0.9.0' ],
+480 silly audit   'body-parser': [ '1.20.1' ],
+480 silly audit   cliff: [ '0.1.10', '0.1.7' ],
+480 silly audit   pkginfo: [ '0.3.1', '0.4.1', '0.2.3' ],
+480 silly audit   winston: [ '0.8.3', '0.5.11' ],
+480 silly audit   bytes: [ '3.1.2' ],
+480 silly audit   'call-bind': [ '1.0.2' ],
+480 silly audit   colors: [ '1.0.3', '0.6.2', '0.6.0-1' ],
+480 silly audit   'content-disposition': [ '0.5.4' ],
+480 silly audit   'content-type': [ '1.0.4' ],
+480 silly audit   cookie: [ '0.5.0' ],
+480 silly audit   'cookie-signature': [ '1.0.6' ],
+480 silly audit   cycle: [ '1.0.3' ],
+480 silly audit   debug: [ '2.6.9' ],
+480 silly audit   depd: [ '2.0.0' ],
+480 silly audit   destroy: [ '1.2.0' ],
+480 silly audit   'ee-first': [ '1.1.1' ],
+480 silly audit   encodeurl: [ '1.0.2' ],
+480 silly audit   'escape-html': [ '1.0.3' ],
+480 silly audit   etag: [ '1.8.1' ],
+480 silly audit   express: [ '4.18.2' ],
+480 silly audit   eyes: [ '0.1.8' ],
+480 silly audit   finalhandler: [ '1.2.0' ],
+480 silly audit   forwarded: [ '0.2.0' ],
+480 silly audit   fresh: [ '0.5.2' ],
+480 silly audit   'function-bind': [ '1.1.1' ],
+480 silly audit   'get-intrinsic': [ '1.1.3' ],
+480 silly audit   has: [ '1.0.3' ],
+480 silly audit   'has-symbols': [ '1.0.3' ],
+480 silly audit   'http-errors': [ '2.0.0' ],
+480 silly audit   'iconv-lite': [ '0.4.24' ],
+480 silly audit   inherits: [ '2.0.4' ],
+480 silly audit   'ipaddr.js': [ '1.9.1' ],
+480 silly audit   isstream: [ '0.1.2' ],
+480 silly audit   ms: [ '2.0.0', '2.1.3' ],
+480 silly audit   'media-typer': [ '0.3.0' ],
+480 silly audit   'merge-descriptors': [ '1.0.1' ],
+480 silly audit   methods: [ '1.1.2' ],
+480 silly audit   mime: [ '1.6.0' ],
+480 silly audit   'mime-db': [ '1.52.0' ],
+480 silly audit   'mime-types': [ '2.1.35' ],
+480 silly audit   negotiator: [ '0.6.3' ],
+480 silly audit   'object-inspect': [ '1.12.2' ],
+480 silly audit   'on-finished': [ '2.4.1' ],
+480 silly audit   parseurl: [ '1.3.3' ],
+480 silly audit   'path-to-regexp': [ '0.1.7' ],
+480 silly audit   'proxy-addr': [ '2.0.7' ],
+480 silly audit   qs: [ '6.11.0' ],
+480 silly audit   'range-parser': [ '1.2.1' ],
+480 silly audit   'raw-body': [ '2.5.1' ],
+480 silly audit   'safe-buffer': [ '5.2.1' ],
+480 silly audit   'safer-buffer': [ '2.1.2' ],
+480 silly audit   send: [ '0.18.0' ],
+480 silly audit   'serve-static': [ '1.15.0' ],
+480 silly audit   setprototypeof: [ '1.2.0' ],
+480 silly audit   'side-channel': [ '1.0.4' ],
+480 silly audit   'stack-trace': [ '0.0.10' ],
+480 silly audit   statuses: [ '2.0.1' ],
+480 silly audit   toidentifier: [ '1.0.1' ],
+480 silly audit   'type-is': [ '1.6.18' ],
+480 silly audit   unpipe: [ '1.0.0' ],
+480 silly audit   'utils-merge': [ '1.0.1' ],
+480 silly audit   vary: [ '1.1.2' ],
+480 silly audit   forever: [ '0.9.2' ],
+480 silly audit   broadway: [ '0.1.15' ],
+480 silly audit   daemon: [ '0.5.1' ],
+480 silly audit   flatiron: [ '0.1.2' ],
+480 silly audit   microtime: [ '0.2.0' ],
+480 silly audit   minimatch: [ '0.2.14' ],
+480 silly audit   nconf: [ '0.5.1' ],
+480 silly audit   'node-fork': [ '0.4.2' ],
+480 silly audit   nssocket: [ '0.3.8' ],
+480 silly audit   optimist: [ '0.3.7', '0.3.1', '0.2.8' ],
+480 silly audit   portfinder: [ '0.4.0' ],
+480 silly audit   'ps-tree': [ '0.0.3' ],
+480 silly audit   timespan: [ '2.0.1' ],
+480 silly audit   utile: [ '0.0.10' ],
+480 silly audit   watch: [ '0.5.1' ],
+480 silly audit   eventemitter2: [ '0.4.9' ],
+480 silly audit   director: [ '1.2.8' ],
+480 silly audit   prompt: [ '0.1.12' ],
+480 silly audit   'lru-cache': [ '2.7.3' ],
+480 silly audit   sigmund: [ '1.0.1' ],
+480 silly audit   ini: [ '1.3.8' ],
+480 silly audit   lazy: [ '1.0.11' ],
+480 silly audit   wordwrap: [ '0.0.3' ],
+480 silly audit   mkdirp: [ '0.5.6' ],
+480 silly audit   minimist: [ '1.2.7' ],
+480 silly audit   'event-stream': [ '0.5.3' ],
+480 silly audit   ncp: [ '0.2.7' ],
+480 silly audit   rimraf: [ '1.0.9' ],
+480 silly audit   loggly: [ '0.3.11' ],
+480 silly audit   request: [ '2.9.203' ]
+480 silly audit }
+481 timing reifyNode:node_modules/ps-tree Completed in 216ms
+482 timing reifyNode:node_modules/colors Completed in 236ms
+483 timing reifyNode:node_modules/sigmund Completed in 237ms
+484 timing reifyNode:node_modules/microtime Completed in 238ms
+485 http fetch POST 200 https://registry.npmjs.org/-/npm/v1/security/advisories/bulk 264ms
+486 timing auditReport:getReport Completed in 267ms
+487 silly audit report {
+487 silly audit report   nconf: [
+487 silly audit report     {
+487 silly audit report       id: 1070223,
+487 silly audit report       url: 'https://github.com/advisories/GHSA-6xwr-q98w-rvg7',
+487 silly audit report       title: 'Prototype Pollution in nconf',
+487 silly audit report       severity: 'high',
+487 silly audit report       vulnerable_versions: '<0.11.4',
+487 silly audit report       cwe: [Array],
+487 silly audit report       cvss: [Object]
+487 silly audit report     }
+487 silly audit report   ],
+487 silly audit report   timespan: [
+487 silly audit report     {
+487 silly audit report       id: 1082595,
+487 silly audit report       url: 'https://github.com/advisories/GHSA-f523-2f5j-gfcg',
+487 silly audit report       title: 'Regular Expression Denial of Service in timespan',
+487 silly audit report       severity: 'low',
+487 silly audit report       vulnerable_versions: '<=2.3.0',
+487 silly audit report       cwe: [Array],
+487 silly audit report       cvss: [Object]
+487 silly audit report     }
+487 silly audit report   ],
+487 silly audit report   request: [
+487 silly audit report     {
+487 silly audit report       id: 1083096,
+487 silly audit report       url: 'https://github.com/advisories/GHSA-7xfp-9c55-5vqj',
+487 silly audit report       title: 'Remote Memory Exposure in request',
+487 silly audit report       severity: 'moderate',
+487 silly audit report       vulnerable_versions: '>=2.2.6 <2.47.0',
+487 silly audit report       cwe: [Array],
+487 silly audit report       cvss: [Object]
+487 silly audit report     }
+487 silly audit report   ],
+487 silly audit report   minimatch: [
+487 silly audit report     {
+487 silly audit report       id: 1083108,
+487 silly audit report       url: 'https://github.com/advisories/GHSA-hxm2-r34f-qmc5',
+487 silly audit report       title: 'Regular Expression Denial of Service in minimatch',
+487 silly audit report       severity: 'high',
+487 silly audit report       vulnerable_versions: '<3.0.2',
+487 silly audit report       cwe: [Array],
+487 silly audit report       cvss: [Object]
+487 silly audit report     }
+487 silly audit report   ]
+487 silly audit report }
+488 timing metavuln:packument:nconf Completed in 1ms
+489 timing metavuln:packument:timespan Completed in 1ms
+490 timing metavuln:packument:request Completed in 1ms
+491 timing metavuln:packument:minimatch Completed in 0ms
+492 timing reifyNode:node_modules/portfinder Completed in 273ms
+493 timing reifyNode:node_modules/winston/node_modules/colors Completed in 275ms
+494 timing reifyNode:node_modules/rimraf Completed in 275ms
+495 timing reifyNode:node_modules/prompt/node_modules/colors Completed in 275ms
+496 timing reifyNode:node_modules/broadway/node_modules/cliff/node_modules/colors Completed in 277ms
+497 timing reifyNode:node_modules/portfinder/node_modules/async Completed in 278ms
+498 timing reifyNode:node_modules/async Completed in 282ms
+499 timing reifyNode:node_modules/lru-cache Completed in 288ms
+500 timing reifyNode:node_modules/timespan Completed in 288ms
+501 timing reifyNode:node_modules/daemon Completed in 298ms
+502 warn deprecated minimatch@0.2.14: Please update to minimatch 3.0.2 or higher to avoid a RegExp DoS issue
+503 timing reifyNode:node_modules/minimatch Completed in 301ms
+504 timing reifyNode:node_modules/pkginfo Completed in 303ms
+505 timing reifyNode:node_modules/watch Completed in 307ms
+506 timing metavuln:cache:get:security-advisory:nconf:/t62kYCyWl+VKCTafMdtcARwlBscjmb43UeazMwWq9XbelP0AYkALnEMJ/QIxvQ0ylTN4ceXaN0NVJpVMQ14YA== Completed in 56ms
+507 timing metavuln:load:security-advisory:nconf:1070223 Completed in 0ms
+508 timing metavuln:calculate:security-advisory:nconf:1070223 Completed in 56ms
+509 timing metavuln:cache:get:security-advisory:timespan:t0j5R6VQ6GBmif72xjXswMoTp5BpfXPVzUa2VOTsLzzfQDS5A6xwniB4SJMGCRA1AymgBjedIFOqk8ScjJxbSA== Completed in 55ms
+510 timing metavuln:load:security-advisory:timespan:1082595 Completed in 1ms
+511 timing metavuln:calculate:security-advisory:timespan:1082595 Completed in 56ms
+512 timing metavuln:cache:get:security-advisory:request:TRvEk+4G4vmYhgY2SrOvNW3KQz5zbP2f5meSXhJhrqeJ17oWtXOLR/FRO8zKP/PVvThuaS3/csFQeqAqlpbELQ== Completed in 56ms
+513 timing metavuln:load:security-advisory:request:1083096 Completed in 0ms
+514 timing metavuln:calculate:security-advisory:request:1083096 Completed in 56ms
+515 timing metavuln:cache:get:security-advisory:minimatch:suNiRY4PCngGdTtYq2bxGydwdHO9MIBbv2LNVWGR49Skd38ml7xPwbTZH5q9voTKoo8TPSL0A+buVn3h4J+IWw== Completed in 57ms
+516 timing metavuln:load:security-advisory:minimatch:1083108 Completed in 0ms
+517 timing metavuln:calculate:security-advisory:minimatch:1083108 Completed in 57ms
+518 timing metavuln:packument:forever Completed in 1ms
+519 timing metavuln:packument:broadway Completed in 0ms
+520 timing reifyNode:node_modules/event-stream Completed in 316ms
+521 timing reifyNode:node_modules/winston/node_modules/pkginfo Completed in 317ms
+522 timing reifyNode:node_modules/nconf/node_modules/pkginfo Completed in 319ms
+523 timing reifyNode:node_modules/flatiron/node_modules/pkginfo Completed in 319ms
+524 timing reifyNode:node_modules/nssocket Completed in 323ms
+525 timing reifyNode:node_modules/ncp Completed in 327ms
+526 timing metavuln:cache:get:security-advisory:forever:LO2NbVIR2rStnR6yBLhi7uP5U2FdkDBW/50dS2AX72tiOUS7Egkv0lzr1OKVj+NT6j4zPL0+pS23rx4MMgPn9A== Completed in 27ms
+527 timing metavuln:load:security-advisory:forever:/t62kYCyWl+VKCTafMdtcARwlBscjmb43UeazMwWq9XbelP0AYkALnEMJ/QIxvQ0ylTN4ceXaN0NVJpVMQ14YA== Completed in 1ms
+528 timing metavuln:calculate:security-advisory:forever:/t62kYCyWl+VKCTafMdtcARwlBscjmb43UeazMwWq9XbelP0AYkALnEMJ/QIxvQ0ylTN4ceXaN0NVJpVMQ14YA== Completed in 28ms
+529 timing metavuln:cache:get:security-advisory:broadway:Fw2bebDAQ6kXrEz53M86XFuTVhGyhaa/8CHBIsMjzMAzNLbut4dlsbD8sGWltJl9Cm7v6i3bSO0Y0/NKa30JPw== Completed in 27ms
+530 timing metavuln:load:security-advisory:broadway:/t62kYCyWl+VKCTafMdtcARwlBscjmb43UeazMwWq9XbelP0AYkALnEMJ/QIxvQ0ylTN4ceXaN0NVJpVMQ14YA== Completed in 0ms
+531 timing metavuln:calculate:security-advisory:broadway:/t62kYCyWl+VKCTafMdtcARwlBscjmb43UeazMwWq9XbelP0AYkALnEMJ/QIxvQ0ylTN4ceXaN0NVJpVMQ14YA== Completed in 27ms
+532 timing metavuln:packument:loggly Completed in 0ms
+533 timing reifyNode:node_modules/utile Completed in 341ms
+534 timing reifyNode:node_modules/prompt Completed in 343ms
+535 timing reifyNode:node_modules/flatiron/node_modules/optimist Completed in 344ms
+536 timing reifyNode:node_modules/event-stream/node_modules/optimist Completed in 344ms
+537 timing reifyNode:node_modules/broadway/node_modules/optimist Completed in 344ms
+538 timing reifyNode:node_modules/flatiron Completed in 348ms
+539 timing reifyNode:node_modules/optimist Completed in 350ms
+540 timing metavuln:cache:get:security-advisory:forever:o3VGE+QwtSDW5k5juueT9e0/FFJEe0TjyqOGoFr8Kv2BizUI1Lz2X/Z98HRPMzfBX1fjhkfHai/jwXQvuobTTw== Completed in 17ms
+541 timing metavuln:load:security-advisory:forever:t0j5R6VQ6GBmif72xjXswMoTp5BpfXPVzUa2VOTsLzzfQDS5A6xwniB4SJMGCRA1AymgBjedIFOqk8ScjJxbSA== Completed in 0ms
+542 timing metavuln:calculate:security-advisory:forever:t0j5R6VQ6GBmif72xjXswMoTp5BpfXPVzUa2VOTsLzzfQDS5A6xwniB4SJMGCRA1AymgBjedIFOqk8ScjJxbSA== Completed in 17ms
+543 timing metavuln:cache:get:security-advisory:loggly:sBVn5ktwJepYMa+v66RaTEolm1+U8F1FOayKgo5oeMoWVhmKSrc9IwK751wsFII101A4p8lmWb+OpmcLsVyxLw== Completed in 16ms
+544 timing metavuln:load:security-advisory:loggly:t0j5R6VQ6GBmif72xjXswMoTp5BpfXPVzUa2VOTsLzzfQDS5A6xwniB4SJMGCRA1AymgBjedIFOqk8ScjJxbSA== Completed in 0ms
+545 timing metavuln:calculate:security-advisory:loggly:t0j5R6VQ6GBmif72xjXswMoTp5BpfXPVzUa2VOTsLzzfQDS5A6xwniB4SJMGCRA1AymgBjedIFOqk8ScjJxbSA== Completed in 17ms
+546 timing reifyNode:node_modules/eventemitter2 Completed in 356ms
+547 timing reifyNode:node_modules/node-fork Completed in 357ms
+548 timing reifyNode:node_modules/broadway/node_modules/cliff Completed in 363ms
+549 timing metavuln:cache:get:security-advisory:loggly:aTq4anASelADptQQ+cqaVDQllqvXxxGe3h9vxP7BSWuW9414buj+Ac1uggecjgPxnlfbarWo+sr/oSgfjdL//Q== Completed in 9ms
+550 timing metavuln:load:security-advisory:loggly:TRvEk+4G4vmYhgY2SrOvNW3KQz5zbP2f5meSXhJhrqeJ17oWtXOLR/FRO8zKP/PVvThuaS3/csFQeqAqlpbELQ== Completed in 0ms
+551 timing metavuln:calculate:security-advisory:loggly:TRvEk+4G4vmYhgY2SrOvNW3KQz5zbP2f5meSXhJhrqeJ17oWtXOLR/FRO8zKP/PVvThuaS3/csFQeqAqlpbELQ== Completed in 9ms
+552 timing reifyNode:node_modules/loggly Completed in 369ms
+553 timing metavuln:cache:get:security-advisory:forever:0trrZUms7bRCJnT1znCQizpe8NZfDH3SDUapCvAm0b1fvHCgS/f4+nsyOcRzmvWnix/CYd8dTjtklcOzYFkclg== Completed in 10ms
+554 timing metavuln:load:security-advisory:forever:suNiRY4PCngGdTtYq2bxGydwdHO9MIBbv2LNVWGR49Skd38ml7xPwbTZH5q9voTKoo8TPSL0A+buVn3h4J+IWw== Completed in 0ms
+555 timing metavuln:calculate:security-advisory:forever:suNiRY4PCngGdTtYq2bxGydwdHO9MIBbv2LNVWGR49Skd38ml7xPwbTZH5q9voTKoo8TPSL0A+buVn3h4J+IWw== Completed in 10ms
+556 timing metavuln:packument:flatiron Completed in 1ms
+557 timing metavuln:cache:get:security-advisory:forever:8sOUhXbJ7QASV4OvLe39O1tNvJwuHXAl7yQ8834HLJ5bZHYZ5sXckT2B+zq+ynEWRBVZjHba29/znGsum/NteA== Completed in 11ms
+558 timing metavuln:load:security-advisory:forever:Fw2bebDAQ6kXrEz53M86XFuTVhGyhaa/8CHBIsMjzMAzNLbut4dlsbD8sGWltJl9Cm7v6i3bSO0Y0/NKa30JPw== Completed in 0ms
+559 timing metavuln:calculate:security-advisory:forever:Fw2bebDAQ6kXrEz53M86XFuTVhGyhaa/8CHBIsMjzMAzNLbut4dlsbD8sGWltJl9Cm7v6i3bSO0Y0/NKa30JPw== Completed in 11ms
+560 timing metavuln:cache:get:security-advisory:flatiron:VHZOprnIMCzFrYskmG2tpOnxKxJmOEB8kiZwJsnuyeaJXJf5EEfqOV9w5sD96xvTNbq5ACyhRb/GQdKXc+WSVg== Completed in 11ms
+561 timing metavuln:load:security-advisory:flatiron:Fw2bebDAQ6kXrEz53M86XFuTVhGyhaa/8CHBIsMjzMAzNLbut4dlsbD8sGWltJl9Cm7v6i3bSO0Y0/NKa30JPw== Completed in 1ms
+562 timing metavuln:calculate:security-advisory:flatiron:Fw2bebDAQ6kXrEz53M86XFuTVhGyhaa/8CHBIsMjzMAzNLbut4dlsbD8sGWltJl9Cm7v6i3bSO0Y0/NKa30JPw== Completed in 12ms
+563 timing metavuln:packument:winston Completed in 1ms
+564 warn deprecated request@2.9.203: request has been deprecated, see https://github.com/request/request/issues/3142
+565 timing reifyNode:node_modules/request Completed in 404ms
+566 timing metavuln:cache:get:security-advisory:winston:EJm6S1YlPTc3mFfe3i+Mlyf/WjSJBUgm86D+cxzCTDvD5rybMQGa7cDalf3Dz6rwQlwQvfokE9VrDaH4xjo1pg== Completed in 9ms
+567 timing metavuln:load:security-advisory:winston:sBVn5ktwJepYMa+v66RaTEolm1+U8F1FOayKgo5oeMoWVhmKSrc9IwK751wsFII101A4p8lmWb+OpmcLsVyxLw== Completed in 0ms
+568 timing metavuln:calculate:security-advisory:winston:sBVn5ktwJepYMa+v66RaTEolm1+U8F1FOayKgo5oeMoWVhmKSrc9IwK751wsFII101A4p8lmWb+OpmcLsVyxLw== Completed in 9ms
+569 timing metavuln:packument:cliff Completed in 0ms
+570 timing metavuln:packument:prompt Completed in 1ms
+571 timing reifyNode:node_modules/nconf Completed in 419ms
+572 timing metavuln:cache:get:security-advisory:forever:kv5gq5CwH6AD0MEe8QnbC9SNcNvBLu2AQInWdr0XrOo0Zm/b0eq3Jl9K6DMkznH5BUcFbpxSaNM33ZxpfyTnlw== Completed in 16ms
+573 timing metavuln:load:security-advisory:forever:EJm6S1YlPTc3mFfe3i+Mlyf/WjSJBUgm86D+cxzCTDvD5rybMQGa7cDalf3Dz6rwQlwQvfokE9VrDaH4xjo1pg== Completed in 1ms
+574 timing metavuln:calculate:security-advisory:forever:EJm6S1YlPTc3mFfe3i+Mlyf/WjSJBUgm86D+cxzCTDvD5rybMQGa7cDalf3Dz6rwQlwQvfokE9VrDaH4xjo1pg== Completed in 17ms
+575 timing metavuln:cache:get:security-advisory:broadway:gRwRdZ4fNPm20NUWpoYcjwfnIuqK5aDojFzNHoWHo8VLGNDsiDIEhuMd3m6l6oubqLWfNpqT/nAi7MEZYx+8yQ== Completed in 17ms
+576 timing metavuln:load:security-advisory:broadway:EJm6S1YlPTc3mFfe3i+Mlyf/WjSJBUgm86D+cxzCTDvD5rybMQGa7cDalf3Dz6rwQlwQvfokE9VrDaH4xjo1pg== Completed in 0ms
+577 timing metavuln:calculate:security-advisory:broadway:EJm6S1YlPTc3mFfe3i+Mlyf/WjSJBUgm86D+cxzCTDvD5rybMQGa7cDalf3Dz6rwQlwQvfokE9VrDaH4xjo1pg== Completed in 17ms
+578 timing metavuln:cache:get:security-advisory:cliff:QXu4DlSBLYjsmxhnaUiz3mG7YPHlv1su8iedD6k0DwFcNR9QZuL/Q0q1cNYuw0afjWn9hjrOS1MxCqPMuO9A0Q== Completed in 17ms
+579 timing metavuln:load:security-advisory:cliff:EJm6S1YlPTc3mFfe3i+Mlyf/WjSJBUgm86D+cxzCTDvD5rybMQGa7cDalf3Dz6rwQlwQvfokE9VrDaH4xjo1pg== Completed in 0ms
+580 timing metavuln:calculate:security-advisory:cliff:EJm6S1YlPTc3mFfe3i+Mlyf/WjSJBUgm86D+cxzCTDvD5rybMQGa7cDalf3Dz6rwQlwQvfokE9VrDaH4xjo1pg== Completed in 17ms
+581 timing metavuln:cache:get:security-advisory:prompt:MN3SvnbT9DCjULpdBdOe65Ssn4GJPP4b+xdsO2iY6v2fsCQEyTZbKxdYg3xOiE3Zcpqf5vPtYKCPq3BDa8YZow== Completed in 18ms
+582 timing metavuln:load:security-advisory:prompt:EJm6S1YlPTc3mFfe3i+Mlyf/WjSJBUgm86D+cxzCTDvD5rybMQGa7cDalf3Dz6rwQlwQvfokE9VrDaH4xjo1pg== Completed in 0ms
+583 timing metavuln:calculate:security-advisory:prompt:EJm6S1YlPTc3mFfe3i+Mlyf/WjSJBUgm86D+cxzCTDvD5rybMQGa7cDalf3Dz6rwQlwQvfokE9VrDaH4xjo1pg== Completed in 18ms
+584 timing reifyNode:node_modules/broadway Completed in 427ms
+585 timing metavuln:cache:get:security-advisory:broadway:DUeYe8Fc4nkgy4D7uOjRkpVi/hW9iDgY5hHdIDYzToiKS9zRpAcdSLg7bsXXWhOv3OulzumDCxGcky+cMBndNA== Completed in 7ms
+586 timing metavuln:load:security-advisory:broadway:QXu4DlSBLYjsmxhnaUiz3mG7YPHlv1su8iedD6k0DwFcNR9QZuL/Q0q1cNYuw0afjWn9hjrOS1MxCqPMuO9A0Q== Completed in 0ms
+587 timing metavuln:calculate:security-advisory:broadway:QXu4DlSBLYjsmxhnaUiz3mG7YPHlv1su8iedD6k0DwFcNR9QZuL/Q0q1cNYuw0afjWn9hjrOS1MxCqPMuO9A0Q== Completed in 7ms
+588 timing metavuln:cache:get:security-advisory:flatiron:m9mINQitT2246Ec/uQNEqaGBXLqoH3O0WAOrUwh1brZVJCxVQwgDmD5g/GjLqMOCrBywm37pbS29ucfKuAsXOA== Completed in 5ms
+589 timing metavuln:load:security-advisory:flatiron:MN3SvnbT9DCjULpdBdOe65Ssn4GJPP4b+xdsO2iY6v2fsCQEyTZbKxdYg3xOiE3Zcpqf5vPtYKCPq3BDa8YZow== Completed in 0ms
+590 timing metavuln:calculate:security-advisory:flatiron:MN3SvnbT9DCjULpdBdOe65Ssn4GJPP4b+xdsO2iY6v2fsCQEyTZbKxdYg3xOiE3Zcpqf5vPtYKCPq3BDa8YZow== Completed in 5ms
+591 timing reifyNode:node_modules/director Completed in 437ms
+592 timing metavuln:cache:get:security-advisory:forever:bJO8MmFsmZSzqsBzPTolFDu1PdVHAok/P7tX9JS32OP9bYsO8yao3xgpmXrrBc+RA/kyqF2gKoDLB+OqJJXn3w== Completed in 3ms
+593 timing metavuln:load:security-advisory:forever:m9mINQitT2246Ec/uQNEqaGBXLqoH3O0WAOrUwh1brZVJCxVQwgDmD5g/GjLqMOCrBywm37pbS29ucfKuAsXOA== Completed in 1ms
+594 timing metavuln:calculate:security-advisory:forever:m9mINQitT2246Ec/uQNEqaGBXLqoH3O0WAOrUwh1brZVJCxVQwgDmD5g/GjLqMOCrBywm37pbS29ucfKuAsXOA== Completed in 4ms
+595 timing auditReport:init Completed in 188ms
+596 timing reify:audit Completed in 455ms
+597 timing reifyNode:node_modules/forever Completed in 441ms
+598 timing reifyNode:node_modules/winston Completed in 444ms
+599 timing reify:unpack Completed in 446ms
+600 timing reify:unretire Completed in 1ms
+601 timing build:queue Completed in 3ms
+602 info run daemon@0.5.1 preinstall node_modules/daemon bash ./install
+603 info run node-fork@0.4.2 preinstall node_modules/node-fork bash ./install
+604 info run daemon@0.5.1 preinstall { code: 0, signal: null }
+605 timing build:run:preinstall:node_modules/daemon Completed in 34ms
+606 info run node-fork@0.4.2 preinstall { code: 0, signal: null }
+607 timing build:run:preinstall:node_modules/node-fork Completed in 33ms
+608 timing build:run:preinstall Completed in 44ms
+609 timing build:link:node_modules/flatiron Completed in 5ms
+610 timing build:link:node_modules/forever Completed in 4ms
+611 timing build:link:node_modules/ncp Completed in 3ms
+612 timing build:link Completed in 5ms
+613 info run microtime@0.2.0 install node_modules/microtime node-waf configure build
+614 info run microtime@0.2.0 install { code: 127, signal: null }
+615 timing reify:rollback:createSparse Completed in 220ms
+616 timing reify:rollback:retireShallow Completed in 34ms
+617 timing command:audit Completed in 3591ms
+618 verbose stack Error: command failed
+618 verbose stack     at ChildProcess.<anonymous> (/usr/share/nodejs/@npmcli/promise-spawn/index.js:64:27)
+618 verbose stack     at ChildProcess.emit (events.js:314:20)
+618 verbose stack     at maybeClose (internal/child_process.js:1022:16)
+618 verbose stack     at Socket.<anonymous> (internal/child_process.js:444:11)
+618 verbose stack     at Socket.emit (events.js:314:20)
+618 verbose stack     at Pipe.<anonymous> (net.js:676:12)
+619 verbose pkgid microtime@0.2.0
+620 verbose cwd /home/ubuntu/node
+621 verbose Linux 5.15.0-1020-aws
+622 verbose argv "/usr/bin/node" "/usr/bin/npm" "audit" "fix" "--force"
+623 verbose node v12.22.9
+624 verbose npm  v8.5.1
+625 error code 127
+626 error path /home/ubuntu/node/node_modules/microtime
+627 error command failed
+628 error command sh -c node-waf configure build
+629 error sh: 1: node-waf: not found
+630 verbose exit 127
+631 timing npm Completed in 3872ms
+632 verbose unfinished npm timer reify 1665631657139
+633 verbose unfinished npm timer reify:build 1665631659023
+634 verbose unfinished npm timer build 1665631659024
+635 verbose unfinished npm timer build:deps 1665631659024
+636 verbose unfinished npm timer build:run:install 1665631659077
+637 verbose unfinished npm timer build:run:install:node_modules/microtime 1665631659077
+638 verbose code 127
+639 error A complete log of this run can be found in:
+639 error     /home/ubuntu/.npm/_logs/2022-10-13T03_27_35_477Z-debug-0.log
